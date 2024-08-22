@@ -4,8 +4,11 @@ import requests
 from PIL import Image, ImageOps
 from io import BytesIO
 
-st.markdown("""<style>.centered-title {text-align: center;}</style>""",unsafe_allow_html=True)
+st.markdown(
+    """<style>.centered-title {text-align: center;}</style>""", unsafe_allow_html=True
+)
 st.markdown("<h1 class='centered-title'>BUKU KATING</h1>", unsafe_allow_html=True)
+
 
 # bagian sini jangan diubah
 def streamlit_menu():
@@ -47,6 +50,7 @@ def streamlit_menu():
     )
     return selected
 
+
 @st.cache_data
 def load_image(url):
     response = requests.get(url)
@@ -63,7 +67,8 @@ def load_image(url):
     except Exception as e:
         st.error(f"Error loading image: {e}")
         return None
-    
+
+
 @st.cache_data
 def display_images_with_data(gambar_urls, data_list):
     images = []
@@ -91,10 +96,13 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Pesan: {data_list[i]['pesan']}")
             st.write("  ")
     st.write("Semua gambar telah dimuat!")
+
+
 menu = streamlit_menu()
 
 # BAGIAN SINI YANG HANYA BOLEH DIUABAH
 if menu == "Kesekjenan":
+
     def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -104,42 +112,44 @@ if menu == "Kesekjenan":
         data_list = [
             {
                 "nama": "Kakak A",
-                "nim": "122450000",
+                "nim": "122450001",
                 "umur": "18",
-                "asal":"Bekasi",
+                "asal": "Bekasi",
                 "alamat": "Gg.sakum",
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",
+                "pesan": "semangat terus kuliahnya kakak !!!",  # 1
             },
             {
                 "nama": "Kakak B",
                 "nim": "122450000",
                 "umur": "18",
-                "asal":"Bekasi",
+                "asal": "Bekasi",
                 "alamat": "Gg.sakum",
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",
+                "pesan": "semangat terus kuliahnya kakak !!!",  # 1
             },
             {
                 "nama": "Kakak CC",
                 "nim": "122450000",
                 "umur": "18",
-                "asal":"Bekasi",
+                "asal": "Bekasi",
                 "alamat": "Gg.sakum",
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",
+                "pesan": "semangat terus kuliahnya kakak !!!",  # 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
+
     kesekjenan()
 
 elif menu == "Baleg":
+
     def baleg():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -151,37 +161,38 @@ elif menu == "Baleg":
                 "nama": "Kakak D",
                 "nim": "122450000",
                 "umur": "18",
-                "asal":"Bekasi",
+                "asal": "Bekasi",
                 "alamat": "Gg.sakum",
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",
+                "pesan": "semangat terus kuliahnya kakak !!!",
             },
             {
                 "nama": "Kakak E",
                 "nim": "122450000",
                 "umur": "18",
-                "asal":"Bekasi",
+                "asal": "Bekasi",
                 "alamat": "Gg.sakum",
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",
+                "pesan": "semangat terus kuliahnya kakak !!!",  # 1
             },
             {
                 "nama": "Kakak DD",
                 "nim": "122450000",
                 "umur": "18",
-                "asal":"Bekasi",
+                "asal": "Bekasi",
                 "alamat": "Gg.sakum",
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",
+                "pesan": "semangat terus kuliahnya kakak !!!",  # 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
+
     baleg()
 
 # Tambahkan menu lainnya sesuai kebutuhan
