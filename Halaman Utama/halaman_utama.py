@@ -146,8 +146,8 @@ elif menu == "About Us":
                 "nama": "Ahmad Rizky",
                 "sebagai": "Pak Lurah",
                 "nim": "123450050",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "fun_fact": "Gampang tidur",
+                "motto_hidup": "gampang, tidur!",
             },
             {
                 "nama": "B",
