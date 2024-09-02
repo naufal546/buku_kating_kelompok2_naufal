@@ -147,7 +147,7 @@ elif menu == "About Us":
                 "sebagai": "Pak Lurah",
                 "nim": "123450050",
                 "fun_fact": "gampang tidur",
-                "motto_hidup": "gampang, tidur!",
+                "motto_hidup": "now is now, then is then",
             },
             {
                 "nama": "B",
