@@ -1,0 +1,5 @@
+# Ignore ALL files in ANY directory named .venv
+.venv/
+
+# Ignore All vscode configuration files
+.vscode/
