@@ -1,1 +1,1 @@
-<p style="font-weight: bold;">WORK IN PROGRESS</p>
+<p align="center"><strong>WORK IN PROGRESS</strong></p>
