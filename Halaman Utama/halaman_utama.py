@@ -139,8 +139,8 @@ elif menu == "About Us":
                 "nama": "Ahmad Rizky",
                 "sebagai": "Pak Lurah",
                 "nim": "123450050",
-                "fun_fact": "gampang tidur",
-                "motto_hidup": "gampang, tidur!",
+                "fun_fact": "Sebenernya mau jadi pemain bola kaya lionel messi biar bisa bawa indonesia ke pildun",
+                "motto_hidup": "now is now, then is then.",
             },
             {
                 "nama": "Sonya",
