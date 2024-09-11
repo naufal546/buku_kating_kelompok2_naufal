@@ -126,7 +126,7 @@ elif menu == "About Us":
             """<style>.centered-title {text-align: center;}</style>""",
             unsafe_allow_html=True,
         )
-        st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 class='centered-title'>Cosval Punya Cerita!!!</h1>", unsafe_allow_html=True)
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
