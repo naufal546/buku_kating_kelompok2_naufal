@@ -58,7 +58,7 @@ def layout(url):
     with col1:
         st.write("")  # Menyisakan kolom kosong
     with col2:
-        st.image(load_image(url), use_column_width="True", width=350)
+        st.image(load_image(url), use_column_width=True, width=350)
     with col3:
         st.write("")  # Menyisakan kolom kosong
 
@@ -102,7 +102,7 @@ if menu == "Home":
             "<h1 class='centered-title'>Deskripsi Kelompok</h1>", unsafe_allow_html=True 
         )
         st.markdown(
-            """<div style="text-align: justify;">Cosval adalah singkatan dari cosinie similiaity value, 
+            """<div style="text-align: justify;">Cosval adalah singkatan dari cosine similiarity value, 
             dan dalam konteks kelompok kami, cosval memiliki pengertian bagaiamanapun setiap anggota dari kelompok kami itu memiliki nilai 
             dan pandangannya masing-masing, kami tetap bersatu demi mencapai tujuan yang
             satu pula yaitu cosval yang satu dan bermaslahat.</div>""",
@@ -143,7 +143,7 @@ elif menu == "About Us":
                 "motto_hidup": "gampang, tidur!",
             },
             {
-                "nama": "B",
+                "nama": "Sonya",
                 "sebagai": "Bu Lurah",
                 "nim": "122450000",
                 "fun_fact": "nyemilin es bata",
