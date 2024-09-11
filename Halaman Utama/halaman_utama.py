@@ -150,11 +150,11 @@ elif menu == "About Us":
                 "motto_hidup": "gampang, tidur!",
             },
             {
-                "nama": "B",
+                "nama": "Devyna Sonya Palupi Sanjaya",
                 "sebagai": "Bu Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "123450007",
+                "fun_fact": "dengerin bernadya 24/7",
+                "motto_hidup": "everything happens for a reason",
             },
             {
                 "nama": "C",
