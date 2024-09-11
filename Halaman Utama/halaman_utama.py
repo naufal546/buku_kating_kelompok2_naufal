@@ -103,7 +103,7 @@ if menu == "Home":
         )
         st.markdown(
             """<div style="text-align: justify;">Cosval adalah singkatan dari cosine similiarity value, 
-            dan dalam konteks kelompok kami, cosval memiliki pengertian bagaiamanapun setiap anggota dari kelompok kami itu memiliki nilai 
+            dan dalam konteks kelompok kami, cosval memiliki pengertian bagaimanapun setiap anggota dari kelompok kami itu memiliki nilai 
             dan pandangannya masing-masing, kami tetap bersatu demi mencapai tujuan yang
             satu pula yaitu cosval yang satu dan bermaslahat.</div>""",
             unsafe_allow_html=True,
@@ -129,7 +129,7 @@ elif menu == "About Us":
         st.markdown("<h1 class='centered-title'>Cosval Punya Cerita!!!</h1>", unsafe_allow_html=True)
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=17IHwnjun_lUPkqyYlOTA2c6rCzXMF6j1",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=17QRCCkrjuZ-0r7mkw2Of1GKTL2tsOe40",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -143,11 +143,11 @@ elif menu == "About Us":
                 "motto_hidup": "now is now, then is then.",
             },
             {
-                "nama": "Sonya",
+                "nama": "Devyna Sonya Palupi Sanjaya",
                 "sebagai": "Bu Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "123450007",
+                "fun_fact": "Dengerin lagu Bernadya 24/7",
+                "motto_hidup": "everything happens for a reason",
             },
             {
                 "nama": "C",
