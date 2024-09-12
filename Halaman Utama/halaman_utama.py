@@ -153,7 +153,7 @@ elif menu == "About Us":
                 "nama": "Fadil Prasetyo Alfarizzi",
                 "sebagai": "Anggota",
                 "nim": "123450048",
-                "fun_fact": "softboy abiz",
+                "fun_fact": "softboy abizzzz",
                 "motto_hidup": "kill the past",
             },
             {
