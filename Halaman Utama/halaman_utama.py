@@ -133,6 +133,8 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1Q7Rs5epvN8usr5QHfUNtfvdMJT6xhBjt",
             "https://drive.google.com/uc?export=view&id=1rjgDBRcs65bYxr8LvfZQDCxiXlbncldT",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1Aqc4h6KVwSWlbX-xHhJWkhBM_cAj85RC",
         ]
         data_list = [
             {
@@ -164,11 +166,11 @@ elif menu == "About Us":
                 "motto_hidup": "jangan pernah menyerah sebelum mencoba",
             },
             {
-                "nama": "E",
+                "nama": "Intan Nursyabani",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450081",
+                "fun_fact": "tempe for life",
+                "motto_hidup": "worst maybe could be the best, because almost everything is paradox",
             },
              {
                 "nama": "F",
