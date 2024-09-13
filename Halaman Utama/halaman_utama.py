@@ -133,6 +133,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1Q7Rs5epvN8usr5QHfUNtfvdMJT6xhBjt",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1YLCvZiZWUyio25SpYRddOKM9o7qMtEYS",
         ]
         data_list = [
             {
@@ -171,11 +172,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu keles",
             },
              {
-                "nama": "F",
+                "nama": "Vania Claresta",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450029",
+                "fun_fact": "beli barang karena lucu",
+                "motto_hidup": "with God all things are possible -Matthew 19:26",
             },
              {
                 "nama": "G",
