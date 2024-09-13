@@ -140,7 +140,6 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1eGfyDbA8G4MauY8mf2xfC_DoBHFE13kv",
             "https://drive.google.com/uc?export=view&id=1p5c2pu-zlI6u9irYj_ipJfhA4J4E4FRu",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-           
         ]
         data_list = [
             {
