@@ -135,7 +135,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1Aqc4h6KVwSWlbX-xHhJWkhBM_cAj85RC",
             "https://drive.google.com/uc?export=view&id=1YLCvZiZWUyio25SpYRddOKM9o7qMtEYS",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1KevS5s4qJh77sU3yNfkwMt8MUZBIwh98",
 
         ]
         data_list = [
@@ -189,11 +189,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu keles",
             },
              {
-                "nama": "H",
+                "nama": "Malika Azzahra Salsabila",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450090",
+                "fun_fact": "Minum kopi biar bisa tidur",
+                "motto_hidup": "When life gives you lemons, don't make lemonade. Make life take the lemons back.",
             },
              {
                 "nama": "I",
