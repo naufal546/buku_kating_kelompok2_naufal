@@ -131,6 +131,8 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=17IHwnjun_lUPkqyYlOTA2c6rCzXMF6j1",
             "https://drive.google.com/uc?export=view&id=1akLNriez_lrmJ_NO_YbDSAHQ-DJQn2yj",
             "https://drive.google.com/uc?export=view&id=1Q7Rs5epvN8usr5QHfUNtfvdMJT6xhBjt",
+            "https://drive.google.com/uc?export=view&id=1rjgDBRcs65bYxr8LvfZQDCxiXlbncldT",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1Aqc4h6KVwSWlbX-xHhJWkhBM_cAj85RC",
         ]
@@ -157,11 +159,11 @@ elif menu == "About Us":
                 "motto_hidup": "kill the past",
             },
             {
-                "nama": "D",
+                "nama": "Rahma Oktavia Albar",
                 "sebagai": "Anggota",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
+                "nim": "123450003",
+                "fun_fact": "pecinta mie ayam",
+                "motto_hidup": "jangan pernah menyerah sebelum mencoba",
             },
             {
                 "nama": "Intan Nursyabani",
