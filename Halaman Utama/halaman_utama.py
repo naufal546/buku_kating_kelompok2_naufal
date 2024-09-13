@@ -132,10 +132,10 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1akLNriez_lrmJ_NO_YbDSAHQ-DJQn2yj",
             "https://drive.google.com/uc?export=view&id=1Q7Rs5epvN8usr5QHfUNtfvdMJT6xhBjt",
             "https://drive.google.com/uc?export=view&id=1rjgDBRcs65bYxr8LvfZQDCxiXlbncldT",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1YLCvZiZWUyio25SpYRddOKM9o7qMtEYS",
             "https://drive.google.com/uc?export=view&id=1Aqc4h6KVwSWlbX-xHhJWkhBM_cAj85RC",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
 
         ]
         data_list = [
