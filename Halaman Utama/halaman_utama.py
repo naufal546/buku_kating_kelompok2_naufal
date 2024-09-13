@@ -165,6 +165,7 @@ elif menu == "About Us":
                 "nama": "Devyna Sonya Palupi Sanjaya",
                 "sebagai": "Bu Lurah",
                 "nim": "123450007",
+                "fun_fact": "dengerin bernadya 24/7",
                 "fun_fact": "Dengerin lagu Bernadya 24/7",
                 "motto_hidup": "everything happens for a reason",
             },
