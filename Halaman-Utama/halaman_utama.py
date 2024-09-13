@@ -97,17 +97,20 @@ if menu == "Home":
         st.markdown("<h1 class='centered-title'>Deskripsi Kelompok</h1>", unsafe_allow_html=True)
         st.markdown(
             """<div style="text-align: justify;">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi 
-                ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit 
-                in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
-                officia deserunt mollit anim id est laborum.
+                Cosval adalah singkatan dari cosine similiarity value, 
+            dan dalam konteks kelompok kami, cosval memiliki pengertian bagaimanapun setiap anggota dari kelompok kami itu memiliki nilai 
+            dan pandangannya masing-masing, kami tetap bersatu demi mencapai tujuan yang
+            satu pula yaitu cosval yang satu dan bermaslahat.
             </div>""",
             unsafe_allow_html=True,
         )
-        layout("https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_")
+        st.write(""" """)
+        layout("https://drive.google.com/uc?export=view&id=1v3pP4xrpB-Wtot97192_Mltj4YCRE0Lf")
+        st.markdown(
+            """<div style="text-align: justify;">Cosval adalah kelompok 2 dari kaderisasi CEO HMSD dengan pendamping kelompok bernama bang rendi juga ka dea.</div>""",
+            unsafe_allow_html=True,
+        )
+        st.write(""" """)
 
     home_page()
 
@@ -117,12 +120,23 @@ elif menu == "About Us":
             """<style>.centered-title {text-align: center;}</style>""",
             unsafe_allow_html=True,
         )
-        st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 class='centered-title'>Cosval Punya Cerita!!!</h1>", unsafe_allow_html=True)
 
         # Example data for images and bios
         image_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_"
-        ] * 5  # Repeated URL for simplicity
+            "https://drive.google.com/uc?export=view&id=17IHwnjun_lUPkqyYlOTA2c6rCzXMF6j1",
+            "https://drive.google.com/uc?export=view&id=1HopTjgZ13YReoCuWO4o5Fq06RuulYTeR",
+            "https://drive.google.com/uc?export=view&id=1akLNriez_lrmJ_NO_YbDSAHQ-DJQn2yj",
+            "https://drive.google.com/uc?export=view&id=1Q7Rs5epvN8usr5QHfUNtfvdMJT6xhBjt",
+            "https://drive.google.com/uc?export=view&id=1rjgDBRcs65bYxr8LvfZQDCxiXlbncldT",
+            "https://drive.google.com/uc?export=view&id=1Aqc4h6KVwSWlbX-xHhJWkhBM_cAj85RC",
+            "https://drive.google.com/uc?export=view&id=1YLCvZiZWUyio25SpYRddOKM9o7qMtEYS",
+            "https://drive.google.com/uc?export=view&id=1KiPuU6oKNhlZ5f6srQ5uHyH67DJ4BYHD",
+            "https://drive.google.com/uc?export=view&id=1KevS5s4qJh77sU3yNfkwMt8MUZBIwh98",
+            "https://drive.google.com/uc?export=view&id=1Km6LlwVy9XQMU9eBuMjrG2EcsgoX6G46",
+            "https://drive.google.com/uc?export=view&id=1eGfyDbA8G4MauY8mf2xfC_DoBHFE13kv",
+            "https://drive.google.com/uc?export=view&id=1p5c2pu-zlI6u9irYj_ipJfhA4J4E4FRu"
+        ] # Repeated URL for simplicity
         data_list = [
             {
                 "nama": "Ahmad Rizky",
@@ -130,6 +144,84 @@ elif menu == "About Us":
                 "nim": "123450050",
                 "fun_fact": "Gampang tidur",
                 "motto_hidup": "Gampang, tidur!",
+            },
+            {
+                "nama": "Muhammad Naufal Alghani",
+                "sebagai": "Anggota",
+                "nim": "123450116",
+                "fun_fact": "Aku sebenarnya pemalu",
+                "motto_hidup": "Tetap belajar walau perlahan",
+            },
+            {
+                "nama": "Devyna Sonya Palupi Sanjaya",
+                "sebagai": "Bu Lurah",
+                "nim": "123450007",
+                "fun_fact": "dengerin bernadya 24/7",
+                "fun_fact": "Dengerin lagu Bernadya 24/7",
+                "motto_hidup": "everything happens for a reason",
+            },
+            {
+                "nama": "Fadil Prasetyo Alfarizzi",
+                "sebagai": "Anggota",
+                "nim": "123450048",
+                "fun_fact": "softboy abizzzz",
+                "motto_hidup": "kill the past",
+            },
+            {
+                "nama": "Rahma Oktavia Albar",
+                "sebagai": "Anggota",
+                "nim": "123450003",
+                "fun_fact": "pecinta mie ayam",
+                "motto_hidup": "jangan pernah menyerah sebelum mencoba",
+            },
+            {
+                "nama": "Intan Nursyabani",
+                "sebagai": "Anggota",
+                "nim": "123450081",
+                "fun_fact": "tempe for life",
+                "motto_hidup": "worst maybe could be the best, because almost everything is paradox",
+            },
+            {
+                "nama": "Vania Claresta",
+                "sebagai": "Anggota",
+                "nim": "123450029",
+                "fun_fact": "beli barang karena lucu",
+                "motto_hidup": "with God all things are possible -Matthew 19:26",
+            },
+            {
+                "nama": "Fiodora Alysa Juandi",
+                "sebagai": "Anggota",
+                "nim": "123450051",
+                "fun_fact": "ga suka duren",
+                "motto_hidup": "banyak banyak bersyukur aja",
+            },
+            {
+                "nama": "Malika Azzahra Salsabila",
+                "sebagai": "Anggota",
+                "nim": "123450090",
+                "fun_fact": "Minum kopi biar bisa tidur",
+                "motto_hidup": "When life gives you lemons, don't make lemonade. Make life take the lemons back.",
+            },
+            {
+                "nama": "Ken Gracya Waoma",
+                "sebagai": "Anggota",
+                "nim": "123450045",
+                "fun_fact": "lebih memprioritaskan untuk beristrahat",
+                "motto_hidup": "all progress takes place outside the comfort zone",
+            },
+            {
+                "nama": "Rahmah Gustriana Deka",
+                "sebagai": "Anggota",
+                "nim": "123450102",
+                "fun_fact": "suka lupa tempat parkirin motor",
+                "motto_hidup": "Be greather than averange",
+            },
+            {
+                "nama": "Keren Marito Lumban Gaol",
+                "sebagai": "Anggota",
+                "nim": "123450020",
+                "fun_fact": "suka makan telur",
+                "motto_hidup": "Do Good, Receive Good",
             },
             # More entries...
         ]
