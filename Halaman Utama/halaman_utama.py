@@ -139,7 +139,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1Km6LlwVy9XQMU9eBuMjrG2EcsgoX6G46",
             "https://drive.google.com/uc?export=view&id=1eGfyDbA8G4MauY8mf2xfC_DoBHFE13kv",
             "https://drive.google.com/uc?export=view&id=1p5c2pu-zlI6u9irYj_ipJfhA4J4E4FRu",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1HopTjgZ13YReoCuWO4o5Fq06RuulYTeR",
         ]
         data_list = [
             {
@@ -221,11 +221,11 @@ elif menu == "About Us":
                 "motto_hidup": "Do Good, Receive Good",
             },
              {
-                "nama": "L",
+                "nama": "Muhammad Naufal Alghani",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450116",
+                "fun_fact": "Aku sebenarnya pemalu",
+                "motto_hidup": "Tetap belajar walau perlahan",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
