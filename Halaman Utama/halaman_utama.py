@@ -182,11 +182,11 @@ elif menu == "About Us":
                 "motto_hidup": "with God all things are possible -Matthew 19:26",
             },
              {
-                "nama": "G",
+                "nama": "Fiodora Alysa Juandi",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450051",
+                "fun_fact": "ga suka duren",
+                "motto_hidup": "banyak banyak bersyukur aja",
             },
              {
                 "nama": "H",
