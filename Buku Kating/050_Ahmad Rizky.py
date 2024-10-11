@@ -20,8 +20,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "Departemen MedKraf",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -332,7 +334,7 @@ elif menu == "Baleg":
                 "umur": "20 tahun",
                 "asal": "Ogan Ilir",
                 "alamat": "Natar",
-                "hobi": "Nyari Sinyal di Gedung F",
+                "hobbi": "Nyari Sinyal di Gedung F",
                 "sosmed": " @_.dheamelia",
                 "kesan": "Kakaknya kelihatan aktif organisasi bangettt",
                 "pesan": "Ramahh banget kak Dheaa", 
@@ -370,7 +372,7 @@ elif menu == "Baleg":
 
     baleg()
 
-elif menu == "MedKraf":
+elif menu == "Departemen MedKraf":
 
     def medkraf():
         gambar_urls = [
@@ -532,7 +534,7 @@ elif menu == "MedKraf":
                 "umur": "20",
                 "asal": "Serang",
                 "alamat": "Lapangan Golf UIN",
-                "hobi": "Baca Komik",
+                "hobbi": "Baca Komik",
                 "sosmed": "@jimnn.as",
                 "kesan": "",
                 "pesan": "Ramahh banget kak Dheaa", 
@@ -614,7 +616,7 @@ elif menu == "MedKraf":
         display_images_with_data(gambar_urls, data_list)
     medkraf()
 
-elif menu == "MIKFES":
+elif menu == "Departemen MIKFES":
 
     def Mikfes():
         gambar_urls = [
