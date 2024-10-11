@@ -432,7 +432,7 @@ elif menu == "MIKFES":
         ]
         display_images_with_data(gambar_urls, data_list)
 
-    baleg()
+    Mikfes()
 
 
 # Tambahkan menu lainnya sesuai kebutuhan
