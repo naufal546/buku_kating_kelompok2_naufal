@@ -13,8 +13,8 @@ Homepage = st.Page("Halaman Utama/halaman_utama.py",
 #st.page ini butuh argumen; Halaman Utama/halaman_utama.py (path directory); 
 
 Mahasiswa1 = st.Page(
-    "Buku Kating/016_Kemas Veriandra Ramadhan.py",
-    title="016 - Kemas Veriandra Ramadhan",
+    "Buku Kating/051_Fiodora Alysa Juandi.py",
+    title="051 - Fiodora Alysa Juandi",
     icon=":material/person:",
 )
 #Mahasiswa1 akan mengakses data yang bernama Kemas Veriandra yang foldernya disimpan di Buku Kating
