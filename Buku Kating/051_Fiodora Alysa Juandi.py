@@ -119,30 +119,46 @@ if menu == "Kesekjenan":
                 "hobbi": "Denger Musik",
                 "sosmed": "@gumilangtkharisma",
                 "kesan": "Cara komunikasi abangnya keren",
-                "pesan": "Semoga cepat lulus bang",  # 1
+                "pesan": "Semoga cepat lulus bang",
+                "jabatan" : "Ketua himpunan",  # 1
             },
             {
                 "nama": "Meliza Wulandari",
-                "nim": "122450000",
-                "umur": "18",
-                "asal": "Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",
-                "pesan": "semangat terus kuliahnya kakak !!!",  # 1
+                "nim": "121450065",
+                "umur": "20",
+                "asal": "Pagar Alam, Sumatera Selatan",
+                "alamat": "Kota Baru",
+                "hobbi": "Nonton Drakor",
+                "sosmed": "@wulandarimeliza",
+                "kesan": "Kakaknya lucu bangettt",
+                "pesan": "semangat kuliahnya semoga cepat lulus kak",  
+                "jabatan" : " Sekretaris Umum" # 1
             },
             {
-                "nama": "Kakak CC",
-                "nim": "122450000",
-                "umur": "18",
-                "asal": "Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",
-                "pesan": "semangat terus kuliahnya kakak !!!",  # 1
+                "nama": "Hartiti Fadilah",
+                "nim": "121450031",
+                "umur": "21",
+                "asal": "Palembang",
+                "alamat": "Pemda",
+                "hobbi": "Denger Musik",
+                "sosmed": "@hrtfdlh",
+                "kesan": "Kakaknya pendiam dan kalem",
+                "pesan": "Jangan patah semangat kakak",
+                "jabatan" : "Bendahara umum",  # 1
             },
+            {
+                "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal": "Payakumbuh, Sumatra Barat",
+                "alamat": "Nangka 4",
+                "hobbi": "Dengerin Pandra Gitaran",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "Kakaknya keliatan pintar",
+                "pesan": "semangat kak kuliahnya, dan tidak mudah menyerah",  # 1
+            },
+
+
         ]
         display_images_with_data(gambar_urls, data_list)
 
