@@ -166,6 +166,7 @@ elif menu == "Senator":
                 "sosmed": "@annisalutfi_",
                 "kesan": "-",
                 "pesan": "-",
+                "jabatan": " Senator",
             },
             {
                 "nama": "Rian Bintang Wijaya",
@@ -177,6 +178,7 @@ elif menu == "Senator":
                 "sosmed": "@bintangtwinkle",
                 "kesan": "-",
                 "pesan": "-", 
+                "jabatan": " Tim Senator",
             },
            
         ]
