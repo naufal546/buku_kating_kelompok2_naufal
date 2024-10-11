@@ -131,7 +131,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=17IHwnjun_lUPkqyYlOTA2c6rCzXMF6j1",
             "https://drive.google.com/uc?export=view&id=1akLNriez_lrmJ_NO_YbDSAHQ-DJQn2yj",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1LySpIdSZxTk0AoEaE3kwlGBD4PJYReL0",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
@@ -164,11 +164,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu aja",
             },
             {
-                "nama": "E",
+                "nama": "Intan Nursyabani",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450081",
+                "fun_fact": "aku suka tempe goreng",
+                "motto_hidup": "worst maybe could be the best, because almost everything is paradox",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
