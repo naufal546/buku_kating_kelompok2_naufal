@@ -178,6 +178,172 @@ if menu == "Kesekjenan":
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
 
+elif menu == "Baleg":
+
+    def baleg():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "nama": "Tri Murniya Ningsih",
+                "nim": "121450038",
+                "umur": "21",
+                "asal": "Bogor",
+                "alamat": "Raden Saleh",
+                "hobbi": "Tanya sama GPT",
+                "sosmed": "@trimurniaa",
+                "kesan": "Kakaknya cantik, ramah, baik",
+                "pesan": "semangat kuliahnya kakak, tetap jadi orang baik",
+                "jabatan" : "Ketua Badan Legislatif", #1
+            },
+            {
+                "nama": "Annisa Cahyani Surya",
+                "nim": "121450114",
+                "umur": "21",
+                "asal": "Tangerang Selatan",
+                "alamat": "Way Huwi",
+                "hobbi": "Puasa Senin Kamis",
+                "sosmed": "@annisacahyanisurya",
+                "kesan": "Baik banget kakaknya, sgt humble",
+                "pesan": "Semangat kuliahnya kak", 
+                "jabatan" : "Sekretaris", # 1
+            },
+            {
+                "nama": "Wulan Sabina",
+                "nim": "121450150",
+                "umur": "21",
+                "asal": "Medan",
+                "alamat": "Raden Saleh",
+                "hobbi": "Menonton film",
+                "sosmed": "wlsbn0",
+                "kesan": "Ramah banget kakanya, baikk pula",
+                "pesan": "semangat ya kak, tetap ramahh", 
+                "jabatan" : "Bendahara", # 1
+            },
+            {
+                "nama": "Anisa Dini Amalia",
+                "nim": "121450021",
+                "umur": "20",
+                "asal": "Tangerang",
+                "alamat": "Jati Agung",
+                "hobbi": "Baca Webtoon",
+                "sosmed": " @anisadini10",
+                "kesan": "Kakaknya ramahh, asik,baik",
+                "pesan": "semangat terus kuliahnya kakak, jangan mudah menyerah", 
+                "jabatan" : "Kepala Komisi 1 Legislatif", # 1
+            },
+            {
+                "nama": "Claudhea Angeliani",
+                "nim": "121450124",
+                "umur": "21",
+                "asal": "Lampung Timur",
+                "alamat": "Lampung Timur",
+                "hobbi": "Baca Jurnal",
+                "sosmed": " @dylebee",
+                "kesan": "Bagus sekali kak namanya, orangnya juga cantik",
+                "pesan": "semangat ya kuliahnya jangan putus asa kak", 
+                "jabatan" : "Kepala Komisi 2 Aspirasi dan Pengawasan", # 1
+            },
+            {
+                "nama": "Muhammad Fachrul Aditya",
+                "nim": "121450156",
+                "umur": "22",
+                "asal": "Surakarta",
+                "alamat": "Sukarame",
+                "hobbi": "Sholat Malam",
+                "sosmed": "@fhrul.pdf",
+                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
+                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
+                "jabatan" : "Kepala Komisi 3 Media Legislatif", # 1
+            },
+            {
+                "nama": "Anisa Fitriyani",
+                "nim": "122450019",
+                "umur": "20",
+                "asal": "Batam",
+                "alamat": "Kalianda",
+                "hobbi": "Membaca Al waqiah setiap magrib",
+                "sosmed": " @ansftynn_",
+                "kesan": "Manis banget kakaknya, ramah juga",
+                "pesan": "semangat kuliahnya kak, tetap baik hati kak", 
+                "jabatan" : "Anggota Komisi 1 Legislatif", # 1
+            },
+            {
+                "nama": "Feryadi Yulius ",
+                "nim": "122450087",
+                "umur": "20",
+                "asal": "Padang",
+                "alamat": "Belwis",
+                "hobbi": "Sholat Dhuha",
+                "sosmed": "@fer_yulius",
+                "kesan": "Abangnya sepertinya famous yah",
+                "pesan": "semangat kuliahnya kak, semoga lulus tepat waktu", 
+                "jabatan" : "Anggota Komisi 1 Legislatif", # 1
+            },
+            {
+                "nama": "Renisha Putri Giani",
+                "nim": "122450079",
+                "umur": "21",
+                "asal": "Bandar Lampung",
+                "alamat": "Teluk Betung",
+                "hobbi": "Baca Al-Qur'an",
+                "sosmed": "@fleurnsh",
+                "kesan": "MasyaAllah kak pertahankan hobinya",
+                "pesan": "Semangat kuliahnya, semoga semakin rajin mengerjakan tugas", 
+                "jabatan" : "Anggota Komisi 1 Legislatif", # 1
+            },
+            {
+                "nama": "Mirzan Yusuf Rabbani",
+                "nim": "122450118",
+                "umur": "20",
+                "asal": "Jakarta",
+                "alamat": "Korpri",
+                "hobbi": "Main Kucing",
+                "sosmed": "@myrrinn",
+                "kesan": "Abangnya baik, kalem, dan ramah",
+                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari", 
+                "jabatan" : "Anggota Komisi 2 Aspirasi dan Pengawasan", # 1
+            },
+            {
+                "nama": "Dhea Amelia Putri",
+                "nim": "122450004",
+                "umur": "20 tahun",
+                "asal": "Ogan Ilir",
+                "alamat": "Natar",
+                "hobi": "Nyari Sinyal di Gedung F",
+                "sosmed": " @_.dheamelia",
+                "kesan": "Kakaknya kelihatan aktif organisasi bangettt",
+                "pesan": "Ramahh banget kak Dheaa", 
+                "jabatan" : "Anggota Komisi 2 Aspirasi dan Pengawasan", # 1
+            },
+            {
+                "nama": " Berliana Enda Putri",
+                "nim": "122450065",
+                "umur": "20",
+                "asal": "Sumatera Barat",
+                "alamat": "Way Huwi",
+                "hobbi": "Baca Buku, Ngoding, Ibadah",
+                "sosmed": "@berlyyanda",
+                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
+                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
+                "jabatan" : " Anggota Komisi 3 Legislatif", # 1
+            },
+            {
+                "nama": "Jeremia Susanto",
+                "nim": "122450022",
+                "umur": "21",
+                "asal": "Palembang",
+                "alamat": "Bilabong",
+                "hobbi": "Cerita",
+                "sosmed": "@jeremia_s_",
+                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
+                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
+                "jabatan" : " Anggota Komisi 3 Legislatif", # 1
+            },
+        ]
 elif menu == "Storage Sains Data":
     def baleg():
         gambar_urls = [
