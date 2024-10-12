@@ -20,7 +20,11 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+<<<<<<< HEAD
             "Departemen Medkraf",
+=======
+            "Departemen MedKraf",
+>>>>>>> 90be5d97fb5adcb195baac30840bc03569cc9557
         ],
         icons=[
             "people-fill",
@@ -91,7 +95,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Sosial Media: {data_list[i]['sosmed']}")
             st.write(f"Kesan: {data_list[i]['kesan']}")
             st.write(f"Pesan: {data_list[i]['pesan']}")
-            st.write("  ")
+            st.write(f"Jabatah: {data_list[i]['jabatan']}")
     st.write("Semua gambar telah dimuat!")
 menu = streamlit_menu()
 
@@ -372,7 +376,7 @@ elif menu == "Baleg":
 
     baleg()
 
-elif menu == "MedKraf":
+elif menu == "Departemen MedKraf":
 
     def medkraf():
         gambar_urls = [
@@ -612,10 +616,8 @@ elif menu == "MedKraf":
                 "pesan": "", 
                 "jabatan" : "Anggota Divisi PDD", # 1
             },
-
         ]
         display_images_with_data(gambar_urls, data_list)
-
     medkraf()
 
 elif menu == "Departemen MIKFES":
@@ -875,7 +877,6 @@ elif menu == "Departemen MIKFES":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-
     Mikfes()
     elif menu == "Senator":
 
