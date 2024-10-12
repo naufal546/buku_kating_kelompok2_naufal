@@ -20,13 +20,13 @@ Mahasiswa1 = st.Page(
 #Mahasiswa1 akan mengakses data yang bernama Kemas Veriandra yang foldernya disimpan di Buku Kating
 
 Mahasiswa2 = st.Page(
-    "Buku Kating/020_Try Yani Rizki Nur Rohmah.py",
-    title="020 - Try Yani Rizki Nur Rohmah",
+    "Buku Kating/020_Keren Marito Lumban Gaol.py",
+    title="020 - 020_Keren Marito Lumban Gaol.py",
     icon=":material/person:",
 )
 Mahasiswa3 = st.Page(
-    "Buku Kating/001_Eksanty Febriana.py",
-    title="001 - Eksanty Febriana",
+    "Buku Kating/102_Rahmah Gustriana Deka.py",
+    title="102 - Rahmah Gustriana Deka",
     icon=":material/person:",
 )
 Mahasiswa4 = st.Page(
@@ -35,13 +35,13 @@ Mahasiswa4 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa5 = st.Page(
-    "Buku Kating/014_Deva Anjani Khayyuninafsyah.py",
-    title="014 - Deva Anjani Khayyuninafsyah",
+    "Buku Kating/045_Ken Gracya Waoma.py",
+    title="045 - Ken Gracya Waoma",
     icon=":material/person:",
 )
 Mahasiswa6 = st.Page(
-    "Buku Kating/103_Rut Junita Sari Siburian.py",
-    title="103 - Rut Junita Sari Siburian",
+    "Buku Kating/090_Malika Azzahra Salsabila.py",
+    title="090 - Malika Azzahra Salsabila",
     icon=":material/person:",
 )
 Mahasiswa7 = st.Page(
