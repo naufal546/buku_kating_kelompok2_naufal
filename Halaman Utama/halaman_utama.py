@@ -140,12 +140,15 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1eGfyDbA8G4MauY8mf2xfC_DoBHFE13kv",
             "https://drive.google.com/uc?export=view&id=1p5c2pu-zlI6u9irYj_ipJfhA4J4E4FRu",
             "https://drive.google.com/uc?export=view&id=1HopTjgZ13YReoCuWO4o5Fq06RuulYTeR",
+
         ]
         data_list = [
             {
                 "nama": "Ahmad Rizky",
                 "sebagai": "Pak Lurah",
                 "nim": "123450050",
+                "fun_fact": "gampang tidur",
+                "motto_hidup": "now is now, then is then",
                 "fun_fact": "Sebenernya mau jadi pemain bola kaya lionel messi biar bisa bawa indonesia ke pildun",
                 "motto_hidup": "now is now, then is then.",
             },
@@ -175,6 +178,8 @@ elif menu == "About Us":
                 "nama": "Intan Nursyabani",
                 "sebagai": "Anggota",
                 "nim": "123450081",
+                "fun_fact": "aku suka tempe goreng",
+                "motto_hidup": "worst maybe could be the best, because almost everything is paradox",
                 "fun_fact": "tempe for life",
                 "motto_hidup": "worst maybe could be the best, because almost everything is paradox",
             },
