@@ -220,7 +220,7 @@ elif menu == "Baleg":
                 "hobbi": "Menonton film",
                 "sosmed": "wlsbn0",
                 "kesan": "Ramah banget kakanya, baikk pula",
-                "pesan": "semangat ya kak, tetap ramahh", 
+                "pesan": "semangat ya kak, tetap ramah", 
                 "jabatan" : "Bendahara", # 1
             },
             {
