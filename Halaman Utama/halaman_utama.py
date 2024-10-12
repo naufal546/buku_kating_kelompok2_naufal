@@ -130,11 +130,6 @@ elif menu == "About Us":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=17IHwnjun_lUPkqyYlOTA2c6rCzXMF6j1",
             "https://drive.google.com/uc?export=view&id=1akLNriez_lrmJ_NO_YbDSAHQ-DJQn2yj",
-<<<<<<< HEAD
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1LySpIdSZxTk0AoEaE3kwlGBD4PJYReL0",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-=======
             "https://drive.google.com/uc?export=view&id=1Q7Rs5epvN8usr5QHfUNtfvdMJT6xhBjt",
             "https://drive.google.com/uc?export=view&id=1rjgDBRcs65bYxr8LvfZQDCxiXlbncldT",
             "https://drive.google.com/uc?export=view&id=1Aqc4h6KVwSWlbX-xHhJWkhBM_cAj85RC",
@@ -145,13 +140,15 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1eGfyDbA8G4MauY8mf2xfC_DoBHFE13kv",
             "https://drive.google.com/uc?export=view&id=1p5c2pu-zlI6u9irYj_ipJfhA4J4E4FRu",
             "https://drive.google.com/uc?export=view&id=1HopTjgZ13YReoCuWO4o5Fq06RuulYTeR",
->>>>>>> cd48db90ae1bec897e0c0eef778ce78de5ba0321
+
         ]
         data_list = [
             {
                 "nama": "Ahmad Rizky",
                 "sebagai": "Pak Lurah",
                 "nim": "123450050",
+                "fun_fact": "gampang tidur",
+                "motto_hidup": "now is now, then is then",
                 "fun_fact": "Sebenernya mau jadi pemain bola kaya lionel messi biar bisa bawa indonesia ke pildun",
                 "motto_hidup": "now is now, then is then.",
             },
@@ -181,10 +178,8 @@ elif menu == "About Us":
                 "nama": "Intan Nursyabani",
                 "sebagai": "Anggota",
                 "nim": "123450081",
-<<<<<<< HEAD
                 "fun_fact": "aku suka tempe goreng",
                 "motto_hidup": "worst maybe could be the best, because almost everything is paradox",
-=======
                 "fun_fact": "tempe for life",
                 "motto_hidup": "worst maybe could be the best, because almost everything is paradox",
             },
@@ -236,7 +231,6 @@ elif menu == "About Us":
                 "nim": "123450116",
                 "fun_fact": "Aku sebenarnya pemalu",
                 "motto_hidup": "Tetap belajar walau perlahan",
->>>>>>> cd48db90ae1bec897e0c0eef778ce78de5ba0321
             },
         ]
         display_images_with_data(gambar_urls, data_list)
