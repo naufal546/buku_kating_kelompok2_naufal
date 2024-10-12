@@ -97,46 +97,82 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1gM3XwdLzI6lQ5Mvi8ixpMeJxWvLtjTRi_",
+            "https://drive.google.com/uc?export=view&id=1gM3XwdLzI6lQ5Mvi8ixpMeJxWvLtjTR1_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
-        data_list = [
+        data_list =   [
             {
                 "nama": "Kharisma Gumilang",
                 "nim": "121450142",
                 "umur": "21",
-                "asal":"Palembang",
+                "asal": "Palembang",
                 "alamat": "Way Kandis",
                 "hobbi": "Denger Musik",
                 "sosmed": "@gumilangtkharisma",
-                "kesan": "Publik speaking abangnya keren",  
-                "pesan":"semangat jadi Kahim bang!!!"
-                "Jabatan" : "Ketua Himpunan"# 1
+                "kesan": "Public speaking abangnya keren",
+                "pesan": "Semangat jadi Kahim bang",
+                "jabatan" : "Ketua himpunan",  # 1
             },
             {
                 "nama": "Meliza Wulandari",
                 "nim": "121450065",
                 "umur": "20",
-                "asal":"Pagar Alam, Sumatera Selatan",
+                "asal": "Pagar Alam, Sumatera Selatan",
                 "alamat": "Kota Baru",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "Kak Liza cantik, pinter",  
-                "pesan":"semangat ambil TA kakk!!"
-                "jabatan" : " Sekretaris Umum"#1
-            },
+                "kesan": "Kakaknya lucu bangettt",
+                "pesan": "semangat kuliahnya semoga cepat lulus kak",  
+                "jabatan" : " Sekretaris Umum" # 1
             },
             {
-                "nama": "Kakak C",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Hartiti Fadilah",
+                "nim": "121450031",
+                "umur": "21",
+                "asal": "Palembang",
+                "alamat": "Pemda",
+                "hobbi": "Denger Musik",
+                "sosmed": "@hrtfdlh",
+                "kesan": "Kakaknya pendiam dan kalem",
+                "pesan": "Jangan patah semangat kakak",
+                "jabatan" : "Bendahara umum",  # 1
+            },
+            {
+                "nama": "Pandra Insani Putra Azwar",
+                "nim": " 121450137",
+                "umur": "21",
+                "asal": "Lampung Utara",
+                "alamat": "Bawean 2",
+                "hobbi": "Main gitar",
+                "sosmed": "@nadillaandr26",
+                "kesan": "Abangnya keren public speakingnya",
+                "pesan": "semangat bang kuliahnya, jangan patah semangat", 
+                "jabatan" : "Sekretaris Jendral", # 1
+            },
+            {
+                "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal": "Payakumbuh, Sumatra Barat",
+                "alamat": "Nangka 4",
+                "hobbi": "Dengerin Pandra Gitaran",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "Kakaknya keliatan pintar",
+                "pesan": "semangat kak kuliahnya, dan tidak mudah menyerah", 
+                "jabatan" : "Sekretaris 1", # 1
+            },
+            {
+                "nama": "Nadilla Andhara Putri",
+                "nim": "1214500030",
+                "umur": "21",
+                "asal": "Metro",
+                "alamat": "Kota Baru",
+                "hobbi": "Baca",
+                "sosmed": "@nadillaandr26",
+                "kesan": "Sama sama asal metro hihihi",
+                "pesan": "semangat kak kuliahnya, sukses selalu",  
+                "jabatan" : "Bendahara 1", # 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
