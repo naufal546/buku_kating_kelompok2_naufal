@@ -110,6 +110,13 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1iDw2-D_7WeLM40zVsarzWu1FeKwrTUcr",
+            "https://drive.google.com/uc?export=view&id=1iHiCgoiZj-1kWI-gPuizyIUiXvEQGYtW",
+            "https://drive.google.com/uc?export=view&id=1iM8QZVqq-FALVLYFYwZOZ97dsBbduxCP",
+            "https://drive.google.com/uc?export=view&id=1iGwZPaeRNRY86UHdglqh-jmW7NuFg-JB",
+            "https://drive.google.com/uc?export=view&id=1iHZDb4mLiZFgZ6mA7BICOolAqrZ62wFU",
+            "https://drive.google.com/uc?export=view&id=1iGorfahlDUagrjffANonVuo_p-etWw8k"
+        
         ]
         data_list = [
             {
@@ -123,6 +130,19 @@ if menu == "Kesekjenan":
                 "kesan": "Cara komunikasi abangnya keren",
                 "pesan": "Semoga cepat lulus bang",
                 "jabatan" : "Ketua himpunan",  # 1
+            },
+            {
+            
+                "nama": "Pandra Insani Putra Azwar",
+                "nim": " 121450137",
+                "umur": "21",
+                "asal": "Lampung Utara",
+                "alamat": "Bawean 2",
+                "hobbi": "Main gitar",
+                "sosmed": "@npndrinsni27",
+                "kesan": "Abangnya keren public speakingnya",
+                "pesan": "semangat bang kuliahnya, jangan patah semangat", 
+                "jabatan" : "Sekretaris Jendral", # 1
             },
             {
                 "nama": "Meliza Wulandari",
@@ -200,6 +220,19 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1dLp6NuNORbbo_DAsQkyMmFgQ-X0VxwzB",
+            "https://drive.google.com/uc?export=view&id=1dAEN_5lquiBVX9VrZUGlC40JKKUSaeDt",
+            "https://drive.google.com/uc?export=view&id=1dA1bbomhJHeqntJ9TxEZH5KrIxUF98vf",
+            "https://drive.google.com/uc?export=view&id=1d8o73-wKvxzAAqzH3cvnH1ixQfVDau1I",
+            "https://drive.google.com/uc?export=view&id=1oaR_27ezt2qm6PK2q0fgiI2hCRaC60R7",
+            "https://drive.google.com/uc?export=view&id=1dGNkcQ1twmGFpSECrHQsmkKwQUWyYWZd",
+            "https://drive.google.com/uc?export=view&id=1dATFoW8hV1h1-w2hsGngFlTC1bjg-0_d",
+            "https://drive.google.com/uc?export=view&id=1dGCt6Yfj09jZx2foOWwk2wb9QnbR0-g8",
+            "https://drive.google.com/uc?export=view&id=1d62zk9foJodVO474_DbFMCzjFK5zgLCO",
+            "https://drive.google.com/uc?export=view&id=1dHMh8H_p3BmB48otCPmaPnh9urofT0Gj",
+            "https://drive.google.com/uc?export=view&id=1dSf71gmRwspe09u1MlRgYVRRJlaaBHAh",
+            "https://drive.google.com/uc?export=view&id=1d5Ftnc77LM3FI3p1vg3fFlAnSHubk9tv",
+            "https://drive.google.com/uc?export=view&id=1dAZFR2JmNgq7ZYPYgx_7M8P_sUjcVI-K",
         ]
         data_list = [
             {
@@ -373,6 +406,10 @@ elif menu == "MedKraf":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            
         ]
         data_list = [
             {
