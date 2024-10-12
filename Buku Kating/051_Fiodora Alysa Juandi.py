@@ -107,12 +107,12 @@ if menu == "Kesekjenan":
 
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1jlplM7bm8hlrgqOlVAf2BeUdZhzCQOzm",
+            "https://drive.google.com/uc?export=view&id=1h4nPmsFRcDs59R7u9Bc5waXlp2knnGsS",
+            "https://drive.google.com/uc?export=view&id=1w5ZZ9BXCBoOHSaI5pyWRg3FrMWi3lPW1",
+            "https://drive.google.com/uc?export=view&id=1Vk_sRjgTsJbPEkCEzosQijnNEuUTggJ6",
+            "https://drive.google.com/uc?export=view&id=1CtRrdMk5F8hHNkZcmHLbSwYb1FEcGw70",
+            "https://drive.google.com/uc?export=view&id=1fZnhEulk5L_Yvr0OEvuGcVkANQE1Z9-7",
         ]
         data_list = [
             {
@@ -341,7 +341,7 @@ elif menu == "Baleg":
                 "umur": "20 tahun",
                 "asal": "Ogan Ilir",
                 "alamat": "Natar",
-                "hobi": "Nyari Sinyal di Gedung F",
+                "hobbi": "Nyari Sinyal di Gedung F",
                 "sosmed": " @_.dheamelia",
                 "kesan": "Kakaknya kelihatan aktif organisasi bangettt",
                 "pesan": "Ramahh banget kak Dheaa", 
