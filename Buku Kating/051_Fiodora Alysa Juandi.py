@@ -374,6 +374,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi": "Baca Buku, Ngoding, Ibadah",
                 "sosmed": "@berlyyanda",
+                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
+                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
                 "kesan": "Baik kakanya",
                 "pesan": "semangat kuliahnya kak, tetap pertahankan jadi orang baik", 
                 "jabatan" : " Anggota Komisi 3 Legislatif", # 1
@@ -386,6 +388,8 @@ elif menu == "Baleg":
                 "alamat": "Bilabong",
                 "hobbi": "Cerita",
                 "sosmed": "@jeremia_s_",
+                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
+                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
                 "kesan": "Abangnya keliatan seperti orang pintar",
                 "pesan": "semangat kuliahnya kak, tetap pertahankan akademiknya", 
                 "jabatan" : " Anggota Komisi 3 Legislatif", # 1
@@ -450,7 +454,6 @@ elif menu == "MedKraf":
                 "sosmed": "",
                 "kesan": "Abangnya asik dana kece",
                 "pesan": "Semangat kuliahnya bang, tetap fokus",
-                "jabatan" : "", #1
                 "jabatan" : "Kepala Departemen", #1
             },
             {
@@ -822,11 +825,12 @@ elif menu == "Departemen PSDA":
 
     def PSDA():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1HV1tCIcYX5hbMFXQPXXJWQezWsYK5yYY",
             "https://drive.google.com/uc?export=view&id=12Dr9j9N0M5qNBYBrmwzp3TErHv7U_F4B",
             "https://drive.google.com/uc?export=view&id=1SHOmsnO4Ul0vtZAJdamoROgomPRLeMLP",
-            
-        
         ]
         data_list = [
             {
@@ -865,10 +869,6 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat bang jangan lupa istirahat", 
                 "jabatan" : "Kepala Divisi Manjakat", # 1
             },
-
- 
-           
-
         ]
         display_images_with_data(gambar_urls, data_list)
 
