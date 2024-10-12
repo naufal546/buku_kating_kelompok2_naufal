@@ -201,7 +201,7 @@ elif menu == "Baleg":
     def baleg():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1Lqrofe1GSF6V_gnaRKhjskwxblzlR84M",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1EDAWQ4h_eyFPU3WHZXJGlNvLkQ-V4A4X",
             "https://drive.google.com/uc?export=view&id=1E24ozVL1pJUmj62mqR4J43pVHpGEYiSk",
             "https://drive.google.com/uc?export=view&id=1cAWL6F7x1DaN-TM6tgIQh3A1RMcJSUK5",
             "https://drive.google.com/uc?export=view&id=1MvNM8VSELU9_wR9QvwXXXzxmrJBBZWZE",
@@ -211,7 +211,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1aYweFvKyWuwRdkok4X1i0JTVDreKjMcx",
             "https://drive.google.com/uc?export=view&id=1JPukb1nnO6C98jGxYqY3UYBco0QdFOcM",
             "https://drive.google.com/uc?export=view&id=18R5Y94SJqPVIYxRiwinAYFnOM5p_oMGa",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1fTOxSDoCkYEGG3ai4aQRhOXG67c9ZjYg",
             "https://drive.google.com/uc?export=view&id=1Irm-Rs59jo45Ls8N6Gv7HeVEseqEPlEH",
         ]
         data_list = [
@@ -355,8 +355,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi": "Baca Buku, Ngoding, Ibadah",
                 "sosmed": "@berlyyanda",
-                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
+                "kesan": "Baik kakanya",
+                "pesan": "semangat kuliahnya kak, tetap pertahankan jadi orang baik", 
                 "jabatan" : " Anggota Komisi 3 Legislatif", # 1
             },
             {
@@ -367,8 +367,8 @@ elif menu == "Baleg":
                 "alamat": "Bilabong",
                 "hobbi": "Cerita",
                 "sosmed": "@jeremia_s_",
-                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
+                "kesan": "Abangnya keliatan seperti orang pintar",
+                "pesan": "semangat kuliahnya kak, tetap pertahankan akademiknya", 
                 "jabatan" : " Anggota Komisi 3 Legislatif", # 1
             },
              
