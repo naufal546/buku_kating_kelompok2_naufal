@@ -396,17 +396,17 @@ elif menu == "MedKraf":
             "https://drive.google.com/uc?export=view&id=1UJebma4InRD-f4LFR4oLu_dRgv12Iqni",
             "https://drive.google.com/uc?export=view&id=1FJ2v3MrH3dq5XXGj-yRZQNsWRoNWE--y",
             "https://drive.google.com/uc?export=view&id=1Nao0oCLf_bNEp13an2fhF8XOuIV_j7M3",
-            "https://drive.google.com/uc?export=view&id=1xuisd9qcON0KP5wE5I6Eqx8YerWcVN8Z",
+            "https://drive.google.com/uc?export=view&id=1fHy6LpHXpY3vj0Jn04vNVEDJpcnOSf_S",
             "https://drive.google.com/uc?export=view&id=1x8pFmhRyrgdxcQMBHtbPmvoSwd822gev",
             "https://drive.google.com/uc?export=view&id=1R1z-0mETgPOL8z7lBhX184aMTlD90P4y",
             "https://drive.google.com/uc?export=view&id=15SuwdgkmHnYO8d3kGtBoKCyQYnZ74dhL",
-            "https://drive.google.com/uc?export=view&id=1NhCtpx8y9BvUjjEaVxfTuOZRWJkL1Len",
             "https://drive.google.com/uc?export=view&id=1xuisd9qcON0KP5wE5I6Eqx8YerWcVN8Z",
+            "https://drive.google.com/uc?export=view&id=1NhCtpx8y9BvUjjEaVxfTuOZRWJkL1Len",
+            "https://drive.google.com/uc?export=view&id=1IYygQ1_rBNc7XM7KvlVvryh5fPixRnLR",
             "https://drive.google.com/uc?export=view&id=1F6Lml10zRrymsr-bdWMPJiFH1rBd0KMt",
             "https://drive.google.com/uc?export=view&id=12i-Pmxvm6sNPFEeOzS8fAgH7ltBtEzNv",
             "https://drive.google.com/uc?export=view&id=1CI9mi7G1pSfadniRXIZ9ig_FspGSf6Er",
             "https://drive.google.com/uc?export=view&id=1q9gU1HZPtKWsQyS9FtROlj97FEglUlMz",
-            "https://drive.google.com/uc?export=view&id=17QQW0n8lJ0zH5m5DxfyeC-vkyKl6YK7v",
             "https://drive.google.com/uc?export=view&id=17QQW0n8lJ0zH5m5DxfyeC-vkyKl6YK7v",
         ]
         data_list = [
@@ -548,8 +548,8 @@ elif menu == "MedKraf":
                 "umur": "20",
                 "asal": "Jambi",
                 "alamat": "Jalan Durian 5 Pemda",
-                "hobi": "Baca Komik",
-                "sosmed": "@jimnn.as",
+                "hobi": "",
+                "sosmed": "@dwiratnn_",
                 "kesan": "Kakaknya kalem banget dan baik hati ",
                 "pesan": "Semangat kak dan bahagia terus ya", 
                 "jabatan" : "Anggota Divisi PDD", # 1
@@ -648,16 +648,6 @@ elif menu == "Departemen SSD":
 
     def SSD():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=14CRsEAnyRsx6QSb6tlS-bhxMOna7u714",
             "https://drive.google.com/uc?export=view&id=1C9eU6NlRo5kLf7c8_rk1P49-m4DGOjPj",
             "https://drive.google.com/uc?export=view&id=1Vp-Km3gFIIooGayGHzdcB4_IGjn0hegD",
