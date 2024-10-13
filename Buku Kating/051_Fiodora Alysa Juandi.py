@@ -107,21 +107,21 @@ if menu == "Kesekjenan":
 
     def kesekjenan():
         gambar_urls = [
-<<<<<<< HEAD
-            "https://drive.google.com/uc?export=view&id=1jlplM7bm8hlrgqOlVAf2BeUdZhzCQOzm",
-            "https://drive.google.com/uc?export=view&id=1h4nPmsFRcDs59R7u9Bc5waXlp2knnGsS",
-            "https://drive.google.com/uc?export=view&id=1w5ZZ9BXCBoOHSaI5pyWRg3FrMWi3lPW1",
-            "https://drive.google.com/uc?export=view&id=1Vk_sRjgTsJbPEkCEzosQijnNEuUTggJ6",
-            "https://drive.google.com/uc?export=view&id=1CtRrdMk5F8hHNkZcmHLbSwYb1FEcGw70",
-            "https://drive.google.com/uc?export=view&id=1fZnhEulk5L_Yvr0OEvuGcVkANQE1Z9-7",
-=======
+<<<<<<<<< Temporary merge branch 1
             "https://drive.google.com/uc?export=view&id=1srIhnLGLnoCzJDfrFOSIvYGLmoTb1N0N",
             "https://drive.google.com/uc?export=view&id=1hh4eLuXHajIDqPYB4Xg9T_uRA0yyNNJQ",
             "https://drive.google.com/uc?export=view&id=1G3V6WLQor-wTPjIiu98adBSbx5P8Hmn9",
             "https://drive.google.com/uc?export=view&id=1PKii0kMkRVpSiYcmcAsdrvVQlsWdKjzQ",
             "https://drive.google.com/uc?export=view&id=1RRjn3p7obs4yOGGXKDNgUB8_tqeQ3IYB",
             "https://drive.google.com/uc?export=view&id=1UuxrTMYjtH_augK2B6w5dKSHYQ_HQjam",
->>>>>>> 030d40bb2b76063daf589947a6fcd4b7daecc65a
+=========
+            "https://drive.google.com/uc?export=view&id=1jlplM7bm8hlrgqOlVAf2BeUdZhzCQOzm",
+            "https://drive.google.com/uc?export=view&id=1h4nPmsFRcDs59R7u9Bc5waXlp2knnGsS",
+            "https://drive.google.com/uc?export=view&id=1w5ZZ9BXCBoOHSaI5pyWRg3FrMWi3lPW1",
+            "https://drive.google.com/uc?export=view&id=1Vk_sRjgTsJbPEkCEzosQijnNEuUTggJ6",
+            "https://drive.google.com/uc?export=view&id=1CtRrdMk5F8hHNkZcmHLbSwYb1FEcGw70",
+            "https://drive.google.com/uc?export=view&id=1fZnhEulk5L_Yvr0OEvuGcVkANQE1Z9-7",
+>>>>>>>>> Temporary merge branch 2
         ]
         data_list = [
             {
@@ -209,21 +209,7 @@ elif menu == "Baleg":
 
     def baleg():
         gambar_urls = [
-<<<<<<< HEAD
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-=======
+<<<<<<<<< Temporary merge branch 1
             "https://drive.google.com/uc?export=view&id=1Lqrofe1GSF6V_gnaRKhjskwxblzlR84M",
             "https://drive.google.com/uc?export=view&id=1EDAWQ4h_eyFPU3WHZXJGlNvLkQ-V4A4X",
             "https://drive.google.com/uc?export=view&id=1E24ozVL1pJUmj62mqR4J43pVHpGEYiSk",
@@ -237,7 +223,21 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=18R5Y94SJqPVIYxRiwinAYFnOM5p_oMGa",
             "https://drive.google.com/uc?export=view&id=1fTOxSDoCkYEGG3ai4aQRhOXG67c9ZjYg",
             "https://drive.google.com/uc?export=view&id=1Irm-Rs59jo45Ls8N6Gv7HeVEseqEPlEH",
->>>>>>> 030d40bb2b76063daf589947a6fcd4b7daecc65a
+=========
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+>>>>>>>>> Temporary merge branch 2
         ]
         data_list = [
             {
@@ -391,8 +391,8 @@ elif menu == "Baleg":
                 "asal": "Palembang",
                 "alamat": "Bilabong",
                 "hobbi": "Cerita",
-                "sosmed": "@jeremia_s_",
-                "kesan": "Abangnya keliatan seperti orang pintar",
+                "sosmed": "@jeremia_s_", 
+                "kesan": "Abangnya keliatan seperti orang pintar, memang pintar",
                 "pesan": "semangat kuliahnya kak, tetap pertahankan akademiknya", 
                 "jabatan" : " Anggota Komisi 3 Legislatif", # 1
             },
@@ -408,26 +408,7 @@ elif menu == "MedKraf":
 
     def medkraf():
         gambar_urls = [
-<<<<<<< HEAD
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-=======
+<<<<<<<<< Temporary merge branch 1
             "https://drive.google.com/uc?export=view&id=1QxQJ7mOD1y3GM7Cv5Xo0uPog4aYrndZW",
             "https://drive.google.com/uc?export=view&id=1RldGMPX2eQAxqDsdHIhc-J0YuNVpeZsC",
             "https://drive.google.com/uc?export=view&id=1aYuXgwEiosYWSrvEL80L4Cz6Xe6KeZUg",
@@ -446,7 +427,26 @@ elif menu == "MedKraf":
             "https://drive.google.com/uc?export=view&id=1CI9mi7G1pSfadniRXIZ9ig_FspGSf6Er",
             "https://drive.google.com/uc?export=view&id=1q9gU1HZPtKWsQyS9FtROlj97FEglUlMz",
             "https://drive.google.com/uc?export=view&id=17QQW0n8lJ0zH5m5DxfyeC-vkyKl6YK7v",
->>>>>>> 030d40bb2b76063daf589947a6fcd4b7daecc65a
+=========
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+>>>>>>>>> Temporary merge branch 2
         ]
         data_list = [
             {
@@ -459,11 +459,11 @@ elif menu == "MedKraf":
                 "sosmed": "",
                 "kesan": "Abangnya asik dana kece",
                 "pesan": "Semangat kuliahnya bang, tetap fokus",
-<<<<<<< HEAD
-                "jabatan" : "", #1
-=======
+<<<<<<<<< Temporary merge branch 1
                 "jabatan" : "Kepala Departemen", #1
->>>>>>> 030d40bb2b76063daf589947a6fcd4b7daecc65a
+=========
+                "jabatan" : "", #1
+>>>>>>>>> Temporary merge branch 2
             },
             {
                 "nama": "Elok Fiola",
@@ -586,6 +586,18 @@ elif menu == "MedKraf":
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
+            "nama": "Dwi Ratna Anggraeni",
+                "nim": "122450008",
+                "umur": "20",
+                "asal": "Jambi",
+                "alamat": "Jalan Durian 5 Pemda",
+                "hobi": "",
+                "sosmed": "@dwiratnn_",
+                "kesan": "Kakaknya kalem banget dan baik hati ",
+                "pesan": "Semangat kak dan bahagia terus ya", 
+                "jabatan" : "Anggota Divisi PDD", # 1
+            },
+            {
                 "nama": "Gymnastiar Al Khoarizmy",
                 "nim": "122450096",
                 "umur": "20",
@@ -679,18 +691,7 @@ elif menu == "Departemen SSD":
 
     def SSD():
         gambar_urls = [
-<<<<<<< HEAD
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-=======
+<<<<<<<<< Temporary merge branch 1
             "https://drive.google.com/uc?export=view&id=14CRsEAnyRsx6QSb6tlS-bhxMOna7u714",
             "https://drive.google.com/uc?export=view&id=1C9eU6NlRo5kLf7c8_rk1P49-m4DGOjPj",
             "https://drive.google.com/uc?export=view&id=1Vp-Km3gFIIooGayGHzdcB4_IGjn0hegD",
@@ -701,7 +702,18 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1eSMX5MsLuCxLIvVty49S8OUdanvVoOWQ",
             "https://drive.google.com/uc?export=view&id=1_jfGkB292b67Tn30qeE941qfigvnOfpM",
             "https://drive.google.com/uc?export=view&id=1lAeh7KVWCN4ulZDxBYdYk2V-MDB9VoCD",
->>>>>>> 030d40bb2b76063daf589947a6fcd4b7daecc65a
+=========
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+>>>>>>>>> Temporary merge branch 2
             
         ]
         data_list = [
@@ -837,11 +849,12 @@ elif menu == "Departemen PSDA":
 
     def PSDA():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1HV1tCIcYX5hbMFXQPXXJWQezWsYK5yYY",
             "https://drive.google.com/uc?export=view&id=12Dr9j9N0M5qNBYBrmwzp3TErHv7U_F4B",
             "https://drive.google.com/uc?export=view&id=1SHOmsnO4Ul0vtZAJdamoROgomPRLeMLP",
-            
-        
         ]
         data_list = [
             {
@@ -880,10 +893,6 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat bang jangan lupa istirahat", 
                 "jabatan" : "Kepala Divisi Manjakat", # 1
             },
-
- 
-           
-
         ]
         display_images_with_data(gambar_urls, data_list)
 
