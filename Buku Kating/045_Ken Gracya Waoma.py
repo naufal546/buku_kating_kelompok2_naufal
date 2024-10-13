@@ -20,6 +20,7 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "MedKraf"
         ],
         icons=[
             "people-fill",
@@ -30,6 +31,8 @@ def streamlit_menu():
             "people-fill",
             "people-fill",
             "people-fill",
+            "people-fill"
+
         ],
         default_index=0,
         orientation="horizontal",
@@ -98,7 +101,7 @@ if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1nrkqHjYXezmjvPqWMoW3zlKpvaoFZnSj",
-            "https://drive.google.com/uc?export=view&id=ncxpNR-SCF9FKEeY4JInjEBmDvY1b-VA/view",
+            "https://drive.google.com/uc?export=view&id=1ncxpNR-SCF9FKEeY4JInjEBmDvY1b-VA",
             "https://drive.google.com/uc?export=view&id=1nPBOX0ccPNoJ8JXr4L6H4iE_f6-HZ0rs",
             "https://drive.google.com/uc?export=view&id=1njQ07oHo4zKhKA3IoZNuud5W5kHBKH8i",
             "https://drive.google.com/uc?export=view&id=1nszby9pGxEtRoDBcaHfJodIvhg8QdeEw",
@@ -769,9 +772,9 @@ elif menu == "Departemen PSDA":
 
     def PSDA():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1VCpfxzEFQMu1GS2zlEZObGhfY0OyY-LQ",
-            "https://drive.google.com/uc?export=view&id=1KHYspgK7IVcoU4E5oFhZCjI1LPqSI0dh",
-            "https://drive.google.com/uc?export=view&id=1K_nYH-LurIkKJZ8wTPRED2HrdnOB02d7",
+            "https://drive.google.com/uc?export=view&id=1ujbL5d0Ad3qhbG1M5YplaJMBWBSJL3ZJ",
+            "https://drive.google.com/uc?export=view&id=1tcsx7sXsQ6nOekF4u4z25kkpbM9ysLDs",
+            "https://drive.google.com/uc?export=view&id=1utfER2Un8QhXlzVcbb2mKqzgiIPy1o7V",
         ]
         data_list = [
             {
