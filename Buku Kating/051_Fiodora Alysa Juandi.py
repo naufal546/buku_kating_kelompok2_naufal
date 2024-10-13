@@ -374,8 +374,6 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi": "Baca Buku, Ngoding, Ibadah",
                 "sosmed": "@berlyyanda",
-                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
                 "kesan": "Baik kakanya",
                 "pesan": "semangat kuliahnya kak, tetap pertahankan jadi orang baik", 
                 "jabatan" : " Anggota Komisi 3 Legislatif", # 1
@@ -387,10 +385,8 @@ elif menu == "Baleg":
                 "asal": "Palembang",
                 "alamat": "Bilabong",
                 "hobbi": "Cerita",
-                "sosmed": "@jeremia_s_",
-                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
-                "kesan": "Abangnya keliatan seperti orang pintar",
+                "sosmed": "@jeremia_s_", 
+                "kesan": "Abangnya keliatan seperti orang pintar, memang pintar",
                 "pesan": "semangat kuliahnya kak, tetap pertahankan akademiknya", 
                 "jabatan" : " Anggota Komisi 3 Legislatif", # 1
             },

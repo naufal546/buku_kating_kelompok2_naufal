@@ -97,12 +97,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1nrkqHjYXezmjvPqWMoW3zlKpvaoFZnSj",
+            "https://drive.google.com/uc?export=view&id=ncxpNR-SCF9FKEeY4JInjEBmDvY1b-VA/view",
+            "https://drive.google.com/uc?export=view&id=1nPBOX0ccPNoJ8JXr4L6H4iE_f6-HZ0rs",
+            "https://drive.google.com/uc?export=view&id=1njQ07oHo4zKhKA3IoZNuud5W5kHBKH8i",
+            "https://drive.google.com/uc?export=view&id=1nszby9pGxEtRoDBcaHfJodIvhg8QdeEw",
+            "https://drive.google.com/uc?export=view&id=1nV-oCnARcdI6RtdQOt7JtxDlmzf3yulC",
         ]
         data_list = [
     
@@ -114,8 +114,8 @@ if menu == "Kesekjenan":
                 "alamat": "Way Kandis",
                 "hobbi": "Denger Musik",
                 "sosmed": "@gumilangtkharisma",
-                "kesan": "Cara komunikasi abangnya keren",
-                "pesan": "Semoga cepat lulus bang",
+                "kesan": "Keren banget bang suka sama pengalamannya",
+                "pesan": "Sehat sehat bang",
                 "jabatan" : "Ketua himpunan",  # 1
             },
             {
@@ -126,8 +126,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "Kakaknya lucu bangettt",
-                "pesan": "semangat kuliahnya semoga cepat lulus kak",  
+                "kesan": "Imut banget kak, kayak masih angkatan 23",
+                "pesan": "Semangat kak kuliahnya, jangan lupa tersenyum",  
                 "jabatan" : " Sekretaris Umum" # 1
             },
             {
@@ -138,8 +138,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobbi": "Denger Musik",
                 "sosmed": "@hrtfdlh",
-                "kesan": "Kakaknya pendiam dan kalem",
-                "pesan": "Jangan patah semangat kakak",
+                "kesan": "Kakaknya ramah dan kalem",
+                "pesan": "Semangat terus kak, bahagia selalu",
                 "jabatan" : "Bendahara umum",  # 1
             },
             {
@@ -150,8 +150,8 @@ if menu == "Kesekjenan":
                 "alamat": "Bawean 2",
                 "hobbi": "Main gitar",
                 "sosmed": "@nadillaandr26",
-                "kesan": "Abangnya keren public speakingnya",
-                "pesan": "semangat bang kuliahnya, jangan patah semangat", 
+                "kesan": "Abangnya keren saat berbicara",
+                "pesan": "semangat bang kuliahnya, tetap keren selalu", 
                 "jabatan" : "Sekretaris Jendral", # 1
             },
             {
@@ -162,8 +162,8 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi": "Dengerin Pandra Gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "Kakaknya keliatan pintar",
-                "pesan": "semangat kak kuliahnya, dan tidak mudah menyerah", 
+                "kesan": "Kakak menunjukkan sikap ramah yang membuat kami nyaman bertanya",
+                "pesan": "Sukses selalu kak", 
                 "jabatan" : "Sekretaris 1", # 1
             },
             {
@@ -174,8 +174,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobbi": "Baca",
                 "sosmed": "@nadillaandr26",
-                "kesan": "Sama sama asal metro hihihi",
-                "pesan": "semangat kak kuliahnya, sukses selalu",  
+                "kesan": "Kakak sangat ramah dan menyenangkan diajak bicara",
+                "pesan": "Tetap bersinar dan menginspirasi untuk kami",  
                 "jabatan" : "Bendahara 1", # 1
             },
 
@@ -211,8 +211,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi": "Tanya sama GPT",
                 "sosmed": "@trimurniaa",
-                "kesan": "Kakaknya cantik, ramah, baik",
-                "pesan": "semangat kuliahnya kakak, tetap jadi orang baik",
+                "kesan": "Kakak punya energi positif yang menular",
+                "pesan": "Terima kasih atas bimbingannya semoga kakak slalu sukses",
                 "jabatan" : "Ketua Badan Legislatif", #1
             },
             {
@@ -223,8 +223,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi": "Puasa Senin Kamis",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Baik banget kakaknya, sgt humble",
-                "pesan": "Semangat kuliahnya kak", 
+                "kesan": "Kakak ramah banget dan inspiratif",
+                "pesan": "Tetaplah menjadi inspirasi bagi kami", 
                 "jabatan" : "Sekretaris", # 1
             },
             {
@@ -235,8 +235,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi": "Menonton film",
                 "sosmed": "wlsbn0",
-                "kesan": "Ramah banget kakanya, baikk pula",
-                "pesan": "semangat ya kak, tetap ramahh", 
+                "kesan": "Kakak sangat profesional dalam mencari solusi ",
+                "pesan": "semangat ya kak terus berkembang di baleg", 
                 "jabatan" : "Bendahara", # 1
             },
             {
@@ -247,8 +247,8 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobbi": "Baca Webtoon",
                 "sosmed": " @anisadini10",
-                "kesan": "Kakaknya ramahh, asik,baik",
-                "pesan": "semangat terus kuliahnya kakak, jangan mudah menyerah", 
+                "kesan": "Kakaknya menginspirasi kami dengan sikap pantang menyerah",
+                "pesan": "Jangan pernah berhenti memotivasi adik adik", 
                 "jabatan" : "Kepala Komisi 1 Legislatif", # 1
             },
             {
@@ -259,8 +259,8 @@ elif menu == "Baleg":
                 "alamat": "Lampung Timur",
                 "hobbi": "Baca Jurnal",
                 "sosmed": " @dylebee",
-                "kesan": "Bagus sekali kak namanya, orangnya juga cantik",
-                "pesan": "semangat ya kuliahnya jangan putus asa kak", 
+                "kesan": "Kakak selalu menjaga suasana agar tetap positif",
+                "pesan": "Teruslah membimbing kami dengan keteladanan yang kakak miliki", 
                 "jabatan" : "Kepala Komisi 2 Aspirasi dan Pengawasan", # 1
             },
             {
@@ -271,8 +271,8 @@ elif menu == "Baleg":
                 "alamat": "Sukarame",
                 "hobbi": "Sholat Malam",
                 "sosmed": "@fhrul.pdf",
-                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
+                "kesan": "Abang selalu penuh perhatian dan peduli terhadap kami",
+                "pesan": "Semoga abang diberi kemudahan dalam mencapai tujuan hidup", 
                 "jabatan" : "Kepala Komisi 3 Media Legislatif", # 1
             },
             {
@@ -283,8 +283,8 @@ elif menu == "Baleg":
                 "alamat": "Kalianda",
                 "hobbi": "Membaca Al waqiah setiap magrib",
                 "sosmed": " @ansftynn_",
-                "kesan": "Manis banget kakaknya, ramah juga",
-                "pesan": "semangat kuliahnya kak, tetap baik hati kak", 
+                "kesan": "Kakak selalu sabar meski ditengah tekanan tugas",
+                "pesan": "Terima kasih atas pengertian dan perhatian yang kakak tunjukkan", 
                 "jabatan" : "Anggota Komisi 1 Legislatif", # 1
             },
             {
@@ -295,8 +295,8 @@ elif menu == "Baleg":
                 "alamat": "Belwis",
                 "hobbi": "Sholat Dhuha",
                 "sosmed": "@fer_yulius",
-                "kesan": "Abangnya sepertinya famous yah",
-                "pesan": "semangat kuliahnya kak, semoga lulus tepat waktu", 
+                "kesan": "Abang berpikir kritis dan logis dalam memberikan solusi ",
+                "pesan": "Semoga abang dijauhkan dari kesulitan", 
                 "jabatan" : "Anggota Komisi 1 Legislatif", # 1
             },
             {
@@ -307,8 +307,8 @@ elif menu == "Baleg":
                 "alamat": "Teluk Betung",
                 "hobbi": "Baca Al-Qur'an",
                 "sosmed": "@fleurnsh",
-                "kesan": "MasyaAllah kak pertahankan hobinya",
-                "pesan": "Semangat kuliahnya, semoga semakin rajin mengerjakan tugas", 
+                "kesan": "Kakak membagikan pengalaman yang bermanfaat",
+                "pesan": "Teruslah menjadi sosok yang peduli dan penuh perhatian", 
                 "jabatan" : "Anggota Komisi 1 Legislatif", # 1
             },
             {
@@ -319,8 +319,8 @@ elif menu == "Baleg":
                 "alamat": "Korpri",
                 "hobbi": "Main Kucing",
                 "sosmed": "@myrrinn",
-                "kesan": "Abangnya baik, kalem, dan ramah",
-                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari", 
+                "kesan": "Abang memberikan arahan dan penuh perhatian",
+                "pesan": "Semoga abang terus berkembang", 
                 "jabatan" : "Anggota Komisi 2 Aspirasi dan Pengawasan", # 1
             },
             {
@@ -331,8 +331,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobbi": "Nyari Sinyal di Gedung F",
                 "sosmed": " @_.dheamelia",
-                "kesan": "Kakaknya kelihatan aktif organisasi bangettt",
-                "pesan": "Ramahh banget kak Dheaa", 
+                "kesan": "Kakak sangat inspiratif",
+                "pesan": "Semoga kakak bisa tetap menjaga semangat dalam belajar", 
                 "jabatan" : "Anggota Komisi 2 Aspirasi dan Pengawasan", # 1
             },
             {
@@ -343,10 +343,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi": "Baca Buku, Ngoding, Ibadah",
                 "sosmed": "@berlyyanda",
-                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
-                "kesan": "Baik kakanya",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan jadi orang baik", 
+                "kesan": "Kakak kelihatan ramah sekali",
+                "pesan": "Semangat terus kak, pertahankan akademiknya", 
                 "jabatan" : " Anggota Komisi 3 Legislatif", # 1
             },
             {
@@ -357,11 +355,8 @@ elif menu == "Baleg":
                 "alamat": "Bilabong",
                 "hobbi": "Cerita",
                 "sosmed": "@jeremia_s_",
-                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
-                "kesan": "Abangnya keliatan seperti orang pintar",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan akademiknya", 
-                "jabatan" : " Anggota Komisi 3 Legislatif", # 1
+                "kesan": "Abang selalu ceria dan selalu membawa suasana positif",
+                "pesan": "Semoga abang selalu berhasil atas semua usaha yang dilakukan"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -416,8 +411,8 @@ elif menu == "MedKraf":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton",
                 "sosmed": "",
-                "kesan": "Abangnya asik dana kece",
-                "pesan": "Semangat kuliahnya bang, tetap fokus",
+                "kesan": "Kakak sangat terbuka dalam menerima kritik dan saran",
+                "pesan": "Semangat terus bang dalam menjalani hari",
                 "jabatan" : "Kepala Departemen", #1
             },
             {
