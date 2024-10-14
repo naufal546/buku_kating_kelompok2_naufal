@@ -97,9 +97,9 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1gM3XwdLzI6lQ5Mvi8ixpMeJxWvLtjTR1_",
-            "https://drive.google.com/uc?export=view&id=1hjp2OwYH9uphvoPymjWlveA7IaD_Xh6i_",
-            "https://drive.google.com/uc?export=view&id=1gJFRhZKQwhznEG9HCsEOmhFPDIZV_R-2_",
+            "https://drive.google.com/uc?export=view&id=1gM3XwdLzI6lQ5Mvi8ixpMeJxWvLtjTR1",
+            "https://drive.google.com/uc?export=view&id=1iDdUznI0pTbLoUhbCNm1YRBmCom7mdmb",
+            "https://drive.google.com/uc?export=view&id=1gJFRhZKQwhznEG9HCsEOmhFPDIZV_R-2",
         ]
         data_list =   [
             {
@@ -342,94 +342,6 @@ elif menu == "Baleg":
                 "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
                 "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
                 "jabatan" : " Anggota Komisi 3 Legislatif", # 1
-            },
-        ]
-elif menu == "Storage Sains Data":
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-            {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-            {
-                "nama": "Kakak C",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-        ]
-        display_images_with_data(gambar_urls, data_list)
-    kesekjenan()
-
-elif menu == "Baleg":
-    def baleg():
-        gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-        ]
-        data_list = [
-            {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobbi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abangnya tidak pelit ilmu",  
-                "pesan":"Semangat KMI EXPO XV bang!!!"
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
-            },
-            {
-                "nama": "Kakak E",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-            {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
