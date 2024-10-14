@@ -20,11 +20,7 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
-<<<<<<< HEAD
-            "Departemen Medkraf",
-=======
             "Departemen MedKraf",
->>>>>>> 90be5d97fb5adcb195baac30840bc03569cc9557
         ],
         icons=[
             "people-fill",
@@ -316,7 +312,7 @@ elif menu == "Baleg":
                 "alamat": "Teluk Betung",
                 "hobbi": "Baca Al-Qur'an",
                 "sosmed": "@fleurnsh",
-                "kesan": "menarik banget kakaknya,
+                "kesan": "menarik banget kakaknya",
                 "pesan": "jangan lupa sholat dzuhurnya", 
                 "jabatan" : "Anggota Komisi 1 Legislatif", # 1
             },
@@ -878,7 +874,8 @@ elif menu == "Departemen MIKFES":
         ]
         display_images_with_data(gambar_urls, data_list)
     Mikfes()
-    elif menu == "Senator":
+
+elif menu == "Senator":
 
     def Senator():
         gambar_urls = [
@@ -1163,7 +1160,7 @@ elif menu == "Departemen Medkraf":
 
     medkraf()
 
-    elif menu == "Departemen SSD":
+elif menu == "Departemen SSD":
 
     def SSD():
         gambar_urls = [
