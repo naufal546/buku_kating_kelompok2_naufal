@@ -200,20 +200,19 @@ elif menu == "Baleg":
 
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1ediVt-Hn_kdYLjX4SnVOLXfRH_V4N9-V/view",
-            "https://drive.google.com/uc?export=view&id=1eHGPVl9H-QHcKKyQARsIY05jOwzKug1U/view",
-            "https://drive.google.com/uc?export=view&id=1eNk9_ERN0agqDkL5EWjM2xKJx81spTTc/view",
-            "https://drive.google.com/uc?export=view&id=1e6l5ec8k_P7zP4YoF-ixxjhWX9ToVDds/view",
-            "https://drive.google.com/uc?export=view&id=1eMbc_kc1gAtMs3XnekNsDRPPgyCtBE_z/view",
-            "https://drive.google.com/uc?export=view&id=1ehnEq3ti_RQPYNLCmKSouihyj_AymFL-/view",
-            "https://drive.google.com/uc?export=view&id=1eM1keroHdMdID6cK4CFO5x_WPqHWqrMi/view",
-            "https://drive.google.com/uc?export=view&id=1efq-Q-U5JRcO6d68KCwblNVLzm9LEBkv/view",
-            "https://drive.google.com/uc?export=view&id=1eDpYixIH6vGgHZud-seCZmZQpfIh9dFb/view",
-            "https://drive.google.com/uc?export=view&id=1eTnZ0OcSWZjR-Jy1hdFC5HXDqjZHATgO/view",
-            "https://drive.google.com/uc?export=view&id=1ehbry5J9A6zD_CziD20s2PjyBSlxTQGy/view",
-            "https://drive.google.com/uc?export=view&id=1e9TDKvPS9gFebpaQt14e0_WH7nf23H3j/view",
-            "https://drive.google.com/uc?export=view&id=1eNk9_ERN0agqDkL5EWjM2xKJx81spTTc/view",
-
+            "https://drive.google.com/uc?export=view&id=1ediVt-Hn_kdYLjX4SnVOLXfRH_V4N9-V",
+            "https://drive.google.com/uc?export=view&id=1eHGPVl9H-QHcKKyQARsIY05jOwzKug1U",
+            "https://drive.google.com/uc?export=view&id=1eNk9_ERN0agqDkL5EWjM2xKJx81spTTc",
+            "https://drive.google.com/uc?export=view&id=1e6l5ec8k_P7zP4YoF-ixxjhWX9ToVDds",
+            "https://drive.google.com/uc?export=view&id=1eMbc_kc1gAtMs3XnekNsDRPPgyCtBE_z",
+            "https://drive.google.com/uc?export=view&id=1ehnEq3ti_RQPYNLCmKSouihyj_AymFL-",
+            "https://drive.google.com/uc?export=view&id=1eM1keroHdMdID6cK4CFO5x_WPqHWqrMi",
+            "https://drive.google.com/uc?export=view&id=1efq-Q-U5JRcO6d68KCwblNVLzm9LEBkv",
+            "https://drive.google.com/uc?export=view&id=1eDpYixIH6vGgHZud-seCZmZQpfIh9dFb",
+            "https://drive.google.com/uc?export=view&id=1eTnZ0OcSWZjR-Jy1hdFC5HXDqjZHATgO",
+            "https://drive.google.com/uc?export=view&id=1ehbry5J9A6zD_CziD20s2PjyBSlxTQGy",
+            "https://drive.google.com/uc?export=view&id=1e9TDKvPS9gFebpaQt14e0_WH7nf23H3j",
+            "https://drive.google.com/uc?export=view&id=1eNk9_ERN0agqDkL5EWjM2xKJx81spTTc",
         ]
         data_list = [
             {
@@ -342,7 +341,7 @@ elif menu == "Baleg":
                 "umur": "20 tahun",
                 "asal": "Ogan Ilir",
                 "alamat": "Natar",
-                "hobi": "Nyari Sinyal di Gedung F",
+                "hobbi": "Nyari Sinyal di Gedung F",
                 "sosmed": " @_.dheamelia",
                 "kesan": "Kakaknya kelihatan aktif organisasi bangettt",
                 "pesan": "Ramahh banget kak Dheaa", 
