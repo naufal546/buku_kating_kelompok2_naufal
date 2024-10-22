@@ -100,12 +100,11 @@ if menu == "Kesekjenan":
 
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1mr_OnoWrb33rxMPJoPu1HWX5yFhetFWQ_",
+            "https://drive.google.com/uc?export=view&id=1iPY4z7FG9km0985uLa1OLgPTyLhYrV3f_",
+            "https://drive.google.com/uc?export=view&id=1iPDBlMyuALLAajTsCKzqv5HYOQMp_Q0h_",
+            "https://drive.google.com/uc?export=view&id=1iVjayLW1HGFIHJN7DjxycVHxQ035upoF_",
+            "https://drive.google.com/uc?export=view&id=1mmbjC7BFnSlVGTD2G3074LvseENZvdMy_",
         ]
         data_list = [
             {
@@ -116,7 +115,7 @@ if menu == "Kesekjenan":
                 "alamat": "Way Kandis",
                 "hobbi": "Denger Musik",
                 "sosmed": "@gumilangtkharisma",
-                "kesan": "Cara komunikasi abangnya keren",
+                "kesan": "berwibawa bangett",
                 "pesan": "Semoga cepat lulus bang",
                 "jabatan" : "Ketua himpunan",  # 1
             },
@@ -176,7 +175,7 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobbi": "Baca",
                 "sosmed": "@nadillaandr26",
-                "kesan": "Sama sama asal metro hihihi",
+                "kesan": "sangat baik",
                 "pesan": "semangat kak kuliahnya, sukses selalu",  
                 "jabatan" : "Bendahara 1", # 1
             },
@@ -193,7 +192,7 @@ elif menu == "Baleg":
 
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1dU_MgfZ0HQ5Rtw-NYQ9_B-SsbWkgyNMF_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -360,7 +359,7 @@ elif menu == "Baleg":
                 "alamat": "Bilabong",
                 "hobbi": "Cerita",
                 "sosmed": "@jeremia_s_",
-                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
+                "kesan": "Sangat merangkul",
                 "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
                 "jabatan" : " Anggota Komisi 3 Legislatif", # 1
             },
