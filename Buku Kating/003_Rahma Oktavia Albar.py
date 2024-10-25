@@ -97,9 +97,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1gM3XwdLzI6lQ5Mvi8ixpMeJxWvLtjTR1_",
-            "https://drive.google.com/uc?export=view&id=1hjp2OwYH9uphvoPymjWlveA7IaD_Xh6i_",
-            "https://drive.google.com/uc?export=view&id=1gJFRhZKQwhznEG9HCsEOmhFPDIZV_R-2_",
+            "https://drive.google.com/uc?export=view&id=1gM3XwdLzI6lQ5Mvi8ixpMeJxWvLtjTR1",
+            "https://drive.google.com/uc?export=view&id=1iDdUznI0pTbLoUhbCNm1YRBmCom7mdmb",
+            "https://drive.google.com/uc?export=view&id=1gJFRhZKQwhznEG9HCsEOmhFPDIZV_R-2",
+            "https://drive.google.com/uc?export=view&id=1gMcsr8CgmtOTYwylQvrFiE9VZZbAE1hH",
+            "https://drive.google.com/uc?export=view&id=1gN0FCBuy1JW_-3vzWIdbmT58FCd8KM-J",
+            "https://drive.google.com/uc?export=view&id=1gNhVYg8rcuJtwQuyRCa_4EtSgtc5IHnr",
         ]
         data_list =   [
             {
@@ -122,7 +125,7 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "Kakaknya lucu bangettt",
+                "kesan": "Kakaknya lucu banget",
                 "pesan": "semangat kuliahnya semoga cepat lulus kak",  
                 "jabatan" : " Sekretaris Umum" # 1
             },
@@ -134,7 +137,7 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobbi": "Denger Musik",
                 "sosmed": "@hrtfdlh",
-                "kesan": "Kakaknya pendiam dan kalem",
+                "kesan": "Kakaknya keren",
                 "pesan": "Jangan patah semangat kakak",
                 "jabatan" : "Bendahara umum",  # 1
             },
@@ -147,7 +150,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Main gitar",
                 "sosmed": "@nadillaandr26",
                 "kesan": "Abangnya keren public speakingnya",
-                "pesan": "semangat bang kuliahnya, jangan patah semangat", 
+                "pesan": "semangat bang kuliahnya", 
                 "jabatan" : "Sekretaris Jendral", # 1
             },
             {
@@ -158,8 +161,8 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi": "Dengerin Pandra Gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "Kakaknya keliatan pintar",
-                "pesan": "semangat kak kuliahnya, dan tidak mudah menyerah", 
+                "kesan": "Kakaknya keren",
+                "pesan": "sukses untuk perkuliahannya kak!", 
                 "jabatan" : "Sekretaris 1", # 1
             },
             {
@@ -170,8 +173,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobbi": "Baca",
                 "sosmed": "@nadillaandr26",
-                "kesan": "Sama sama asal metro hihihi",
-                "pesan": "semangat kak kuliahnya, sukses selalu",  
+                "kesan": "Kakaknya pintar",
+                "pesan": "semoga kakaknya selalu bahagia",  
                 "jabatan" : "Bendahara 1", # 1
             },
         ]
@@ -182,9 +185,19 @@ elif menu == "Baleg":
 
     def baleg():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1_WvkQYhb6g10WXTr8BjT7Y-2cpRJgkLB",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1_M7FiCiweLm7HM3GX1aSxh9G0FwD2cPz",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1_JoMdQUrCDF_GpVgaFKf_NC4Vmt93Aha",
         ]
         data_list = [
             {
@@ -195,8 +208,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi": "Tanya sama GPT",
                 "sosmed": "@trimurniaa",
-                "kesan": "Kakaknya cantik, ramah, baik",
-                "pesan": "semangat kuliahnya kakak, tetap jadi orang baik",
+                "kesan": "Kakaknya cantik, ramah sekali",
+                "pesan": "Tetap jadi orang baik kakk",
                 "jabatan" : "Ketua Badan Legislatif", #1
             },
             {
@@ -207,8 +220,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi": "Puasa Senin Kamis",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Baik banget kakaknya, sgt humble",
-                "pesan": "Semangat kuliahnya kak", 
+                "kesan": "Kakaknya humble, cantik",
+                "pesan": "Semangat kuliahnya kakak", 
                 "jabatan" : "Sekretaris", # 1
             },
             {
@@ -219,8 +232,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi": "Menonton film",
                 "sosmed": "wlsbn0",
-                "kesan": "Ramah banget kakanya, baikk pula",
-                "pesan": "semangat ya kak, tetap ramah", 
+                "kesan": "Kakaknya baik, cantik",
+                "pesan": "semangat kuliahnya kak", 
                 "jabatan" : "Bendahara", # 1
             },
             {
@@ -231,8 +244,8 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobbi": "Baca Webtoon",
                 "sosmed": " @anisadini10",
-                "kesan": "Kakaknya ramahh, asik,baik",
-                "pesan": "semangat terus kuliahnya kakak, jangan mudah menyerah", 
+                "kesan": "Kakaknya asik banget",
+                "pesan": "semangat terus kuliahnya kakak", 
                 "jabatan" : "Kepala Komisi 1 Legislatif", # 1
             },
             {
@@ -243,8 +256,8 @@ elif menu == "Baleg":
                 "alamat": "Lampung Timur",
                 "hobbi": "Baca Jurnal",
                 "sosmed": " @dylebee",
-                "kesan": "Bagus sekali kak namanya, orangnya juga cantik",
-                "pesan": "semangat ya kuliahnya jangan putus asa kak", 
+                "kesan": "Kakaknya cantik",
+                "pesan": "Jangan putus asa kak", 
                 "jabatan" : "Kepala Komisi 2 Aspirasi dan Pengawasan", # 1
             },
             {
@@ -255,8 +268,8 @@ elif menu == "Baleg":
                 "alamat": "Sukarame",
                 "hobbi": "Sholat Malam",
                 "sosmed": "@fhrul.pdf",
-                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
+                "kesan": "Abangnya asik",
+                "pesan": "Sehat selalu bang", 
                 "jabatan" : "Kepala Komisi 3 Media Legislatif", # 1
             },
             {
@@ -267,8 +280,8 @@ elif menu == "Baleg":
                 "alamat": "Kalianda",
                 "hobbi": "Membaca Al waqiah setiap magrib",
                 "sosmed": " @ansftynn_",
-                "kesan": "Manis banget kakaknya, ramah juga",
-                "pesan": "semangat kuliahnya kak, tetap baik hati kak", 
+                "kesan": "Kakaknya cantik",
+                "pesan": "Tetap baik hati kak", 
                 "jabatan" : "Anggota Komisi 1 Legislatif", # 1
             },
             {
@@ -291,8 +304,8 @@ elif menu == "Baleg":
                 "alamat": "Teluk Betung",
                 "hobbi": "Baca Al-Qur'an",
                 "sosmed": "@fleurnsh",
-                "kesan": "MasyaAllah kak pertahankan hobinya",
-                "pesan": "Semangat kuliahnya, semoga semakin rajin mengerjakan tugas", 
+                "kesan": "Kakaknya sangat religius",
+                "pesan": "Semangat kuliahnya kakkk", 
                 "jabatan" : "Anggota Komisi 1 Legislatif", # 1
             },
             {
@@ -303,8 +316,8 @@ elif menu == "Baleg":
                 "alamat": "Korpri",
                 "hobbi": "Main Kucing",
                 "sosmed": "@myrrinn",
-                "kesan": "Abangnya baik, kalem, dan ramah",
-                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari", 
+                "kesan": "Abangnya baik",
+                "pesan": "Sehat selalu bang", 
                 "jabatan" : "Anggota Komisi 2 Aspirasi dan Pengawasan", # 1
             },
             {
@@ -315,8 +328,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobi": "Nyari Sinyal di Gedung F",
                 "sosmed": " @_.dheamelia",
-                "kesan": "Kakaknya kelihatan aktif organisasi bangettt",
-                "pesan": "Ramahh banget kak Dheaa", 
+                "kesan": "Kakaknya keren",
+                "pesan": "Semoga bahagia selalu kak", 
                 "jabatan" : "Anggota Komisi 2 Aspirasi dan Pengawasan", # 1
             },
             {
@@ -327,8 +340,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi": "Baca Buku, Ngoding, Ibadah",
                 "sosmed": "@berlyyanda",
-                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
+                "kesan": "Keren hobinya kak",
+                "pesan": "Pertahankan ibadahnya kak", 
                 "jabatan" : " Anggota Komisi 3 Legislatif", # 1
             },
             {
@@ -339,97 +352,9 @@ elif menu == "Baleg":
                 "alamat": "Bilabong",
                 "hobbi": "Cerita",
                 "sosmed": "@jeremia_s_",
-                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
+                "kesan": "Bagus bang hobinya",
+                "pesan": "Sehat selalu bang", 
                 "jabatan" : " Anggota Komisi 3 Legislatif", # 1
-            },
-        ]
-elif menu == "Storage Sains Data":
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-            {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-            {
-                "nama": "Kakak C",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-        ]
-        display_images_with_data(gambar_urls, data_list)
-    kesekjenan()
-
-elif menu == "Baleg":
-    def baleg():
-        gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-        ]
-        data_list = [
-            {
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "Jl. Bel",
-                "hobbi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "Abangnya tidak pelit ilmu",  
-                "pesan":"Semangat KMI EXPO XV bang!!!"
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
-            },
-            {
-                "nama": "Kakak E",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-            {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
