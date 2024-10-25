@@ -642,6 +642,7 @@ elif menu == "MedKraf":
         ]
         
         display_images_with_data(gambar_urls, data_list)
+    medkraf()
 
 elif menu == "Departemen_Eksternal":
 
