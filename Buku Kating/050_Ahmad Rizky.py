@@ -948,7 +948,7 @@ elif menu == "Departemen Medkraf":
                 "sosmed": "",
                 "kesan": "keren",
                 "pesan": "Semangat ya bangg",
-                "jabatan" : "", #1
+                "jabatan" : "Kepala Departemen Medkraf", #1
             },
             {
                 "nama": "Elok Fiola",
