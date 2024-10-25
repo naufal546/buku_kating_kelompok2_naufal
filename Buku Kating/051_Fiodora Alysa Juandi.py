@@ -1062,7 +1062,6 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1e0K7hYXDbh3sSqNjwf734qB6FwzLAKgG",
             "https://drive.google.com/uc?export=view&id=1hWqVGqfxJi2cOQt6g7nrmFBlmcOgJ5rm",
             "https://drive.google.com/uc?export=view&id=1xKugy1HwL-egysjK_mU6KLMMZ4g5xu2j",
-            "https://drive.google.com/uc?export=view&id=",
            
         ]
         data_list = [
