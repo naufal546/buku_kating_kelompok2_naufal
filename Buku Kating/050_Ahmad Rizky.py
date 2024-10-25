@@ -914,7 +914,7 @@ elif menu == "Senator":
     Senator()
 
 
-elif menu == "Departemen MedKraf":
+elif menu == "Departemen Medkraf":
 
     def medkraf():
         gambar_urls = [
