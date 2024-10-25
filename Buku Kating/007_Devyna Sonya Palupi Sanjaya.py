@@ -408,8 +408,9 @@ elif menu == "MedKraf":
             "https://drive.google.com/uc?export=view&id=1Ufg2Jmu6I5vj1DfyAitBgR7CFfc-n-f3",
             "https://drive.google.com/uc?export=view&id=1VPcApBYPkHgazBZ02p0xfFfR7RTTx7Iy",
             "https://drive.google.com/uc?export=view&id=1VLNvY3BZViX_pZqOlXA1H3T-7noWi76X",
-          
             ]   
+
+        ]
         data_list = [
             {
                 "nama": "Wahyudiyanto",
