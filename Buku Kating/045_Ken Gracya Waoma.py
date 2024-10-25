@@ -792,7 +792,6 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1tsr_Fgo1GxxSHUM_HmPo-kDA6kMcUwRU",
             "https://drive.google.com/uc?export=view&id=1uUeKFpryY-_FNDrkn8UzUohGlrAY0Tpn",
             "https://drive.google.com/uc?export=view&id=1trxAIDmrWRc02CXdxwrMrsPwUQ0lYd48",
-
         ]
         data_list = [
             {
@@ -1049,8 +1048,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1l1ov9aNjESpFGPDIizFDiMl_mEufFukk",
             "https://drive.google.com/uc?export=view&id=1lshn0H45NPkzxood-9KFixXMtgYjJ4W9",
             "https://drive.google.com/uc?export=view&id=1le2d-NTsmjEuABKI9pwCsWnIb-xVTy4n",
-            "https://drive.google.com/uc?export=view&id=",
-           
+            "https://drive.google.com/uc?export=view&id=",    
         ]
         data_list = [
             {
@@ -1465,6 +1463,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Tepuk Semangat",
                 "sosmed": "@u_yippy",
+                "kesan": "Jawabannya kakak jelas tapi bikin suasana wawancara jadi enjoy",
                 "kesan": "Jawabannya kakak jelas dan bikin suasana wawancara jadi enjoy",
                 "pesan": "Tetap inspiratif dan terus berkembang kakk", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
@@ -1477,6 +1476,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Q Time",
                 "sosmed": "@chlfawww",
+                "kesan": "",
+                "pesan": "Tetap pertahankan semangat yang berkobar itu kak", 
                 "kesan": "Kakaknya terlihat baik dan ramah",
                 "pesan": "Semoga kakak terus sukses dan dapat menggapai semua tujuan dengan lancar", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
@@ -1488,7 +1489,9 @@ elif menu == "Departemen Eksternal":
                 "asal": "Sumatera Barat",
                 "alamat": "Sukarame",
                 "hobbi": "Nonton youtube, main game",
-                "sosmed": "@alfaritziirvan",
+                "sosmed": "@alfaritziirvan", 
+                "kesan": "Keren banget bang dan baik hati",
+                "pesan": "Jangan lupa istirahat dan semangat bang", 
                 "kesan": "Abang keren banget bang dan sangat ramah",
                 "pesan": "Sehat selalu bang", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
@@ -1501,6 +1504,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Teluk Betung",
                 "hobbi": "Main Rubik",
                 "sosmed": "@izzalutfia",
+                "kesan": "Baik, humble sekali kakk",
+                "pesan": "Tetap pertahankan akademiknya kakakk", 
                 "kesan": "Baik, kemudian kakaknya asikk",
                 "pesan": "Sukses selalu ya kak, semangattt", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
@@ -1513,6 +1518,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Rajabasa",
                 "hobbi": "Mengaji",
                 "sosmed": "@alyaavanevi",
+                "kesan": "Baik hati dan namanya bagus sekali kak",
+                "pesan": "Sukses selalu kakk", 
                 "kesan": "Kakaknya cantik dan baikk",
                 "pesan": "Semoga semua impiannya tercapai kakk", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
@@ -1525,6 +1532,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Nemenin Tobias lari",
                 "sosmed": "@rayths_",
+                "kesan": "Baik dan sangat memberi motivasi bang",
+                "pesan": "Bahagia selalu bang", 
                 "kesan": "Energi positif dari abang bikin wawancara jadi penuh motivasi",
                 "pesan": "Semoga abang dan keluarga sehat selalu", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
@@ -1537,14 +1546,12 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Baca Buku",
                 "sosmed": " @tria_y062",
+                "kesan": "Baik dan ramahh",
+                "pesan": "Semangat kak dalam menjalani seluruh kegiatan ", 
                 "kesan": "Kakaknya cantik bangett ",
                 "pesan": "Semangat ya kakak, semoga tetap sehat selalu", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
-
-           
-           
-
         ]
         display_images_with_data(gambar_urls, data_list)
 
@@ -1553,6 +1560,7 @@ elif menu == "Departemen Internal":
 
     def internal():
         gambar_urls = [
+
             "https://drive.google.com/uc?export=view&id=1ojoInjvKyT3i9s7EydPC_bRlO7V2w3at",
             "https://drive.google.com/uc?export=view&id=1pK4p48mPu6UH77c2Z6wR2Yfquv_PLxL4",
             "https://drive.google.com/uc?export=view&id=1ojw6xvPR12m27LZBaQy0lizKsZ-UFZEJ",
@@ -1565,7 +1573,6 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1pOnM9zYgjfAa_AMOPqHLAhT9Y-8h_vjs",
             "https://drive.google.com/uc?export=view&id=1pP4ZNsMRNY3BUedcW_OMmRPqGVQN8WWs",
             "https://drive.google.com/uc?export=view&id=1p_WzCByxNaxDIouBnGs9CJRB5lFFLkD3",
-            
         ]
         data_list = [
             {
@@ -1576,8 +1583,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Way Kandis (Kobam)",
                 "hobbi": "menunggu ayam jantan bertelur",
                 "sosmed": "@dimzrky_",
-                "kesan": "Abang humble banget, enak diajak ngobrol, jadi wawancara ini benar-benar fun dan meaningful",
-                "pesan": "Makasih banyak bang, semoga terus sukses dan membawa vibe positif ke mana pun pergi",
+                "kesan": "Keren banget bang, cara menjawab pertanyaanya bagus banget",
+                "pesan": "Selalu jadi orang yang rendah hati bang walaupun ntar udah sukses",
                 "jabatan" : "Kepala Departemen Internal", #1
             },
             {
@@ -1722,9 +1729,7 @@ elif menu == "Senator":
     def senator():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1nxO4F6LZ4RRvVevZbefJGpqJxx3OSD4U",
-            "https://drive.google.com/uc?export=view&id=1ntgjq9vNFy5GoDJ0v3W6mBv_Y5-Oj9Yi",
-            
-            
+            "https://drive.google.com/uc?export=view&id=1ntgjq9vNFy5GoDJ0v3W6mBv_Y5-Oj9Yi",          
         ]
         data_list = [
             {
