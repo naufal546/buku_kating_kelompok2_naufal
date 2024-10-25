@@ -409,7 +409,7 @@ elif menu == "MedKraf":
             "https://drive.google.com/uc?export=view&id=1VPcApBYPkHgazBZ02p0xfFfR7RTTx7Iy",
             "https://drive.google.com/uc?export=view&id=1VLNvY3BZViX_pZqOlXA1H3T-7noWi76X",
           
-            
+            ]   
         ]
         data_list = [
             {
@@ -422,7 +422,8 @@ elif menu == "MedKraf":
                 "sosmed": "",
                 "kesan": "tegas ya abangnya",
                 "pesan": "Sehat-sehat bang",
-                "jabatan" : "Kepala departemen ", #1
+                "jabatan" : "Kepala departemen", 
+                "jabatan" : "Kepala departemen ", 
             },
             {
                 "nama": "Elok Fiola",
@@ -456,6 +457,7 @@ elif menu == "MedKraf":
                 "alamat": "Pulau Damar",
                 "hobbi": "Lagi Nyari",
                 "sosmed": " @dino_kiper",
+                "kesan": "impresif sekalii",
                 "kesan": "impresif",
                 "pesan": "semangat kuliahnya bangg", 
                 "jabatan" : "Kepala Divisi PDD", # 1
@@ -554,7 +556,8 @@ elif menu == "MedKraf":
                 "sosmed": "@dwiratnn_",
                 "kesan": "keren kakaknya",
                 "pesan": "Ramahh banget kak", 
-                "jabatan" : "Anggota Divisi PDD", # 1
+                "jabatan" : "Anggota Divisi PDD", 
+            },
             {
                 "nama": "Gymnastiar Al Khoarizmy",
                 "nim": "122450096",
@@ -639,8 +642,8 @@ elif menu == "MedKraf":
                 "pesan": "", 
                 "jabatan" : "Anggota Divisi PDD", # 1
             },
-
         ]
+        
         display_images_with_data(gambar_urls, data_list)
 
 elif menu == "Departemen_Eksternal":
