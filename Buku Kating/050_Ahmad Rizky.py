@@ -875,7 +875,7 @@ elif menu == "Departemen MIKFES":
         display_images_with_data(gambar_urls, data_list)
     Mikfes()
     
-    elif menu == "Senator":
+elif menu == "Senator":
 
     def Senator():
         gambar_urls = [
@@ -946,8 +946,8 @@ elif menu == "Departemen Medkraf":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton",
                 "sosmed": "",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "keren",
+                "pesan": "Semangat ya bangg",
                 "jabatan" : "", #1
             },
             {
@@ -958,8 +958,8 @@ elif menu == "Departemen Medkraf":
                 "alamat": "Bandar Lampung",
                 "hobbi": "Editing",
                 "sosmed": "@elokfiola",
-                "kesan": "lucu",
-                "pesan": "Semangat ya kak, tetap ramah", 
+                "kesan": "seru kakaknya",
+                "pesan": "kalo lagi capek, baca pesan dari kami aja ya ka", 
                 "jabatan" : "Sekretaris", # 1
             },
             {
@@ -970,8 +970,8 @@ elif menu == "Departemen Medkraf":
                 "alamat": "Tanjung Senang",
                 "hobbi": "Nugas",
                 "sosmed": "@arsyiah._",
-                "kesan": "kece",
-                "pesan": "semangat ka arysiah", 
+                "kesan": "",
+                "pesan": "", 
                 "jabatan" : "Kepala Divisi Media & Konten", # 1
             },
             {
@@ -983,7 +983,7 @@ elif menu == "Departemen Medkraf":
                 "hobbi": "Lagi Nyari",
                 "sosmed": " @dino_kiper",
                 "kesan": "asik",
-                "pesan": "semangatt yaa mass kaii", 
+                "pesan": "jangan lupa istirahat ya bang", 
                 "jabatan" : "Kepala Divisi PDD", # 1
             },
             {
@@ -995,7 +995,7 @@ elif menu == "Departemen Medkraf":
                 "hobbi": "Ngoding",
                 "sosmed": "@arsal.utama",
                 "kesan": "kerenn",
-                "pesan": "semangat bang arsall", 
+                "pesan": "jangan lupa tidur dan makan teraturnyaa", 
                 "jabatan" : "Kepala Divisi Visual Desain", # 1
             },
             {
@@ -1006,8 +1006,8 @@ elif menu == "Departemen Medkraf":
                 "alamat": "Teluk",
                 "hobbi": "Ngegym",
                 "sosmed": "@cintyabella28",
-                "kesan": "seru",
-                "pesan": "semangatt ka cibell", 
+                "kesan": "kerenn",
+                "pesan": "semangat terus ka, jangan lupa bahagia", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -1018,8 +1018,8 @@ elif menu == "Departemen Medkraf":
                 "alamat": "Natar, Lampung Selatan",
                 "hobbi": "Menyibukkan Diri",
                 "sosmed": "@ekafdyaptri",
-                "kesan": "pinterr",
-                "pesan": "jangan lupa buat ambil waktu istirahat ya kaa", 
+                "kesan": "lucu",
+                "pesan": "semangat ya kaa", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -1031,7 +1031,7 @@ elif menu == "Departemen Medkraf":
                 "hobbi": "Menulis, Membaca, fangirling",
                 "sosmed": "@nanana_minjoo",
                 "kesan": "asikk",
-                "pesan": "semangat ka najlaa", 
+                "pesan": "jangan lupa makan teratur ya", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -1043,7 +1043,7 @@ elif menu == "Departemen Medkraf":
                 "hobbi": "Nonton Film",
                 "sosmed": "@patriciadiajeng",
                 "kesan": "asikk",
-                "pesan": "semangat ya kaa patriciaa", 
+                "pesan": "jangan lupa istirahat ya ka", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -1054,8 +1054,8 @@ elif menu == "Departemen Medkraf":
                 "alamat": "Sukarame",
                 "hobbi": "Baca Coding",
                 "sosmed": "@rahmanellyana",
-                "kesan": "kerenn",
-                "pesan": "semangatt ka rahmaa", 
+                "kesan": "seru",
+                "pesan": "jangan lupa makan dan minumnya yaa", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -1066,8 +1066,8 @@ elif menu == "Departemen Medkraf":
                 "alamat": "Korpri",
                 "hobbi": "Bernyanyi dan Menonton",
                 "sosmed": "@tryyaniciaaa",
-                "kesan": "seruu",
-                "pesan": "semangatt untuk terus mencoba ka tryy", 
+                "kesan": "kerenn",
+                "pesan": "jangan lupaa buat terus malas untuk bermalas-malasan", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -1078,8 +1078,8 @@ elif menu == "Departemen Medkraf":
                 "alamat": "Lapangan Golf UIN",
                 "hobbi": "Baca Komik",
                 "sosmed": "@jimnn.as",
-                "kesan": "asekk abangnya",
-                "pesan": "semangatt bang jimm", 
+                "kesan": "kerenn",
+                "pesan": "Semangat bang jimm", 
                 "jabatan" : "Anggota Divisi PDD", # 1
             },
             {
@@ -1090,8 +1090,8 @@ elif menu == "Departemen Medkraf":
                 "alamat": "Jalan Durian 1 Pemda",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@nsywanaf",
-                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
+                "kesan": "asikk",
+                "pesan": "Semangat ka nasywaa", 
                 "jabatan" : "Anggota Divisi PDD", # 1
             },
             {
@@ -1102,8 +1102,8 @@ elif menu == "Departemen Medkraf":
                 "alamat": "Rajabasa, Labuhan Dalam",
                 "hobbi": "Ngoding, Gaming",
                 "sosmed": "@abitahmad",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "mantap hobinya",
+                "pesan": "semangat terus buat ngerjain hobinnya", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
              {
@@ -1114,8 +1114,8 @@ elif menu == "Departemen Medkraf":
                 "alamat": "Perumahan Griya Sukarame",
                 "hobbi": "Main HP",
                 "sosmed": "@_akmal.faiz",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "asikk",
+                "pesan": "semangat bang akmal", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
              {
@@ -1126,8 +1126,8 @@ elif menu == "Departemen Medkraf":
                 "alamat": "Dekat Jalan Tol (Wisma Hana Hani) ",
                 "hobbi": "Bengong/Membaca Buku",
                 "sosmed": "@hermawan.mnrng",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "asikk",
+                "pesan": "jangan malas untuk bersemangat bang hermawan", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
              {
@@ -1138,8 +1138,8 @@ elif menu == "Departemen Medkraf":
                 "alamat": "",
                 "hobbi": "Mengerjakan Tugas",
                 "sosmed": "@khusnun_nisa335",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "keren",
+                "pesan": "jangan lupa istirahat kaa khusnun", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
              {
@@ -1150,14 +1150,12 @@ elif menu == "Departemen Medkraf":
                 "alamat": "Jalan Nangka 2",
                 "hobbi": "Baca Novel yang Bikin Nangis",
                 "sosmed": "@prskslv",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "kece",
+                "pesan": "senyum kakak bagus, jangan kebanyakan baca novel kaya gitu", 
                 "jabatan" : "Anggota Divisi PDD", # 1
             },
-
         ]
         display_images_with_data(gambar_urls, data_list)
-
     medkraf()
 
 elif menu == "Departemen SSD":
