@@ -790,22 +790,22 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1WRelsiMEzrHw-12Ruo8ApWSbgGaF05Fy",
             "https://drive.google.com/uc?export=view&id=1jM3cwRrMCBS1c6O4BCyrugmewztRrqgi",
             "https://drive.google.com/uc?export=view&id=1kud2i-6AKaGdbYw_lElBzBfdtAjO16RS",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=16uaiM0jfZpx06pGuq1JUKNQST_JcLnQc",
+            "https://drive.google.com/uc?export=view&id=1lBEIamTTHG2GY45lqj6mNq9YfqXJ6b7Y",
+            "https://drive.google.com/uc?export=view&id=1J5XWzh33YrzqzCdgbSUlzQcCf-Y9jCtY",
+            "https://drive.google.com/uc?export=view&id=10r0sLEc5B2t6HjnqN0fDuIPujF6cca6A",
+            "https://drive.google.com/uc?export=view&id=1UMR_czxiGzkYOfnBnPfXu4J2C7EyDzH3",
+            "https://drive.google.com/uc?export=view&id=1pz2UvwB1rqpY72aPFfM8nUYCM9t7Bv3A",
+            "https://drive.google.com/uc?export=view&id=1n87dFA5L7mop7sLPqTHokyz7RArDEBsA",
+            "https://drive.google.com/uc?export=view&id=1gPEvbc4Ku4nBtorPh7EghJqlyt6OPt_F",
+            "https://drive.google.com/uc?export=view&id=1EfNi0R319oU8_vq1hc4-PpVuuCQtewMu",
+            "https://drive.google.com/uc?export=view&id=103i8b_Um5N9S2rjsaBhKIWaugRm2MpQy",
+            "https://drive.google.com/uc?export=view&id=1ZYP4IM3gagjC4wX0a5aUOHI__GVE0ZEI",
+            "https://drive.google.com/uc?export=view&id=1W0IkE6ph2NO7VatJPiuM12Cp_IGcTtqU",
+            "https://drive.google.com/uc?export=view&id=1Rf7Igxy4OQmPUqWn8BumGMgpXYBoDiew",
+            "https://drive.google.com/uc?export=view&id=1bprZ4ziytKKFYLJTF9q6WbO-Cr3dlFxp",
+            "https://drive.google.com/uc?export=view&id=1u7IhpuLq11ra8eJ66OM0O0QFz5Luiv4T",
+            "https://drive.google.com/uc?export=view&id=1zVMkAiHw0hoHp9-tW2Y6nVFkVx88fK8d",
         ]
         data_list = [
             {
@@ -1044,22 +1044,24 @@ elif menu == "Departemen MIKFES":
 
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=18W1dNVSnHKimBT6QsrDEiKDU5BDaFRKM",
+            "https://drive.google.com/uc?export=view&id=18L4Hr0OZAinhXmtN9S1K-k2euGZVlEXn",
+            "https://drive.google.com/uc?export=view&id=1Pnuzz0xJGwS0KEQG4umEkU2fzRnUyGwA",
+            "https://drive.google.com/uc?export=view&id=1mVFzWZSsV80XybgO6TYVV8tJPDDxWtdE",
+            "https://drive.google.com/uc?export=view&id=1ALJ3mUe9RoTLopOzf4IzcGzryDBuL0nl",
+            "https://drive.google.com/uc?export=view&id=1k7nOJiJtSNhTZwggtHwMfiDSans4t-4i",
+            "https://drive.google.com/uc?export=view&id=1DEaOtJIDkJaEO4qgAaYJLOUpa0xMxeZu",
+            "https://drive.google.com/uc?export=view&id=1LoPuUW7dnifk7rUESlcvXFDlH7MhNE8J",
+            "https://drive.google.com/uc?export=view&id=12oGKmOWntKalGr1PKyRLhLME4b__aeQY",
+            "https://drive.google.com/uc?export=view&id=1L5byKSeM6SC2URb1DIX6vm276JooOY84",
+            "https://drive.google.com/uc?export=view&id=1MLXXV_XlQJCxgN9Zg3U7AqdVy9yvURZ7",
+            "https://drive.google.com/uc?export=view&id=1rJ3-wktVYZRJXgbwLO2xq2CvNYwNshKI",
+            "https://drive.google.com/uc?export=view&id=1leNbOv0dg4YP_uoj3RTjdGpiZQWJzk4_",
+            "https://drive.google.com/uc?export=view&id=1GqLONvnN1bVlK9P-W4wLWQwuFpnsYEUL", 
+            "https://drive.google.com/uc?export=view&id=1Il67H2c0HHM9TA8EE-a0UQTlaUT_sI6J",
+            "https://drive.google.com/uc?export=view&id=1e0K7hYXDbh3sSqNjwf734qB6FwzLAKgG",
+            "https://drive.google.com/uc?export=view&id=1hWqVGqfxJi2cOQt6g7nrmFBlmcOgJ5rm",
+            "https://drive.google.com/uc?export=view&id=1xKugy1HwL-egysjK_mU6KLMMZ4g5xu2j",
             "https://drive.google.com/uc?export=view&id=",
            
         ]
@@ -1221,6 +1223,18 @@ elif menu == "Departemen MIKFES":
                 "jabatan" : "Kepala Divisi Survei dan Riset", # 1
             },
             {
+                "nama": "Eggi Satria",
+                "nim": "122450032",
+                "umur": "20",
+                "asal": "Sukabumi",
+                "alamat": "Korpri",
+                "hobbi": "Ngoding dan buat konten WISATA",
+                "sosmed": "@egistr",
+                "kesan": "abangnya baik banget, membantu banget di magang SNR",
+                "pesan": "Sukses selalu bang, tetap memotivasi kami ya", 
+                "jabatan" : "@egistr", # 1
+            },
+            {
                 "nama": "Aditya Rahman",
                 "nim": "122450113",
                 "umur": "20",
@@ -1277,26 +1291,26 @@ elif menu == "Departemen Eksternal":
 
     def eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=15GZ0Yvs92OSOR0iKVwKYTBIQjNBwX6wY",
+            "https://drive.google.com/uc?export=view&id=1igOFURNxowDcGCQua58cAj7q7P8AM9c2",
+            "https://drive.google.com/uc?export=view&id=1iZ30T-vRdcAh0f05KBxV0MuuVSVlZ9pR",
+            "https://drive.google.com/uc?export=view&id=1y89YBiEQT_Q2nh9g57D_ehyFOTEyn4Hx",
+            "https://drive.google.com/uc?export=view&id=1V6TkepkVWodtbEOBAIR-EUtYiG_DLM8r",
+            "https://drive.google.com/uc?export=view&id=1b83H4yUz41tKqT2a4ZsbKbA2gjsVB5Fv",
+            "https://drive.google.com/uc?export=view&id=1pKyKCGTkuLx_WUjZnztYEF4IoUmLtmGZ",
+            "https://drive.google.com/uc?export=view&id=18DP9CBU3hNnk1iDuBUjqmSEKGf_rZqLZ",
+            "https://drive.google.com/uc?export=view&id=14MmecgWS8K9LXmnegD-lVo3QpMww-ugK",
+            "https://drive.google.com/uc?export=view&id=1T449s-D9yMDSR5WwU6Gdooq6bMNXk-rT",
+            "https://drive.google.com/uc?export=view&id=1kWDKN134o1XY3eWEdF8cSD6MPVgHKIde",
+            "https://drive.google.com/uc?export=view&id=177FH9CzVDLfXejRvPkQC0Akpus1SoTcm",
+            "https://drive.google.com/uc?export=view&id=1QReNJbCCbEyx9mqy1EQoq094EjwskYyU",
+            "https://drive.google.com/uc?export=view&id=1pdbDGCwVzRuPxw3uZsHWVEh9wymZgl63",
+            "https://drive.google.com/uc?export=view&id=1aQNgUn6ihpR9cDDQLiMkoUYbLQYow8pw",
+            "https://drive.google.com/uc?export=view&id=1GO_FFSCvStabdREsq9Tnj8xFRnAs8Rn2",
+            "https://drive.google.com/uc?export=view&id=1RQkBtyLKKGfEoEy9KwZ92YCmQ16xotyH",
+            "https://drive.google.com/uc?export=view&id=1qCR0vVqpBjOwYpvd9sjFIFeT_-_ojF3c",
+            "https://drive.google.com/uc?export=view&id=1OZDxyBQhj1vBI6d9XE9Yh7UD5MI7PjvZ",
+            "https://drive.google.com/uc?export=view&id=1A8vCohD6KV_66htONNiBCt4DtpUAtDKy",
             
         ]
         data_list = [
@@ -1517,7 +1531,7 @@ elif menu == "Departemen Eksternal":
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
              {
-                "nama": "Raid Muhammad Naufa",
+                "nama": "Raid Muhammad Naufal",
                 "nim": "122450027",
                 "umur": "20",
                 "asal": "Lampung Tengah",
@@ -1552,18 +1566,18 @@ elif menu == "Departemen Internal":
 
     def internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?expor t=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?expor t=view&id=",
+            "https://drive.google.com/uc?export=view&id=1z4KNhrONhRjOW0O7NkV0G5ciFa6L4KfH",
+            "https://drive.google.com/uc?export=view&id=186UwsiwWUsJB70dOD83yudRAHnKXJ5lC",
+            "https://drive.google.com/uc?export=view&id=1-LZ4ILmLr9y2TFTAgiajNkh_OlQhN0L-",
+            "https://drive.google.com/uc?export=view&id=15lFgjKPhdFyyZlhKPTEvhgZm6eHij6r6",
+            "https://drive.google.com/uc?export=view&id=1Y3wxWspI5TCJCT1-vjLAWllziuxdIpgm",
+            "https://drive.google.com/uc?export=view&id=1tCCvfMKRl83FJMngHHyNL_H_hhlOKLEo",
+            "https://drive.google.com/uc?export=view&id=1AuU4DZ9RRIWYQgo52orpZ12dApvceQI0",
+            "https://drive.google.com/uc?export=view&id=1qhTWCJucvbCMt4g06eP18Lx_ctXKx8CM",
+            "https://drive.google.com/uc?export=view&id=1C72Of0jPKjpvVKL0gfRR1rL5XDIxPeyt",
+            "https://drive.google.com/uc?expor t=view&id=1NbT2wquNDCI3rCgk6W9YLfflVRmg4TCs",
+            "https://drive.google.com/uc?export=view&id=1YQbi0yksyVIJKkHuBc2xMFzGgPamXlxA",
+            "https://drive.google.com/uc?expor t=view&id=1aWoW8foWIV2Q3GZEB3TVMTHPD_-6tvay",
             
         ]
         data_list = [
@@ -1592,7 +1606,7 @@ elif menu == "Departemen Internal":
                 "jabatan" : "Sekretaris Departemen Internal", # 1
             },
             {
-                "nama": "M. Akbar Restika",
+                "nama": "Akbar Resdika",
                 "nim": "121450066",
                 "umur": "20",
                 "asal": "Lampung Barat",
@@ -1694,7 +1708,7 @@ elif menu == "Departemen Internal":
                 "asal": "Pesawaran",
                 "alamat": "Airan",
                 "hobbi": "Nonton",
-                "sosmed": "@meirasty_",
+                "sosmed": "@meiralsty_",
                 "kesan": "Kakaknya kalem dan baik",
                 "pesan": "Semoga kakak selalu diberi kesehatan", 
                 "jabatan" : "Staff Kerohanian", # 1
@@ -1720,8 +1734,8 @@ elif menu == "Senator":
 
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=",
-            "https://drive.google.com/uc?export=",
+            "https://drive.google.com/uc?export=15Zh8bPqjQH_2Z-_WbUoGrM7uKqoprZGS",
+            "https://drive.google.com/uc?export=14ZWF1_ZWUNrC_NcW9WxXB1FJh0j_jk3M",
             
             
         ]
