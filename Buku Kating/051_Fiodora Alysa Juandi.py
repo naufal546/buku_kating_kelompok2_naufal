@@ -219,7 +219,6 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=18R5Y94SJqPVIYxRiwinAYFnOM5p_oMGa",
             "https://drive.google.com/uc?export=view&id=1fTOxSDoCkYEGG3ai4aQRhOXG67c9ZjYg",
             "https://drive.google.com/uc?export=view&id=1Irm-Rs59jo45Ls8N6Gv7HeVEseqEPlEH",
-=========
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -722,7 +721,6 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1eSMX5MsLuCxLIvVty49S8OUdanvVoOWQ",
             "https://drive.google.com/uc?export=view&id=1_jfGkB292b67Tn30qeE941qfigvnOfpM",
             "https://drive.google.com/uc?export=view&id=1lAeh7KVWCN4ulZDxBYdYk2V-MDB9VoCD",
-=========
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
