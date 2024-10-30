@@ -691,7 +691,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Jalan - Jalan",
                 "sosmed": "@ramadhitaatifa",
                 "kesan": "Keren banget kak dhitaa",
-                "pesan": "Jangan lupa istirahat dan semangat selalu kak", 
+                "pesan": "Jangan lupa istirahat dan semangat selalu kak dhitaaa", 
                 "jabatan" : "Sekretaris Departement", # 1
             },
             {
