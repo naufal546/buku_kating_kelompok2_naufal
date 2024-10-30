@@ -728,7 +728,6 @@ elif menu == "Departemen_Eksternal":
                 "pesan": "semangat ya kuliahnya jangan putus asa orang sibuk", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
-
             {
                 "nama": "Esteria Rohanauli Sidauruk",
                 "nim": "122450025",
@@ -909,7 +908,7 @@ elif menu == "Departemen_Eksternal":
                 "pesan": "semangat kuliahnya kak", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
-            ]
+        ]
         display_images_with_data(gambar_urls, data_list)
 
     Departemen_Eksternal()         
