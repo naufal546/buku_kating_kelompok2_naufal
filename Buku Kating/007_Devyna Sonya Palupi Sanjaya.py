@@ -821,7 +821,7 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Way Huwi",
                 "hobbi": "Bertani",
                 "sosmed": "@rafiramadhanmaulana",
-                "kesan": "Abangnya baik",
+                "kesan": "Abangnya baik sekaliii",
                 "pesan": "semangat kuliahnya bang, tetap pertahankan rajin sholat malamnya", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
@@ -909,7 +909,7 @@ elif menu == "Departemen_Eksternal":
                 "pesan": "semangat kuliahnya kak", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
-        ]
+         ]
         display_images_with_data(gambar_urls, data_list)
 
     Departemen_Eksternal()         
