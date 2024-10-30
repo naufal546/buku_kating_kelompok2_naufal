@@ -1733,10 +1733,9 @@ elif menu == "Senator":
 
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=15Zh8bPqjQH_2Z-_WbUoGrM7uKqoprZGS",
-            "https://drive.google.com/uc?export=14ZWF1_ZWUNrC_NcW9WxXB1FJh0j_jk3M",
             
-            
+            "https://drive.google.com/uc?export=view&id=15Zh8bPqjQH_2Z-_WbUoGrM7uKqoprZGS",
+            "https://drive.google.com/uc?export=view&id=14ZWF1_ZWUNrC_NcW9WxXB1FJh0j_jk3M",
         ]
         data_list = [
             {
