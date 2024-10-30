@@ -643,9 +643,10 @@ elif menu == "MedKraf":
         display_images_with_data(gambar_urls, data_list)
 
     medkraf()
-elif menu == "Departemen_Eksternal":
 
-    def Departemen_Eksternal():
+elif menu == "Departemen Eksternal":
+
+    def eksternal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1ZPy-cZgP8R3PYJTkdUVtQDo7FV06rW5O",
             "https://drive.google.com/uc?export=view&id=1Z6QQaeAdCuBb7ewOm1K-_SZqRrv6TSuW",
@@ -675,10 +676,10 @@ elif menu == "Departemen_Eksternal":
                 "umur": "21",
                 "asal": "Tangerang",
                 "alamat": "Jatimulyo",
-                "hobbi": "BAB setiap jam 07.00 pagi",
+                "hobbi": "BAB setiap jam 7 pagi",
                 "sosmed": "@yogyst",
-                "kesan": "Abangnya kocag, seru, baik",
-                "pesan": "semangat kuliahnya bang, tetap jadi orang baik",
+                "kesan": "Keren bang yogy, Abangnya solutif, selalu menjawabb pertanyaan kami dengan baik",
+                "pesan": "Semakin sukses ya bang dalam hal apapun itu",
                 "jabatan" : "Kepala Departemen Eksternal", #1
             },
             {
@@ -686,12 +687,12 @@ elif menu == "Departemen_Eksternal":
                 "nim": "121450131",
                 "umur": "21",
                 "asal": "Bandar Lampung",
-                "alamat": "Raja Basa",
-                "hobbi": "Jalan-jalan",
+                "alamat": "Rajabasa",
+                "hobbi": "Jalan - Jalan",
                 "sosmed": "@ramadhitaatifa",
-                "kesan": "Kakaknya humble",
-                "pesan": "Semangat kuliahnya kak", 
-                "jabatan" : "Sekretaris Departemen", # 1
+                "kesan": "Keren banget kak dhitaa",
+                "pesan": "Jangan lupa istirahat dan semangat selalu kak dhitaaa", 
+                "jabatan" : "Sekretaris Departement", # 1
             },
             {
                 "nama": "Nazwa Nabila",
@@ -700,33 +701,33 @@ elif menu == "Departemen_Eksternal":
                 "asal": "Jakarta Selatan",
                 "alamat": "Kochpri",
                 "hobbi": "Main Golf",
-                "sosmed": "nazwanbilla",
-                "kesan": "Ramah banget kakanya, banyak ketawa, seru",
-                "pesan": "semangat ya kak, tetaplah tertawa sebelum tertawa itu dilarang", 
+                "sosmed": "@nazwanbilla",
+                "kesan": "Lucu kakaknya, ketawa terus gemess",
+                "pesan": "Bahagia selalu kak, tetaplah tertawa sebelum tertawa itu dilarang heheh", 
                 "jabatan" : "Kepala Divisi Hubungan Luar", # 1
             },
             {
                 "nama": "Bastian Heskia Silaban",
                 "nim": "122450130",
-                "umur": "",
-                "asal": "",
-                "alamat": "",
-                "hobbi": "",
-                "sosmed": "",
-                "kesan": "abangnya ramahh, asik,baik",
-                "pesan": "semangat terus kuliahnya bang bass, jangan mudah menyerah", 
-                "jabatan" : "", # 1
+                "umur": "21",
+                "asal": "Batam, Kep. Riau",
+                "alamat": "Belwis",
+                "hobbi": "Menggambar",
+                "sosmed": "@bastiansilaban_",
+                "kesan": "Keren banget bang",
+                "pesan": "Semangat selalu kuliahnya bang", 
+                "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
             {
                 "nama": "Dea Mutia Risani",
                 "nim": "122450099",
                 "umur": "20",
-                "asal": "Sumatra Barat",
+                "asal": "Sumatera Barat",
                 "alamat": "Korpri",
                 "hobbi": "Berkebun",
-                "sosmed": " @deaa.rsn",
-                "kesan": "Kakaknya ramah, orangnya juga cantik, ariess prideee",
-                "pesan": "semangat ya kuliahnya jangan putus asa orang sibuk", 
+                "sosmed": "@deaa.rsn",
+                "kesan": "salam #ariespride kakak cantik",
+                "pesan": "jangan lupa makan kak dea, jaga kesehatan yeaahh, menjadi aries juga perlu tenaga", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
             {
@@ -737,32 +738,32 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Main golf bareng kadiv",
                 "sosmed": "@esteriars",
-                "kesan": "kakaknya pasti jago main golf",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan main golfnya", 
+                "kesan": "Asik banget dan lucu kakk",
+                "pesan": "mau ikut golf kak", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
             {
-                "nama": "Natasya Ega Lina Marbun",
+                "nama": "Natasya Ega Lina",
                 "nim": "122450024",
                 "umur": "19",
                 "asal": "Jakarta Selatan",
                 "alamat": "Belwais",
-                "hobbi": "surfing",
-                "sosmed": " @nateee__15",
-                "kesan": "Manis banget kakaknya, ramah juga",
-                "pesan": "semangat kuliahnya kak, tetap baik hati kak", 
+                "hobbi": "Surfing",
+                "sosmed": "@nateee__15",
+                "kesan": "Keren kakaknya, aktif sekali di organisasi",
+                "pesan": "Semangat kak, terus mempertahankan akademiknya ya", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
             {
-                "nama": "Novelia Adinda ",
+                "nama": "Novelia Adinda",
                 "nim": "122450104",
                 "umur": "21",
                 "asal": "Jakarta Timur",
                 "alamat": "Belwis",
                 "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
-                "kesan": "Kakaknya bener-bener cantik banget!",
-                "pesan": "semangat kuliahnya kak, semoga makin cantik", 
+                "kesan": "Cantik dan ramah sekali kakaknya",
+                "pesan": "Jangan lupa semangat dalam menjalani hari kak", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
             {
@@ -771,49 +772,49 @@ elif menu == "Departemen_Eksternal":
                 "umur": "20",
                 "asal": "Jakarta Selatan",
                 "alamat": "Way Kandis",
-                "hobbi": "Main Sepak takraw",
+                "hobbi": "Main sepak takraw",
                 "sosmed": "@jasminednva",
-                "kesan": "MasyaAllah kak pertahankan hobinya",
-                "pesan": "Semangat kuliahnya, semoga semakin rajin mengerjakan tugas", 
+                "kesan": "kak mine lucu sekaliii",
+                "pesan": "Bahagia terus kak, jangan lupa istirahat", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
             {
                 "nama": "Tobias David Manogari",
                 "nim": "122450091",
                 "umur": "20",
-                "asal": "Sumatra Utara",
+                "asal": "Sumatera Utara",
                 "alamat": "Pemda",
                 "hobbi": "Jogging",
                 "sosmed": "@tobiassiagian",
-                "kesan": "Abangnya baik, kalem, dan ramah",
-                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari", 
+                "kesan": "Keren banget bang, aktif sekali dalam berkegiatan",
+                "pesan": "Jangan lupa istirahat bang, semoga semangatnya selalu membara", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
-            {
+             {
                 "nama": "Yohana Manik",
                 "nim": "122450126",
-                "umur": "19 tahun",
+                "umur": "19",
                 "asal": "Jakarta Selatan",
                 "alamat": "Belwais",
-                "hobi": "Main Bowling",
-                "sosmed": " @yo_annamnk",
-                "kesan": "Kakaknya kelihatan aktif organisasi bangettt",
-                "pesan": "semangat kak", 
+                "hobbi": "Main Bowling",
+                "sosmed": "@yo_annamnk",
+                "kesan": "Kakaknya baik dan tegas",
+                "pesan": "Sukses selalu kak di dalam hal apapun", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
-            {
-                "nama": " Rizky Adrian Bennovry",
-                "nim": "121450073",
+             {
+                "nama": "Rizky Adrian Bennovry",
+                "nim": "1214500731",
                 "umur": "21",
                 "asal": "Bekasi",
                 "alamat": "TVRI",
                 "hobbi": "Bikin portofolio",
                 "sosmed": "@rzkdrnnn",
-                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
-                "jabatan" : " Kepala Divisi Pengabdian Masyarakat", # 1
+                "kesan": "Keren dan baik hati abangnya",
+                "pesan": "Selalu memotivasi kami ya bang", 
+                "jabatan" : "Kepala Divisi Pengabdian Masyarakat", # 1
             },
-            {
+             {
                 "nama": "Arafi Ramadhan Maulana",
                 "nim": "122450002",
                 "umur": "20",
@@ -821,98 +822,99 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Way Huwi",
                 "hobbi": "Bertani",
                 "sosmed": "@rafiramadhanmaulana",
-                "kesan": "Abangnya baik sekaliii",
-                "pesan": "semangat kuliahnya bang, tetap pertahankan rajin sholat malamnya", 
+                "kesan": "Asik banget abangnya",
+                "pesan": "Tetap jadi orang baik bang", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
-            {
-                "nama": "Asa Do'a Uyi",
+             {
+                "nama": "Asa Do’a Uyi",
                 "nim": "122450005",
                 "umur": "20",
                 "asal": "Muara Enim",
                 "alamat": "Korpri",
                 "hobbi": "Tepuk Semangat",
                 "sosmed": "@u_yippy",
-                "kesan": "Kakaknya baik",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
+                "kesan": "Kakaknya ramah dan cocok sekali di pengmas",
+                "pesan": "Tetap jadi orang yang ramah kak", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
-            {
+             {
                 "nama": "Chalifia Wananda",
                 "nim": "122450076",
                 "umur": "20",
                 "asal": "Padang",
                 "alamat": "Sukarame",
-                "hobbi": "Quality Time",
+                "hobbi": "Q Time",
                 "sosmed": "@chlfawww",
-                "kesan": "Kakaknya baik, dulu kakak asprak fisdas 1 aku juga",
-                "pesan": "semangat kuliahnya kak ochaa", 
+                "kesan": "Baik sekali kakaknya",
+                "pesan": "Tetap pertahankan semangat yang berkobar itu kak", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
-            {
+             {
                 "nama": "Irvan Alfaritzi",
                 "nim": "122450093",
                 "umur": "21",
-                "asal": "Sumatra Barat",
-                "alamat": "WSukarame",
-                "hobbi": "Nonton Youtube, main game",
+                "asal": "Sumatera Barat",
+                "alamat": "Sukarame",
+                "hobbi": "Nonton youtube, main game",
                 "sosmed": "@alfaritziirvan",
-                "kesan": "Abangnya baik",
-                "pesan": "semangat kuliahnya bang, tetap pertahankan rajin sholat malamnya", 
+                "kesan": "Keren banget bang dan baik hati",
+                "pesan": "Jangan lupa istirahat dan semangat bang", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
-            {
+             {
                 "nama": "Izza Lutfia",
                 "nim": "122450090",
                 "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat": "Teluk Betung",
                 "hobbi": "Main Rubik",
-                "sosmed": "@izzalutfiaa",
-                "kesan": "kakaknya baik, aktif berorganisasi sekalii",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan aktifnya",
+                "sosmed": "@izzalutfia",
+                "kesan": "Baik, humble dan aktiffff sekali kakk",
+                "pesan": "Tetap pertahankan akademiknya kakakk", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
-            {
-                "nama": "Khaalishah Zuhrah Alyss Vanefi",
+             {
+                "nama": " Khaalishah Zuhrah Alyaa Vanefi",
                 "nim": "122450034",
                 "umur": "20",
                 "asal": "Bandar Lampung",
-                "alamat": "Raja Basa",
+                "alamat": "Rajabasa",
                 "hobbi": "Mengaji",
-                "sosmed": "@alyaavanefi",
-                "kesan": "kakaknya baik",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin mengajinya", 
+                "sosmed": "@alyaavanevi",
+                "kesan": "namanya unik sekali kak",
+                "pesan": "Sukses selalu kakk, semangattt", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
-            {
-                "nama": "Raid Muhammad Naufal",
+             {
+                "nama": "Raid Muhammad Naufa",
                 "nim": "122450027",
                 "umur": "20",
                 "asal": "Lampung Tengah",
                 "alamat": "Sukarame",
                 "hobbi": "Nemenin Tobias lari",
-                "sosmed": "@rayth_",
-                "kesan": "Abangnya baik",
-                "pesan": "semangat kuliahnya bang", 
+                "sosmed": "@rayths_",
+                "kesan": "Baik dan sangat memberi motivasi bang",
+                "pesan": "Bahagia selalu bang", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
-            {
+             {
                 "nama": "Tria Yunanni",
                 "nim": "122450062",
                 "umur": "20",
                 "asal": "Way Kanan",
                 "alamat": "Sukarame",
                 "hobbi": "Baca Buku",
-                "sosmed": "@tria_y062",
-                "kesan": "kakaknya baik",
-                "pesan": "semangat kuliahnya kak", 
+                "sosmed": " @tria_y062",
+                "kesan": "Baik dan ramahh",
+                "pesan": "Semangat kak dalam menjalani seluruh kegiatan ", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
-         ]
+
+        ]
         display_images_with_data(gambar_urls, data_list)
 
-    Departemen_Eksternal()         
+    eksternal()
 
 elif menu == "Departemen SSD":
 
