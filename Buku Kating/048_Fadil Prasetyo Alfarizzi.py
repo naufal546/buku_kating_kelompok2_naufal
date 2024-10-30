@@ -830,7 +830,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi": "Muter - Muter",
                 "sosmed": "@afifahhnsrn",
-                "kesan": "Kakaknya cantik dan tegas",
+                "kesan": "Kakaknya tegas",
                 "pesan": "Jangan lupa istirahat kak, jaga kesehatan", 
                 "jabatan" : "Kepala Divisi Kaderisasi", # 1
             },
