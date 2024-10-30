@@ -1760,6 +1760,3 @@ elif menu == "Senator":
 
     senator()
 
-
-
-# Tambahkan menu lainnya sesuai kebutuhan
