@@ -31,6 +31,7 @@ def streamlit_menu():
             "people-fill",
             "people-fill",
             "people-fill",
+           
         ],
         default_index=0,
         orientation="horizontal",
@@ -98,7 +99,7 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1KigidBoxqCQFKjbnCJaGhcBHQNAIkj_R_",
+            "https://drive.google.com/uc?export=view&id=11KigidBoxqCQFKjbnCJaGhcBHQNAIkj_R",
             "https://drive.google.com/uc?export=view&id=1javxwN58k5pP9s13dkCY0Kb0_SX1UUoR",
             "https://drive.google.com/uc?export=view&id=1ZQmloglh13t3bISyQ9tnB4CsmfbXnY1t",
             "https://drive.google.com/uc?export=view&id=10oFD_etmz-IrXNHmDN4ocZOep67IBfCC",
@@ -370,8 +371,8 @@ elif menu == "Senator":
 
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=16_a9fITDN9ElwtRLsIHd5cM1BsQn0CHy",
-            "https://drive.google.com/uc?export=view&id=1t_4UD8pDeyuKgp-kiGkT4CBYi87z8MNf",
+            "https://drive.google.com/uc?export=view&id=1HGAsOSY22pQaBtmXPraAbQ4E0QUw5w96",
+            "https://drive.google.com/uc?export=view&id=1UP30Byp-tmJ4Gb7azZD57TywT_ZyeeXY",
             
             
         ]
@@ -408,25 +409,25 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def PSDA():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1M0dt__A4Vv2N2uXnukWmNyls-06W8vji",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=1PSLwDWF76U547JkgFDMOHeuUpGuLmSV3",
-            "https://drive.google.com/uc?export=view&id=1Na9LhIiGIkO5B83eN1bEn8LmKKS7-hvG",
-            "https://drive.google.com/uc?export=view&id=1olxIySKgWUWPmI9fu78x0-OljsSJVlT4",
-            "https://drive.google.com/uc?export=view&id=1LhzqsFQS4ipaIdET9GZyoBuIN_IBjmip",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=1IqmOni0CKT3g6nwlv5Xc_F6tPuzYTzNh",
-            "https://drive.google.com/uc?export=view&id=1bkJdXWNvNle2IfgPerr9zeraLjdfILky",
-            "https://drive.google.com/uc?export=view&id=1OOnSr2h7J8120ankpNAYblveMCEve7ji",
-            "https://drive.google.com/uc?export=view&id=1SkrZYHS2Mk9OqAHZYHI9avCHqhv7H7V2",
-            "https://drive.google.com/uc?export=view&id=1QHEl3exwVieS2hbR3J34w4cFvS4jC5s8",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=1lWUX3ztH71lE6jrIvJrzn50KQhQ5NF08",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=1lDZu2MxXZhuCuTOFa8pu-vg2AgJDSLhh",
+            "https://drive.google.com/uc?export=view&id=1jOk5eg7cHMNty5aAHy5_RX3kJUYkC8y3", #bang econ
+            "https://drive.google.com/uc?export=view&id=",  #kak abeth
+            "https://drive.google.com/uc?export=view&id=1PSLwDWF76U547JkgFDMOHeuUpGuLmSV3", #bang depan
+            "https://drive.google.com/uc?export=view&id=1Na9LhIiGIkO5B83eN1bEn8LmKKS7-hvG", #kak afifah
+            "https://drive.google.com/uc?export=view&id=1olxIySKgWUWPmI9fu78x0-OljsSJVlT4", #bang ateng
+            "https://drive.google.com/uc?export=view&id=1LhzqsFQS4ipaIdET9GZyoBuIN_IBjmip",#bang jo
+            "https://drive.google.com/uc?export=view&id=1mV5O0uRM53B3pTtXVeoxJWtKU-W8860O", #bang kemas
+            "https://drive.google.com/uc?export=view&id=1D-77onOjipx_KBqm7JVf1RbZrql9G_gf", #kak presilia
+            "https://drive.google.com/uc?export=view&id=1WKXxEkX_dZxOcYKq6HgbhbQm3tePZL_y", #kak rafa
+            "https://drive.google.com/uc?export=view&id=1AcZPIZDEvzvCs8FARLqTA8d-te5KAe5J", #bang sahid
+            "https://drive.google.com/uc?export=view&id=1IqmOni0CKT3g6nwlv5Xc_F6tPuzYTzNh", #kak vanesa
+            "https://drive.google.com/uc?export=view&id=1bkJdXWNvNle2IfgPerr9zeraLjdfILky", #kak alya
+            "https://drive.google.com/uc?export=view&id=1OOnSr2h7J8120ankpNAYblveMCEve7ji", #kak eksanty
+            "https://drive.google.com/uc?export=view&id=1SkrZYHS2Mk9OqAHZYHI9avCHqhv7H7V2", #bang deri
+            "https://drive.google.com/uc?export=view&id=1QHEl3exwVieS2hbR3J34w4cFvS4jC5s8", #kak okta
+            "https://drive.google.com/uc?export=view&id=1ecJgGV6IwdzEqHTotH05rLP8o8fzEoWm", #bang gde mona
+            "https://drive.google.com/uc?export=view&id=1lWUX3ztH71lE6jrIvJrzn50KQhQ5NF08", #kak jacline
+            "https://drive.google.com/uc?export=view&id=1H8xkFLMvpISZ4dZTF2dnEYWYLxOLTOHm", #kak rafly
+            "https://drive.google.com/uc?export=view&id=1lDZu2MxXZhuCuTOFa8pu-vg2AgJDSLhh", #kak dini
         ]
 
         data_list = [
@@ -666,8 +667,8 @@ elif menu == "Departemen MIKFES":
 
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1UmUd0mR94j5-Yk5A3oje8FQ134Az76xB",
+            "https://drive.google.com/uc?export=view&id=1UppJrbM-QZiNFEkWgzeA9QNptf5ziYT-",
             "https://drive.google.com/uc?export=view&id=",
             "https://drive.google.com/uc?export=view&id=",
             "https://drive.google.com/uc?export=view&id=",
@@ -838,7 +839,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Perumnas Way Kandis",
                 "hobbi": "Membaca",
                 "sosmed": "@rahmn_abdr",
-                "kesan": "Suhu Figma nih keknya abang",
+                "kesan": "Abang kalem yahorangnya?",
                 "pesan": "Semangat terus bang bimbing kami magang di SNR nya", 
                 "jabatan" : "Kepala Divisi Survei dan Riset", # 13
             },
