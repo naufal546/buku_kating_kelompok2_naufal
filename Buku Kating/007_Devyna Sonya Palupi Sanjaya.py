@@ -1495,7 +1495,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Membaca",
                 "sosmed": "@rahmn_abdr",
                 "kesan": "keren bangg",
-                "pesan": "Sehat terus ya abang, semoga apa yang abang inginkan segera tercapai", 
+                "pesan": "Sehat terus ya abang di waykandis", 
                 "jabatan" : "Kepala Divisi Survei dan Riset", # 1
             },
             {
