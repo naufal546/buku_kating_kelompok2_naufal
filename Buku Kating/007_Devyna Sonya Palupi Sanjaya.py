@@ -403,12 +403,35 @@ elif menu == "MedKraf":
 
     def medkraf():
         gambar_urls = [
+<<<<<<< HEAD
+            "https://drive.google.com/uc?export=view&id=1U5xNc9NBDGwBBmuMrlSacFgbTC_cAIaW",
+            "https://drive.google.com/uc?export=view&id=1UvIxovrGWbAKABGwy91G8tnRNosg7p3G",
+            "https://drive.google.com/uc?export=view&id=1UOwudL882u2trXykJ8lX3v9kmycNDhf3",
+            "https://drive.google.com/uc?export=view&id=1V_dUbAsTjKP0381cPVlKcxhsOnmwRkoj",
+            "https://drive.google.com/uc?export=view&id=1UMuPeiuhG7tLATIh-4jc1nUyvkzHl1gV",
+            "https://drive.google.com/uc?export=view&id=1UwNBTkipIRuTFrcuusd9fys187-r9iAM",
+            "https://drive.google.com/uc?export=view&id=1Ug0kQnx39gtLJjRBB7tYRqybGg2VTw8Y",
+            "https://drive.google.com/uc?export=view&id=1UyVaV2siSb5726XGO8lOxAJYI2MDs7Wt",
+            "https://drive.google.com/uc?export=view&id=1UMXPhtX1VXRwSexnu-9lMjruisfdx24b",
+            "https://drive.google.com/uc?export=view&id=1UgQbT9JWDLmoCuV2tYFdeP4J3uB7UAhK",
+            "https://drive.google.com/uc?export=view&id=1VD3Mr2oXgo613QF-IpP6JoWiOFABqKqc",
+            "https://drive.google.com/uc?export=view&id=1VQ8dUqi5qNelTXs4rVM0NQ_rsvIMmtNi",
+            "https://drive.google.com/uc?export=view&id=1UX4CBmz9wEN0kAZVtr224bO_IU5qnXKB",
+            "https://drive.google.com/uc?export=view&id=1VQlgGxKTxIgP3Aej0GrmP_ICovI564yj",
+            "https://drive.google.com/uc?export=view&id=1Vbj1UR4DkvlmRmjbBBzz1wBt1qItUchI",
+            "https://drive.google.com/uc?export=view&id=1VVf0D9TWCWPO51gRg3MXyaruL3CIDmRI",
+            "https://drive.google.com/uc?export=view&id=1Ufg2Jmu6I5vj1DfyAitBgR7CFfc-n-f3",
+            "https://drive.google.com/uc?export=view&id=1VPcApBYPkHgazBZ02p0xfFfR7RTTx7Iy",
+            "https://drive.google.com/uc?export=view&id=1VLNvY3BZViX_pZqOlXA1H3T-7noWi76X",
+          
+=======
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+>>>>>>> e57a2424a29f2be10d022f340610b2277c01087b
             
         ]
         data_list = [
@@ -420,9 +443,15 @@ elif menu == "MedKraf":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton",
                 "sosmed": "",
+<<<<<<< HEAD
+                "kesan": "tegas ya abangnya",
+                "pesan": "Sehat-sehat bang",
+                "jabatan" : "Kepala departemen ", #1
+=======
                 "kesan": "",
                 "pesan": "",
                 "jabatan" : "", #1
+>>>>>>> e57a2424a29f2be10d022f340610b2277c01087b
             },
             {
                 "nama": "Elok Fiola",
@@ -481,7 +510,7 @@ elif menu == "MedKraf":
                 "hobbi": "Ngegym",
                 "sosmed": "@cintyabella28",
                 "kesan": "Suka banget sama outfit kakak, cocok banget di divisi media & konten",
-                "pesan": "", 
+                "pesan": "semangat terus yaa kak", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -492,8 +521,8 @@ elif menu == "MedKraf":
                 "alamat": "Natar, Lampung Selatan",
                 "hobbi": "Menyibukkan Diri",
                 "sosmed": "@ekafdyaptri",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "kak eka aktif banget dimanapunn",
+                "pesan": "semoga sehat selalu yaa kak eka, tetap menginspirasi", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -540,11 +569,26 @@ elif menu == "MedKraf":
                 "alamat": "Korpri",
                 "hobbi": "Bernyanyi dan Menonton",
                 "sosmed": "@tryyaniciaaa",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "gemassss kakaknya cantik",
+                "pesan": " semangat kakk", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
+<<<<<<< HEAD
+                "nama": "Dwi Ratna Anggraeni",
+                "nim": "122450008",
+                "umur": "20",
+                "asal": "Jambi",
+                "alamat": "Jalan Durian 5",
+                "hobi": "Membaca",
+                "sosmed": "@dwiratnn_",
+                "kesan": "keren kakaknya",
+                "pesan": "Ramahh banget kak", 
+                "jabatan" : "Anggota Divisi PDD", # 1
+            },
+            {
+=======
+>>>>>>> e57a2424a29f2be10d022f340610b2277c01087b
                 "nama": "Gymnastiar Al Khoarizmy",
                 "nim": "122450096",
                 "umur": "20",
@@ -636,9 +680,26 @@ elif menu == "Departemen_Eksternal":
 
     def Departemen_Eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1ZPy-cZgP8R3PYJTkdUVtQDo7FV06rW5O",
+            "https://drive.google.com/uc?export=view&id=1Z6QQaeAdCuBb7ewOm1K-_SZqRrv6TSuW",
+            "https://drive.google.com/uc?export=view&id=1ZdlrFQdyBlW8hhOL6GSw5dsI3RB57WkH",
+            "https://drive.google.com/uc?export=view&id=1lq3pxgLapsciJ-rcwTsrm4ycUbdoGlIV",
+            "https://drive.google.com/uc?export=view&id=1Zq6YrL4BucXR-wG78mhbmPP6b8j9HGte",
+            "https://drive.google.com/uc?export=view&id=1ZSaSjIO1FmY1XaNQtiiiLZWLXkE8kP-i",
+            "https://drive.google.com/uc?export=view&id=1ZiNM6nbVCwe81WYV3C3-RwZVbDRCKJkB",
+            "https://drive.google.com/uc?export=view&id=1iyJT9h3UVcV6TXr3eC3_wSpj3Uep0Cre",
+            "https://drive.google.com/uc?export=view&id=1ZeUDL0k5S1Igz7pVEJqYlUi2HvzSCBSU",
+            "https://drive.google.com/uc?export=view&id=1ZeqCx-xr6b52yngd3tWfd6scLX7kJumR",
+            "https://drive.google.com/uc?export=view&id=1ZjVyNs62huzYOZihUSfoDdRjVxiQqd9T",
+            "https://drive.google.com/uc?export=view&id=1gZQE69ZiqrRf0W9Q5spTb8NVLjhbFBVz",
+            "https://drive.google.com/uc?export=view&id=1YuxNAgBtafPXABIq5VK9RuBU5i0V6iw6",
+            "https://drive.google.com/uc?export=view&id=1YrMPEz70WgldaTyBv7CVofcHJdei6jS4",
+            "https://drive.google.com/uc?export=view&id=1lC8Z-45Ku1_9zi9gTpIpuzkbJHIfGtHD",
+            "https://drive.google.com/uc?export=view&id=1YreO14zRWqA-tTZlL9kr9ZFV7n-YsVCO",
+            "https://drive.google.com/uc?export=view&id=1ZxLytk8eW-BpbsSHu8T9WyPEjqYvV4FC",
+            "https://drive.google.com/uc?export=view&id=1ZurnLCfam2QPINAWYgpA8EjJaDqvM0To",
+            "https://drive.google.com/uc?export=view&id=1YwfavSaUiCwpiaApv8QzZhVN64PV4qjy",
+            "https://drive.google.com/uc?export=view&id=1Z5klKBcfpPSGR4_Ci2MXDzK3ziBWR75s",
         ]
         data_list = [
             {
@@ -679,14 +740,14 @@ elif menu == "Departemen_Eksternal":
             },
             {
                 "nama": "Bastian Heskia Silaban",
-                "nim": "121450",
+                "nim": "122450130",
                 "umur": "",
                 "asal": "",
                 "alamat": "",
                 "hobbi": "",
                 "sosmed": "",
-                "kesan": "Kakaknya ramahh, asik,baik",
-                "pesan": "semangat terus kuliahnya kakak, jangan mudah menyerah", 
+                "kesan": "abangnya ramahh, asik,baik",
+                "pesan": "semangat terus kuliahnya bang bass, jangan mudah menyerah", 
                 "jabatan" : "", # 1
             },
             {
@@ -697,7 +758,7 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Berkebun",
                 "sosmed": " @deaa.rsn",
-                "kesan": "Kakaknya ramah, orangnya juga cantik",
+                "kesan": "Kakaknya ramah, orangnya juga cantik, ariess prideee",
                 "pesan": "semangat ya kuliahnya jangan putus asa orang sibuk", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
