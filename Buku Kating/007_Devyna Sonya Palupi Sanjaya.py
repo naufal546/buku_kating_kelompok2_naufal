@@ -95,7 +95,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Kesan: {data_list[i]['kesan']}")
             st.write(f"Pesan: {data_list[i]['pesan']}")
             st.write(f"Jabatan: {data_list[i]['jabatan']}")
-            st.write("  ")
+    
     st.write("Semua gambar telah dimuat!")
 
 
