@@ -1558,7 +1558,7 @@ elif menu == "Departemen PSDA":
 
     PSDA()
 
-    elif menu == "Departemen Eksternal":
+elif menu == "Departemen Eksternal":
 
     def eksternal():
         gambar_urls = [
