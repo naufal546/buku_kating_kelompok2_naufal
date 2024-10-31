@@ -371,9 +371,6 @@ elif menu == "Baleg":
                 "pesan": "semangat terus bang! jangan patah semangat", 
                 "jabatan" : " Anggota Komisi 3 Legislatif", # 1
             },
-             
-
-
         ]
         display_images_with_data(gambar_urls, data_list)
 
@@ -787,7 +784,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "ML (Machine Learning)",
                 "sosmed": "@here.am.ai",
                 "kesan": " ramah dan solutif abangnya",
-                "pesan": "Semangat abang pj materi kelompok kami cosval", 
+                "pesan": "Semangat abang pj!selalu jadi orang baik bang", 
                 "jabatan" : "Staff Divisi Pusat Inovasi dan Kajian Akademik", # 1
             },
             {
@@ -799,7 +796,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Menonton Film",
                 "sosmed": "@anjaniiidev",
                 "kesan": "Ramah dan baik banget kak",
-                "pesan": "Sukses selalu kak dalam berbagai hal", 
+                "pesan": "Sukses selalu kak ya kak", 
                 "jabatan" : "Staff Divisi Pusat Inovasi dan Kajian Akademik", # 1
             },
             {
@@ -811,7 +808,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "-",
                 "sosmed": "@dindanababan_",
                 "kesan": "Keren kakaknyaa",
-                "pesan": "Semangat menjalani hri-hari kak", 
+                "pesan": "Semangat menjalani hari-hari kak", 
                 "jabatan" : "Staff Divisi Pusat Inovasi dan Kajian Akademik", # 1
             },
             {
@@ -822,7 +819,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gg. Nangka 3",
                 "hobbi": "Liatin Jurna",
                 "sosmed": "@marletacornelia",
-                "kesan": "Pinter kak marletta, kenal dari pas TPB jadi tutor matdas TPB 2",
+                "kesan": "kakaknya baik dan pinter juga",
                 "pesan": "Semangat terus kak, semoga akademiknya semakin meningkat", 
                 "jabatan" : "Staff Divisi Pusat Inovasi dan Kajian Akademik", # 1
             },
@@ -846,7 +843,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Perumnas Way Kandis",
                 "hobbi": "Membaca",
                 "sosmed": "@rahmn_abdr",
-                "kesan": "ramah dan baik",
+                "kesan": "ramah dan baik abangnya",
                 "pesan": "Sukses selalu bang, terus memberi motivasi kepada kami", 
                 "jabatan" : "Kepala Divisi Survei dan Riset", # 1
             },
@@ -858,8 +855,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri",
                 "hobbi": "Ngoding dan buat konten WISATA",
                 "sosmed": "@egistr",
-                "kesan": "abangnya ramah dan keren",
-                "pesan": "Sukses selalu bang ", 
+                "kesan": "abangnya humble dan suka menolong ",
+                "pesan": "Sukses selalu bang, jangan patang menyerah", 
                 "jabatan" : "@egistr", # 1
             },
             {
@@ -870,8 +867,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri",
                 "hobbi": "Ngoding WISATA",
                 "sosmed": "@rahm_adityaa",
-                "kesan": "Keren banget bang ",
-                "pesan": "Selalu membimbing kami ya bang", 
+                "kesan": "Keren banget dan pinter ",
+                "pesan": "semangat terus bang", 
                 "jabatan" : "Staff Divisi Survei dan Riset", # 1
             },
             {
@@ -882,8 +879,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl Kelengkeng Raya",
                 "hobbi": "Nonton K-Drama",
                 "sosmed": "@pratiwifebiya",
-                "kesan": "Baik kakaknya dan cantik",
-                "pesan": "Jangan pernah bosan ngajarin kami ya kak", 
+                "kesan": "Baik dan ramah banget",
+                "pesan": "terus semangat dan jaga kesehatan kak", 
                 "jabatan" : "Staff Divisi Survei dan Riset", # 1
             },
              {
@@ -906,8 +903,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Sukarame",
                 "hobbi": "Tidur dan Berkembang",
                 "sosmed": "@randaandriana_",
-                "kesan": "Keren dan baik abangnya",
-                "pesan": "semangat bang",
+                "kesan": "Keren dan baik banget abangnya",
+                "pesan": "semangat terus bang! jangan lupa minum",
                 "jabatan" : "Staff Divisi Survei dan Riset", # 1
             },
         ]
@@ -922,11 +919,11 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1mAr7SH0O3Z7BVbPblqyK_-ptMG_yv6aj",
             "https://drive.google.com/uc?export=view&id=1kOSvVlUvc6tBs5BdKZIx-IPSwnvmInbS",
             "https://drive.google.com/uc?export=view&id=1kRePwe5QPFxwmc5ScXtJi0xoHfym18lT",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1SVaZP--zkBoNkQZbxx-pSrU79QyQb8WG",
             "https://drive.google.com/uc?export=view&id=1iymWqYUBHT-nehmfjXA0u9z0Bw-daCyW",
             "https://drive.google.com/uc?export=view&id=1kQ13Ko4HpPIcAqxbvMocyq5Bn8MHwtcb",
             "https://drive.google.com/uc?export=view&id=1kOf3G9twV2eG-63-vhqMyDG6-zS5sOjQ",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1SXsukP_lJRQAkrOCl9sii5q3Hd_Fb94t",
             "https://drive.google.com/uc?export=view&id=1P9ivC8ACYb2bDp6SIqvSv_a1XxlMrevg",
             "https://drive.google.com/uc?export=view&id=1jrE7yUuAcjG7LgftBo7KQDaVQ3ded3sf",
             "https://drive.google.com/uc?export=view&id=1PA3MUfJKruEBXZCBYMeHGbA0-hkD0SwL",
