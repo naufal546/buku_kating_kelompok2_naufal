@@ -1182,8 +1182,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Jl. Bel",
                 "hobbi": "Mencari Uang",
                 "sosmed": "@andriangaol",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Realistis person (agak mirip sama tuan krab dari segi obsesi dengan uang)",
+                "pesan": "semangat bang mengumpulkan uangnyaa",
                 "jabatan" : "Kepala Departemen SSD", #1
             },
             {
@@ -1194,8 +1194,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton Film",
                 "sosmed": "@adistysa_",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "asikk",
+                "pesan": "jangan capekk ya ka nemenin bang andrian ngumpulin uang", 
                 "jabatan" : "Sekretaris Departemen SSD", # 1
             },
             {
@@ -1206,8 +1206,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "Menghitung Uang",
                 "sosmed": "@zhjung",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "seruu",
+                "pesan": "berdayaa Kewirausahaan HMSD", 
                 "jabatan" : "Kepala Divisi KWU", # 1
             },
             {
@@ -1218,8 +1218,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "Touring",
                 "sosmed": "@dananghk_",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "jago jualan",
+                "pesan": "Kuras semua isi dompet orang-orang bangg", 
                 "jabatan" : "Staff KWU", # 1
             },
             {
@@ -1228,10 +1228,10 @@ elif menu == "Departemen SSD":
                 "umur": "21",
                 "asal": "Bogor",
                 "alamat": "Lapas",
-                "hobbi": "Bebas",
+                "hobbi": "makan mie ayam",
                 "sosmed": "@farel_julio",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "kerenn",
+                "pesan": "Semangat bang farell buat jualannyaa", 
                 "jabatan" : "Staff KWU", # 1
             },
             {
@@ -1242,8 +1242,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan 1",
                 "hobbi": "Badminton",
                 "sosmed": "@ahmad.ris45",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "nama kita sama",
+                "pesan": "Semangat teruss ya ka ahmadd", 
                 "jabatan" : "Staff KWU", # 1
             },
             {
@@ -1254,8 +1254,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Pemda",
                 "hobbi": "Menulis",
                 "sosmed": "@tesakanias",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "asekk",
+                "pesan": "semoga ga pernah merasakan writing block yaa ka", 
                 "jabatan" : "Staff KWU", # 1
             },
             {
@@ -1266,8 +1266,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Kedaton",
                 "hobbi": "Tidur",
                 "sosmed": "@nabilahanftr",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "relate (hobinya tidur)",
+                "pesan": "semoga istiqomah tidurnya ya kaa", 
                 "jabatan" : "Kepala Divisi Sponsor", # 1
             },
             {
@@ -1278,8 +1278,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobbi": "Main Alat Musik",
                 "sosmed": "@meylanielia",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "keren",
+                "pesan": "Semangat ka eliaa", 
                 "jabatan" : "Staff sponsor", # 1
             },
             {
@@ -1290,8 +1290,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Jl. Nangkal",
                 "hobbi": " Olahraga",
                 "sosmed": "@dhafinrzqa13",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "kecee",
+                "pesan": "semangat ya bangg dhafinn", 
                 "jabatan" : "Staff sponsor", # 1
             },
         ]
@@ -1316,8 +1316,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Khobam",
                 "hobbi": "Travelling",
                 "sosmed": "@ericsonchandra99",
-                "kesan": "",
-                "pesan": "",
+                "kesan": "Tegas betul",
+                "pesan": "Semangat terus ya bangg",
                 "jabatan" : "Kepala Departemen PSDA", #1
             },
             {
@@ -1328,8 +1328,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kemiling",
                 "hobbi": "Bernafas",
                 "sosmed": "@celisabethh_",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "seruu banget orangnya",
+                "pesan": "jangann capek jadii orang seru ya kaa", 
                 "jabatan" : "Sekretaris Departemen PSDA", # 1
             },
             {
@@ -1340,8 +1340,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Pulau Damar",
                 "hobbi": "Belajar",
                 "sosmed": "@depanloo",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "lucuu",
+                "pesan": "Jangan lupaa boxingnya ya bangg, semangat teruss", 
                 "jabatan" : "Kepala Divisi Manjakat", # 1
             },           
         ]
