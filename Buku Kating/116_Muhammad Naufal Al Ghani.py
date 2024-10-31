@@ -223,7 +223,7 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi": "Tanya sama GPT",
                 "sosmed": "@trimurniaa",
-                "kesan": "Kakaknya cantik, ramah, baik",
+                "kesan": "Kakaknya ramah,dan baik",
                 "pesan": "semangat kuliahnya kakak, tetap jadi orang baik",
                 "jabatan" : "Ketua Badan Legislatif", #1
             },
@@ -235,7 +235,7 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi": "Puasa Senin Kamis",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Baik banget kakaknya, sgt humble",
+                "kesan": "Baik banget kakaknya",
                 "pesan": "Semangat kuliahnya kak", 
                 "jabatan" : "Sekretaris", # 1
             },
@@ -247,7 +247,7 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi": "Menonton film",
                 "sosmed": "wlsbn0",
-                "kesan": "Ramah banget kakanya, baikk pula",
+                "kesan": "Ramah banget kakanya",
                 "pesan": "semangat ya kak, tetap ramahh", 
                 "jabatan" : "Bendahara", # 1
             },
@@ -259,7 +259,7 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobbi": "Baca Webtoon",
                 "sosmed": " @anisadini10",
-                "kesan": "Kakaknya ramahh, asik,baik",
+                "kesan": "Kakaknya ramahh ,dan baik",
                 "pesan": "semangat terus kuliahnya kakak, jangan mudah menyerah", 
                 "jabatan" : "Kepala Komisi 1 Legislatif", # 1
             },
@@ -271,7 +271,7 @@ elif menu == "Baleg":
                 "alamat": "Lampung Timur",
                 "hobbi": "Baca Jurnal",
                 "sosmed": " @dylebee",
-                "kesan": "Bagus sekali kak namanya, orangnya juga cantik",
+                "kesan": "keren banget kak hobinya baca jurnal ",
                 "pesan": "semangat ya kuliahnya jangan putus asa kak", 
                 "jabatan" : "Kepala Komisi 2 Aspirasi dan Pengawasan", # 1
             },
@@ -382,8 +382,8 @@ elif menu == "Senator":
 
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1kR3XmR4pwPIZYLir2OL3Mz2_PXoW8Lzm",
-            "https://drive.google.com/uc?export=view&id=1a_bLwdOZ2u0J0jvSr5Zs_zywYNE2Nidr",
+            "https://drive.google.com/uc?export=view&id=1WIu5lRkqMv-Ri5eFVuxJAjrWGBJuf0f4",
+            "https://drive.google.com/uc?export=view&id=1uSR7WwjkEgw9hYfRtucWEyBXFhwyKIfs",
         ]
         data_list = [
             {
@@ -422,7 +422,7 @@ elif menu == "Departemen PSDA":
 
     def departemen_psda():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1e1ytsQUAmOLMGhCp11w_zCQXa3UQsMGW",
+            "https://drive.google.com/uc?export=view&id=14F0jkWpqwDhUpVAVvCrt2jBvPDUukg0U",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1Axyxegto5FtFRGwNOMKKnfp76YKWVGU6",
             "https://drive.google.com/uc?export=view&id=1BUL10wbAHzo08mabLyl0cAofSNFVEq60",
@@ -1020,7 +1020,7 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Berkebun",
                 "sosmed": " @deaa.rsn",
-                "kesan": "Kakaknya ramah, orangnya juga cantik",
+                "kesan": "Kakaknya ramah, orangnya juga ",
                 "pesan": "semangat ya kuliahnya jangan putus asa orang sibuk", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
@@ -1057,8 +1057,8 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
-                "kesan": "Kakaknya bener-bener cantik banget!",
-                "pesan": "semangat kuliahnya kak, semoga makin cantik", 
+                "kesan": "Kakaknya bener-bener  banget!",
+                "pesan": "semangat kuliahnya kak, semoga makin ", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
             {
@@ -1236,7 +1236,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Way Kandis (Kobam)",
                 "hobbi": "menunggu ayam jantan bertelur",
                 "sosmed": "@dimzrky_",
-                "kesan": "Kesan Dimas adalah sosok yang humoris dan menyenangkan.",
+                "kesan": "sosok yang humoris dan menyenangkan.",
                 "pesan": "Semoga terus semangat dan sukses dalam kuliah!",
                 "jabatan": "Kepala Departemen Internal"
             },
@@ -1248,7 +1248,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Baca Novel",
                 "sosmed": "@cathrine.sinaga",
-                "kesan": "Chatrine adalah teman yang sangat perhatian dan penyayang.",
+                "kesan": "kakak yang sangat perhatian dan penyayang.",
                 "pesan": "Teruslah berkarya dan jangan lupa istirahat!",
                 "jabatan": "Sekretaris Departemen Internal"
             },
@@ -1260,7 +1260,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Pasaruntung",
                 "hobbi": "Mengoleksi Dino",
                 "sosmed": "@akbar_restika",
-                "kesan": "Akbar adalah orang yang sangat kreatif dan menyenangkan.",
+                "kesan": "orang yang sangat kreatif dan menyenangkan.",
                 "pesan": "Semoga selalu menemukan dino-dino yang langka!",
                 "jabatan": "Kadiv Keharmonisasian"
             },
