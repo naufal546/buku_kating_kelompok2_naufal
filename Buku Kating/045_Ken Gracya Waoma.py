@@ -384,7 +384,7 @@ elif menu == "MedKraf":
             "https://drive.google.com/uc?export=view&id=1ilSlIjEmorKaXGoCv8_Z6CccooNBauOI", 
             "https://drive.google.com/uc?export=view&id=1ikFCGgSmPA-6M0FGA5M5tCKnwpKsOyxG",
             "https://drive.google.com/uc?export=view&id=1iu3JMoZi34jfDi9_VdLDncER6jb5_5nV",
-            "https://drive.google.com/uc?export=view&id=1jOSxiOvVc0fz5ZbIw0KiS6lVLJLpdJT",
+            "https://drive.google.com/uc?export=view&id=1jOSxiOvVc0fz5ZbIw0KiS6lVLJLpdJT-",
             "https://drive.google.com/uc?export=view&id=1igeUrag7PeE7vZd6xds36s0NYWMPFPr2",
             "https://drive.google.com/uc?export=view&id=1jnmvcaSHXHq_LvpMTFjo09HPB1kTc6xa",
             
@@ -649,8 +649,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Jl. Bel",
                 "hobbi": "Mencari Uang",
                 "sosmed": "@andriangaol",
-                "kesan": "Abangnya keren banget",
-                "pesan": "Tetaplah menginspirasi kami bang",
+                "kesan": "Abang sangat profesional dalam menjawab pertanyaan, kami belajar banyak dari itu",
+                "pesan": "Semoga semangat abang terus menular ke orang-orang sekitar, sukses selalu!",
                 "jabatan" : "Kepala Departemen SSD", #1
             },
             {
@@ -661,8 +661,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton Film",
                 "sosmed": "@adistysa_",
-                "kesan": "Kakak selalu menunjukkan semangat yang tinggi",
-                "pesan": "Semoga kakak diberkahi keberhasilan dalam segala hal", 
+                "kesan": "Kakak memberikan wawasan yang menarik mengenai SSD, kerennnn",
+                "pesan": "Semoga kakak selalu sukses dan menggapai impian", 
                 "jabatan" : "Sekretaris Departemen SSD", # 1
             },
             {
@@ -862,8 +862,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "JL. Lapas",
                 "hobbi": "Ngasprak",
                 "sosmed": "@johanneskrisjnnn",
-                "kesan": "Abang bikin wawancara jadi seru bangett",
-                "pesan": "Semoga sukses selalu bang dan tetap inspiratif", 
+                "kesan": "Abang menjawab pertanyaan dengan gaya yang asik, bikin senang bertanya",
+                "pesan": "Semoga harapan dan impian abang segera tercepai", 
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
             },
             {
@@ -874,8 +874,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kojo",
                 "hobbi": "Main game",
                 "sosmed": "@kemasverii",
-                "kesan": "Abangnya keliatan gamers ternyata memang hobi main game",
-                "pesan": "Semakin rajin ya bang belajarnya", 
+                "kesan": "Abangnya membawa energi positif selama wawancara, sehingga jadi penuh motivasi dan insight baru",
+                "pesan": "Makasih banyak bang, semoga makin sukses dimasa depan", 
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
             },
             {
@@ -886,8 +886,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kota Baru",
                 "hobbi": "Dengerin Lomba Sihir",
                 "sosmed": "@presiliamg",
-                "kesan": "Music taste nya bagus kak",
-                "pesan": "Semangat belajarnya kak, semoga akademiknya emakin meningkat ", 
+                "kesan": "Kakak kok bisa cantik bangett",
+                "pesan": "Jaga kesehatan ya kak, semoga menjadi orang sukses dimasa depan", 
                 "jabatan" : " Bendahara Divisi Manajemen Minat dan Bakat", # 1
             },
             {
@@ -898,8 +898,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Belwis",
                 "hobbi": "Baca Webtoon",
                 "sosmed": "@rafaaqilla",
-                "kesan": "Baik kakaknya, ramah jugaa",
-                "pesan": "Semangat kak kuliahnya, sukses selalu", 
+                "kesan": "Kakak selalu menunjukkan semangat yang tinggi",
+                "pesan": "Semoga kakak diberkahi keberhasilan dalam segala hal", 
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
             },
             {
@@ -910,8 +910,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Airan Raya",
                 "hobbi": "Nonton Jagad review",
                 "sosmed": "@sahid_maulana",
-                "kesan": "Abangnya baik ramah suaranya bagus",
-                "pesan": "Semangat kuliahnya bang,bahagia dan sukses selalu", 
+                "kesan": "Abangnya keren dan asik diajak ngobrol",
+                "pesan": "Semangat terus ya bang, semoga langkah kedepannya makin gemilang", 
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
             },
             {
@@ -922,8 +922,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Perum Korpri",
                 "hobbi": "Belajar",
                 "sosmed": "@roselivnes__",
-                "kesan": "Kakak kerenn sangattt, sukanya sama stylenya",
-                "pesan": "Keren selalu kakk", 
+                "kesan": "Kakak sangat baik dan cantik, memberikan ruang bagi kami untuk berbicara dan mengekspresikan pendapat",
+                "pesan": "Semoga kakak terus berkarya dan sukses dalam setiap hal yang ditekuni", 
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
             },
              {
@@ -934,8 +934,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Gg. Perwira Belwis",
                 "hobbi": "Nongs",
                 "sosmed": "@allyaislami_",
-                "kesan": "Kakak tegas dan berwibawa",
-                "pesan": "Semangat kuliahnya kak, semoga segala kebaikan menyertai kakak", 
+                "kesan": "Kakak tampak tegas namun tetap terlihat sosok yang baik dan easy-going",
+                "pesan": "Makasih ya kak, teruslah semangat dan menjadi sosok yang inspiratiff, sukses selalu kakk", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
              {
@@ -946,8 +946,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Natar",
                 "hobbi": "Nyari sinyal di gedung F",
                 "sosmed": "@eksantyfebriana",
-                "kesan": "Kakaknya baik dan ramah",
-                "pesan": "Terus memotivasi kami kak, semangat terus", 
+                "kesan": "Wawancaranya terasa fun dan informatif, kakak bisa ngejelasin dengan cara yang terbaik",
+                "pesan": "Semoga kakak dan keluarga tetap sehat selalu, jangan lupa ya tersenyum kak jadi bikin terlihat banget cantiknya", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
              {
@@ -958,8 +958,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kedaton",
                 "hobbi": "Nongki - nongki",
                 "sosmed": "@dransyah_",
-                "kesan": "Abangnya humble dan asik",
-                "pesan": "Semangat mengejar akademiknya bang", 
+                "kesan": "Abangnya menghargai setiap pertanyaan kami dan memberikan jawaban yang membantu",
+                "pesan": "Terimakasih bang atas insight yang berharga, semoga selalu diberi kemudahan dan kesuksesan", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
              {
@@ -970,8 +970,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Way Huwi",
                 "hobbi": "Scroll Tiktok",
                 "sosmed": "@oktavianrwnda",
-                "kesan": "Kakaknya baik dan asik",
-                "pesan": "Sukses selalu kak dalam segala hal", 
+                "kesan": "Kakaknya cantik, tegas, memberikan kami wawasan yang luas",
+                "pesan": "Semangat kak, semoga segala yang dicita-citakan tercapai", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
              {
@@ -982,8 +982,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Korpri Raya",
                 "hobbi": "Belajar, Game, Baca Komik",
                 "sosmed": "@gedemoenaa",
-                "kesan": "Abangnya ramah dan tidakk sombong",
-                "pesan": "Semangat dalam menjalani hari-hari bang", 
+                "kesan": "Abangnya memberikan kesan yang positif dan supportif selama wawancara",
+                "pesan": "Terimakasih ya bangg, semoga kesuksesan selalu menyertai abang", 
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
             },
              {
@@ -994,8 +994,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Korpri",
                 "hobbi": " Berenang",
                 "sosmed": "@jaclinaclcv_",
-                "kesan": "Kakak baik, ramah dan rajin olahraga",
-                "pesan": "Semoga semakin jago kak renangnya", 
+                "kesan": "Kakaknya hebat ya, cantik dan jago dalam bidang olahraga",
+                "pesan": "Semoga kakak terus berkembang dan sukses disemua bidang yang ditekuni", 
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
             },
              {
@@ -1006,8 +1006,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi": "Main Game",
                 "sosmed": "@raflyy_pd",
-                "kesan": "Abangnya baik dan ramah",
-                "pesan": "Sehat dan bahagia selalu bang", 
+                "kesan": "Abangnya baik dan bikin wawancara jadi fun dan banyak yang dapat dipelajari",
+                "pesan": "Makasih banng atas waktunya, semoga menjadi orang yang sukses dan berguna dimasa depan", 
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
             },
              {
@@ -1018,11 +1018,12 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi": "Baca",
                 "sosmed": "@syalaisha.i_",
-                "kesan": "Kakaknya pintar dan baik hati",
-                "pesan": "Sukses selalu kak dalam berbagai bidang", 
+                "kesan": "Kakaknya baik dan ramahh",
+                "pesan": "Semoga terus menginspirasi ya kak dan meraih kesuksesan dimasa depan", 
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
             },
-        ]
+        ] 
+
         display_images_with_data(gambar_urls, data_list)
 
     PSDA()
@@ -1048,7 +1049,6 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1l1ov9aNjESpFGPDIizFDiMl_mEufFukk",
             "https://drive.google.com/uc?export=view&id=1lshn0H45NPkzxood-9KFixXMtgYjJ4W9",
             "https://drive.google.com/uc?export=view&id=1le2d-NTsmjEuABKI9pwCsWnIb-xVTy4n",
-            "https://drive.google.com/uc?export=view&id=",    
         ]
         data_list = [
             {
