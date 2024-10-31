@@ -31,6 +31,7 @@ def streamlit_menu():
             "people-fill",
             "people-fill",
             "people-fill",
+           
         ],
         default_index=0,
         orientation="horizontal",
@@ -98,7 +99,7 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1KigidBoxqCQFKjbnCJaGhcBHQNAIkj_R_",
+            "https://drive.google.com/uc?export=view&id=11KigidBoxqCQFKjbnCJaGhcBHQNAIkj_R",
             "https://drive.google.com/uc?export=view&id=1javxwN58k5pP9s13dkCY0Kb0_SX1UUoR",
             "https://drive.google.com/uc?export=view&id=1ZQmloglh13t3bISyQ9tnB4CsmfbXnY1t",
             "https://drive.google.com/uc?export=view&id=10oFD_etmz-IrXNHmDN4ocZOep67IBfCC",
@@ -370,8 +371,8 @@ elif menu == "Senator":
 
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id"
-            "https://drive.google.com/uc?export=view&id",
+            "https://drive.google.com/uc?export=view&id=1HGAsOSY22pQaBtmXPraAbQ4E0QUw5w96",
+            "https://drive.google.com/uc?export=view&id=1UP30Byp-tmJ4Gb7azZD57TywT_ZyeeXY",
             
             
         ]
@@ -408,25 +409,25 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def PSDA():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1jOk5eg7cHMNty5aAHy5_RX3kJUYkC8y3", #bang econ
+            "https://drive.google.com/uc?export=view&id=",  #kak abeth
+            "https://drive.google.com/uc?export=view&id=1PSLwDWF76U547JkgFDMOHeuUpGuLmSV3", #bang depan
+            "https://drive.google.com/uc?export=view&id=1Na9LhIiGIkO5B83eN1bEn8LmKKS7-hvG", #kak afifah
+            "https://drive.google.com/uc?export=view&id=1olxIySKgWUWPmI9fu78x0-OljsSJVlT4", #bang ateng
+            "https://drive.google.com/uc?export=view&id=1LhzqsFQS4ipaIdET9GZyoBuIN_IBjmip",#bang jo
+            "https://drive.google.com/uc?export=view&id=1mV5O0uRM53B3pTtXVeoxJWtKU-W8860O", #bang kemas
+            "https://drive.google.com/uc?export=view&id=1D-77onOjipx_KBqm7JVf1RbZrql9G_gf", #kak presilia
+            "https://drive.google.com/uc?export=view&id=1WKXxEkX_dZxOcYKq6HgbhbQm3tePZL_y", #kak rafa
+            "https://drive.google.com/uc?export=view&id=1AcZPIZDEvzvCs8FARLqTA8d-te5KAe5J", #bang sahid
+            "https://drive.google.com/uc?export=view&id=1IqmOni0CKT3g6nwlv5Xc_F6tPuzYTzNh", #kak vanesa
+            "https://drive.google.com/uc?export=view&id=1bkJdXWNvNle2IfgPerr9zeraLjdfILky", #kak alya
+            "https://drive.google.com/uc?export=view&id=1OOnSr2h7J8120ankpNAYblveMCEve7ji", #kak eksanty
+            "https://drive.google.com/uc?export=view&id=1SkrZYHS2Mk9OqAHZYHI9avCHqhv7H7V2", #bang deri
+            "https://drive.google.com/uc?export=view&id=1QHEl3exwVieS2hbR3J34w4cFvS4jC5s8", #kak okta
+            "https://drive.google.com/uc?export=view&id=1ecJgGV6IwdzEqHTotH05rLP8o8fzEoWm", #bang gde mona
+            "https://drive.google.com/uc?export=view&id=1lWUX3ztH71lE6jrIvJrzn50KQhQ5NF08", #kak jacline
+            "https://drive.google.com/uc?export=view&id=1H8xkFLMvpISZ4dZTF2dnEYWYLxOLTOHm", #kak rafly
+            "https://drive.google.com/uc?export=view&id=1lDZu2MxXZhuCuTOFa8pu-vg2AgJDSLhh", #kak dini
         ]
 
         data_list = [
@@ -666,8 +667,8 @@ elif menu == "Departemen MIKFES":
 
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1UmUd0mR94j5-Yk5A3oje8FQ134Az76xB",
+            "https://drive.google.com/uc?export=view&id=1UppJrbM-QZiNFEkWgzeA9QNptf5ziYT-",
             "https://drive.google.com/uc?export=view&id=",
             "https://drive.google.com/uc?export=view&id=",
             "https://drive.google.com/uc?export=view&id=",
@@ -838,7 +839,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Perumnas Way Kandis",
                 "hobbi": "Membaca",
                 "sosmed": "@rahmn_abdr",
-                "kesan": "Suhu Figma nih keknya abang",
+                "kesan": "Abang kalem yahorangnya?",
                 "pesan": "Semangat terus bang bimbing kami magang di SNR nya", 
                 "jabatan" : "Kepala Divisi Survei dan Riset", # 13
             },
@@ -1052,7 +1053,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwais",
                 "hobbi": "Main Bowling",
                 "sosmed": "@yo_annamnk",
-                "kesan": "Kakak agak kalem?",
+                "kesan": "Kakak vibesnya ceria banget",
                 "pesan": "Sukses selalu kak di dalam hal apapun", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 11
             },
@@ -1064,9 +1065,9 @@ elif menu == "Departemen Eksternal":
                 "alamat": "TVRI",
                 "hobbi": "Bikin portofolio",
                 "sosmed": "@rzkdrnnn",
-                "kesan": "Keren dan baik hati abangnya",
-                "pesan": "Selalu memotivasi kami ya bang", 
-                "jabatan" : "Kepala Divisi Pengabdian Masyarakat", # 1
+                "kesan": "abang keknya tipe orang yang kalem ?",
+                "pesan": "yow tetap semangat kuliahnya bangg", 
+                "jabatan" : "Kepala Divisi Pengabdian Masyarakat", # 12
             },
              {
                 "nama": "Arafi Ramadhan Maulana",
@@ -1076,9 +1077,9 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Huwi",
                 "hobbi": "Bertani",
                 "sosmed": "@rafiramadhanmaulana",
-                "kesan": "Asik banget abangnya",
-                "pesan": "Tetap jadi orang baik bang", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
+                "kesan": "Hobinya sangat bermanfaat ya bang",
+                "pesan": "Semangat bang, semoga sukses juga bertaninya", 
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 13
             },
              {
                 "nama": "Asa Do’a Uyi",
@@ -1088,9 +1089,9 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Tepuk Semangat",
                 "sosmed": "@u_yippy",
-                "kesan": "Kakaknya ramah dan cocok sekali di pengmas",
-                "pesan": "Tetap jadi orang yang ramah kak", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
+                "kesan": "Kakak ramah banget dan masyaallah suka banget liat cara berpakaian kakak",
+                "pesan": "Tetap semangat kak menjalani hari-harinya", 
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 14
             },
              {
                 "nama": "Chalifia Wananda",
@@ -1100,9 +1101,9 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Q Time",
                 "sosmed": "@chlfawww",
-                "kesan": "Baik sekali kakaknya",
-                "pesan": "Tetap pertahankan semangat yang berkobar itu kak", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
+                "kesan": "Kakak asyik orangnya, cocok bgt di eksternal",
+                "pesan": "Jangan cape jadai orang yang berbagi kebahagiaan ya kak", 
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 15
             },
              {
                 "nama": "Irvan Alfaritzi",
@@ -1112,9 +1113,9 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton youtube, main game",
                 "sosmed": "@alfaritziirvan",
-                "kesan": "Keren banget bang dan baik hati",
-                "pesan": "Jangan lupa istirahat dan semangat bang", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
+                "kesan": "Memang orang-orang eksternal ini asyik semua",
+                "pesan": "Semangat bang jalani hari-harinya", 
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 16
             },
              {
                 "nama": "Izza Lutfia",
@@ -1124,9 +1125,9 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Teluk Betung",
                 "hobbi": "Main Rubik",
                 "sosmed": "@izzalutfia",
-                "kesan": "Baik, humble sekali kakk",
-                "pesan": "Tetap pertahankan akademiknya kakakk", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
+                "kesan": "Kakak asprak terbaikk, love sekebon deh buat kakak",
+                "pesan": "Semangat trs ya kak di organisasi dan aspraknya heheh", 
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 17
             },
              {
                 "nama": " Khaalishah Zuhrah Alyaa Vanefi",
@@ -1136,9 +1137,9 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Rajabasa",
                 "hobbi": "Mengaji",
                 "sosmed": "@alyaavanevi",
-                "kesan": "Baik hati dan namanya bagus sekali kak",
-                "pesan": "Sukses selalu kakk", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
+                "kesan": "Kayak namanya, kakak masyaaallah sekali",
+                "pesan": "Sukses selalu kak dunia akhiratnya", 
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 18
             },
              {
                 "nama": "Raid Muhammad Naufal",
@@ -1148,9 +1149,9 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Nemenin Tobias lari",
                 "sosmed": "@rayths_",
-                "kesan": "Baik dan sangat memberi motivasi bang",
-                "pesan": "Bahagia selalu bang", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
+                "kesan": "Dari hobinya keknya abang ini semangat banget orangnya wkwk",
+                "pesan": "Semangat aja deh bang semoga segala urusannya diperlancar", 
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 19
             },
              {
                 "nama": "Tria Yunanni",
@@ -1160,9 +1161,9 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Baca Buku",
                 "sosmed": " @tria_y062",
-                "kesan": "Baik dan ramahh",
-                "pesan": "Semangat kak dalam menjalani seluruh kegiatan ", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
+                "kesan": "positif vibes auranya",
+                "pesan": "Semangat kak kuliahnya dan organisasinya ", 
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 20
             },
 
            
@@ -1172,3 +1173,574 @@ elif menu == "Departemen Eksternal":
         display_images_with_data(gambar_urls, data_list)
 
     eksternal()
+elif menu == "Departemen Internal":
+
+    def internal():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1YN2H4doscOexjLxjH33kEdWf4CbfZUUC",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1YFyOrsuzXcgXsg-44pDOhQqEuvEhcBP1",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1YUWxcM0geFAnJ45LHW595s2QrP1OTEw7",
+            "https://drive.google.com/uc?export=view&id=1YcRaCk9jY1VxncJktwhXlkLPcdYrwo5H",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1Y_NeC6HKTHcp8mWHTZFFiSFmUFiqPcKA",
+            
+            
+        ]
+        data_list = [
+            {
+                "nama": "Dimas Rizky Ramadhani",
+                "nim": "121450027",
+                "umur": "20",
+                "asal": "Tangerang Selatan",
+                "alamat": "Way Kandis (Kobam)",
+                "hobbi": "menunggu ayam jantan bertelur",
+                "sosmed": "@dimzrky_",
+                "kesan": "Suka banget sama abang, dibalik orang yang humoris ternyata keren banget kepemimpinannya",
+                "pesan": "Semangat bang, akademiknya jangan dilupain yah",
+                "jabatan" : "Kepala Departemen Internal", #1
+            },
+            {
+                "nama": "Cathrine Sinaga",
+                "nim": "121450071",
+                "umur": "20",
+                "asal": " Sumatera Utara",
+                "alamat": "Airan",
+                "hobbi": "Baca Novel",
+                "sosmed": "@cathrine.sinaga",
+                "kesan": "Kakak asyik juga orangnya",
+                "pesan": "Tetap semangat kak akademik dan non akademiknya", 
+                "jabatan" : "Sekretaris Departemen Internal", # 2
+            },
+            {
+                "nama": "Akbar Resdika",
+                "nim": "121450066",
+                "umur": "20",
+                "asal": "Lampung Barat",
+                "alamat": "Pasaruntung",
+                "hobbi": "Mengoleksi Dino",
+                "sosmed": "@akbar_restika",
+                "kesan": "Hobinya out of the box bang",
+                "pesan": "Semangat bang menambah Dino nya hehe", 
+                "jabatan" : "Kepala Divisi Keharmonisasian", # 3
+            },
+            {
+                "nama": "Renita Siahaan",
+                "nim": "122450070",
+                "umur": "21",
+                "asal": "Sumatera Utara",
+                "alamat": "Gerbang Barat",
+                "hobbi": "Membaca dan Memancing",
+                "sosmed": "@renita.shn",
+                "kesan": "Kakak lucu orangnya",
+                "pesan": "ajakin aku mancing dong kak hehe", 
+                "jabatan" : "Staff Keharmonisasian", # 4
+            },
+            {
+                "nama": "Salwa Farhanatussaidah",
+                "nim": "122450055",
+                "umur": "20",
+                "asal": "Pesawaran",
+                "alamat": "Airan",
+                "hobbi": "Nonton",
+                "sosmed": "@slwfhn_694",
+                "kesan": "Masyaallah kaya namanya kak",
+                "pesan": "Semangat kak kuliahnya", 
+                "jabatan" : "Staff Keharmonisasian", # 5
+            },
+            {
+                "nama": "Rendra Eka Prayoga",
+                "nim": "122450112",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Jl. Lapas Raya",
+                "hobbi": "Menulis lagu",
+                "sosmed": "@rendraepr",
+                "kesan": "Abang orangnya asyik banget, bisa bikin orang ketawa ",
+                "pesan": "Bang jangan cape jadi orang yang humoris yah", 
+                "jabatan" : "Staff Keharmonisasian", # 6
+            },
+            {
+                "nama": "Yosia Retare Banurea",
+                "nim": "121450149",
+                "umur": "20",
+                "asal": "Sumatera Utara",
+                "alamat": "Perum Griya Indah",
+                "hobbi": "Nungguin ayam betina berkokok",
+                "sosmed": "@yosiabanurea",
+                "kesan": "Humoris abiez nih abang orangnya",
+                "pesan": "Lanjutkan bang, buat orang lain jadi tertawa", 
+                "jabatan" : "Staff Keharmonisasian", # 7
+            },
+            {
+                "nama": "Ari Sigit",
+                "nim": "121450069",
+                "umur": "23",
+                "asal": "Lampung Barat",
+                "alamat": "Labuhan Ratu",
+                "hobbi": "Futsal",
+                "sosmed": "@ari_sigit17",
+                "kesan": "Masyaallah abang keliatannya kalem dan sangat agamis, cocok banget di kerohanian",
+                "pesan": "Semangat bang semoga baik dunia dan akhiratnya", 
+                "jabatan" : "Kepala Divisi Kerohanian", # 8
+            },
+            {
+                "nama": "Josua Panggabean",
+                "nim": "122450061",
+                "umur": "21",
+                "asal": "Sumatera Utara",
+                "alamat": "Gerbang Barat",
+                "hobbi": "Ngejokes",
+                "sosmed": "@josuapanggabean_",
+                "kesan": "Abang diem-diem tapi lucu orangnya ",
+                "pesan": "Semangat bang, apalagi buat pj MSS RB heheh", 
+                "jabatan" : "Staff Kerohanian", # 9
+            },
+            {
+                "nama": "Azizah Kusuma Putri",
+                "nim": "122450068",
+                "umur": "21",
+                "asal": "Lampung Selatan",
+                "alamat": "Natar",
+                "hobbi": "Berkebun",
+                "sosmed": "@azizahksma15",
+                "kesan": " kalem kakaknya",
+                "pesan": "Semangat kak menjalani hari-harinya", 
+                "jabatan" : "Staff Kerohanian", # 10
+            },
+             {
+                "nama": "Meira Listyaningrum",
+                "nim": "122450011",
+                "umur": "20",
+                "asal": "Pesawaran",
+                "alamat": "Airan",
+                "hobbi": "Nonton",
+                "sosmed": "@meiralsty_",
+                "kesan": "Kakak juga kalem, cocok banget di kerohanian",
+                "pesan": "Semangat terus yah kak ", 
+                "jabatan" : "Staff Kerohanian", # 11
+            },
+             {
+                "nama": "Rendi Alexander Hutagalung",
+                "nim": "122450057",
+                "umur": "20",
+                "asal": "Tangerang",
+                "alamat": "Kost Benawang",
+                "hobbi": "Berenang di Laut",
+                "sosmed": "@rexander",
+                "kesan": "Memang daplok paling baik sih, fix",
+                "pesan": "Semangat terus abangkuhh, semoga semuanya dipermudah", 
+                "jabatan" : "Staff Kerohanian", # 12
+            },
+
+        ]
+        display_images_with_data(gambar_urls, data_list)
+
+    internal()
+elif menu == "Departemen SSD":
+
+    def SSD():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            
+        ]
+        data_list = [
+            {
+                "nama": "Andrian Agustinus Lumbangaol",
+                "nim": "121450090",
+                "umur": "21",
+                "asal": "Panjibako",
+                "alamat": "Jl. Bel",
+                "hobbi": "Mencari Uang",
+                "sosmed": "@andriangaol",
+                "kesan": "Keren banget bang, calon pengusaha ini",
+                "pesan": "Semangat terus bang kuliah sama usahanya",
+                "jabatan" : "Kepala Departemen SSD", #1
+            },
+            {
+                "nama": "Adisty Syawaida Arianto",
+                "nim": "121450136",
+                "umur": "23",
+                "asal": "Metro",
+                "alamat": "Sukarame",
+                "hobbi": "Nonton Film",
+                "sosmed": "@adistysa_",
+                "kesan": "Kakak ramah orangnya",
+                "pesan": "Semangat kak, semoga lancar kegiatan kuliah dan di SSDnya", 
+                "jabatan" : "Sekretaris Departemen SSD", # 2
+            },
+            {
+                "nama": "Nabila Azhari",
+                "nim": "121450029",
+                "umur": "21",
+                "asal": "Simalungun",
+                "alamat": "Airan",
+                "hobbi": "Menghitung Uang",
+                "sosmed": "@zhjung",
+                "kesan": "Kece abiezz bener-bener calon pengusaha",
+                "pesan": "Semangat kak kegiatan KWU nya", 
+                "jabatan" : "Kepala Divisi KWU", # 3
+            },
+            {
+                "nama": "Danang Hilal Kurniawan",
+                "nim": "122450085",
+                "umur": "21",
+                "asal": "Bandar Lampung",
+                "alamat": "Airan",
+                "hobbi": "Touring",
+                "sosmed": "@dananghk_",
+                "kesan": "Abang asyik banget, cocok di KWU",
+                "pesan": "Semangat bang ikut lombanya ", 
+                "jabatan" : "Staff KWU", # 4
+            },
+            {
+                "nama": "Farel Julio Akbar",
+                "nim": " 122450110",
+                "umur": "21",
+                "asal": "Bogor",
+                "alamat": "Lapas",
+                "hobbi": "Bebas",
+                "sosmed": "@farel_julio",
+                "kesan": "Ga espect kalo abang di divisi KWU hehe soalnya jadi kapo suporteran",
+                "pesan": "Jangan berkurang ya bang semangatnya buat KWU ataupun suporteran hehe", 
+                "jabatan" : "Staff KWU", # 5
+            },
+            {
+                "nama": "Ahmad Rizqi",
+                "nim": "122450138",
+                "umur": "20",
+                "asal": "Bukitting",
+                "alamat": "Airan 1",
+                "hobbi": "Badminton",
+                "sosmed": "@ahmad.ris45",
+                "kesan": "Abang pendiem dan kalem ",
+                "pesan": "Semangat bang kuliahnyaa", 
+                "jabatan" : "Staff KWU", # 6
+            },
+            {
+                "nama": "Tessa Kania Sagala",
+                "nim": "122450040",
+                "umur": "20",
+                "asal": "Simalungun",
+                "alamat": "Pemda",
+                "hobbi": "Menulis",
+                "sosmed": "@tesakanias",
+                "kesan": "Kakak orangnya ramah adan ceria ",
+                "pesan": "Semangat kak kuliah dan organisasinya", 
+                "jabatan" : "Staff KWU", # 7
+            },
+            {
+                "nama": "Nabilah Andika Fitriati",
+                "nim": "121450139",
+                "umur": "20",
+                "asal": "Kedaton",
+                "alamat": "Kedaton",
+                "hobbi": "Tidur",
+                "sosmed": "@nabilahanftr",
+                "kesan": "Kece abiezz jadi kadiv sponshorhip",
+                "pesan": "Semangat kak, terutama buat nyariin sponsor buat acara HMSD kita", 
+                "jabatan" : "Kepala Divisi Sponsorship", # 8
+            },
+            {
+                "nama": "Elia Meylani Simanjuntak",
+                "nim": "122450026",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Korpri",
+                "hobbi": "Main Alat Musik",
+                "sosmed": "@meylanielia",
+                "kesan": "Kakak orangnya seru keknya",
+                "pesan": "Semangat kak menjalani kegiatannya", 
+                "jabatan" : "Staff sponsor", # 9
+            },
+            {
+                "nama": "Dhafin Razaqa Luthfi",
+                "nim": "122450133",
+                "umur": "20",
+                "asal": "Bandar Lampung",
+                "alamat": "Jl. Nangkal",
+                "hobbi": " Olahraga",
+                "sosmed": "@dhafinrzqa13",
+                "kesan": "Abang kalem yah?",
+                "pesan": "Woop semangatt bang kuliahnya", 
+                "jabatan" : "Staff sponsor", # 10
+            },
+           
+           
+
+        ]
+        display_images_with_data(gambar_urls, data_list)
+
+    SSD()
+elif menu == "MedKraf":
+
+    def medkraf():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=",
+        ]
+        data_list = [
+            {
+                "nama": "Wahyudiyanto",
+                "nim": "121450040",
+                "umur": "22",
+                "asal": "Makassar",
+                "alamat": "Sukarame",
+                "hobbi": "Nonton",
+                "sosmed": "",
+                "kesan": "Keren banget bang orang jauh",
+                "pesan": "Semangat kuliahnya dan kegiatan di Medkrafnya",
+                "jabatan" : "Kepala Departemen", #1
+            },
+            {
+                "nama": "Elok Fiola",
+                "nim": "122450051",
+                "umur": "19",
+                "asal": "Bandar Lampung",
+                "alamat": "Bandar Lampung",
+                "hobbi": "Editing",
+                "sosmed": "@elokfiola",
+                "kesan": "keren banget kak hobinya editing",
+                "pesan": "Semangat terus deh kak berkaryanya", 
+                "jabatan" : "Sekretaris", # 2
+            },
+            {
+                "nama": "Arsyiah Azahra",
+                "nim": "121450035",
+                "umur": "21",
+                "asal": "Bandar Lampung",
+                "alamat": "Tanjung Senang",
+                "hobbi": "Nugas",
+                "sosmed": "@arsyiah._",
+                "kesan": "Kak hobi kita sama hehehe",
+                "pesan": "Semangat kak mengemban tugasnya", 
+                "jabatan" : "Kepala Divisi Media & Konten", # 3
+            },
+            {
+                "nama": "Muhammad Kaisar Firdaus ",
+                "nim": " 121450135",
+                "umur": "21",
+                "asal": "Pesawaran",
+                "alamat": "Pulau Damar",
+                "hobbi": "Lagi Nyari",
+                "sosmed": " @dino_kiper",
+                "kesan": "Abang orangya asyik dan lucu",
+                "pesan": "Semangat bang kuliahnya, dan kabarin kalo dah dapet hobinya xixi", 
+                "jabatan" : "Kepala Divisi PDD", # 4
+            },
+            {
+                "nama": "Muhammad Arsal Ranjana Putra",
+                "nim": "121450111",
+                "umur": "21",
+                "asal": "Depok",
+                "alamat": "Nangka 4",
+                "hobbi": "Ngoding",
+                "sosmed": "@arsal.utama",
+                "kesan": "Kecee gada obat hobi ngoding+kadiv Visual Desain",
+                "pesan": "Semangat bang ngodingnya", 
+                "jabatan" : "Kepala Divisi Visual Desain", # 5
+            },
+            {
+                "nama": "Cintya  Bella",
+                "nim": "122450066",
+                "umur": "20",
+                "asal": "Bandar Lampung",
+                "alamat": "Teluk",
+                "hobbi": "Ngegym",
+                "sosmed": "@cintyabella28",
+                "kesan": "Gaya kakak dah cocok banget sebagai Divisi media & konten",
+                "pesan": "Semangat kak kuliahnya, dan semangat juga buat kontennya hihi", 
+                "jabatan" : "Anggota Divisi Media & Konten", # 6
+            },
+            {
+                "nama": "Eka Fidiya Putri",
+                "nim": " 122450045",
+                "umur": "20",
+                "asal": "Natar, Lampung Selatan",
+                "alamat": "Natar, Lampung Selatan",
+                "hobbi": "Menyibukkan Diri",
+                "sosmed": "@ekafdyaptri",
+                "kesan": "Kakak kayanya tipe orang yang suka banget berorganisasi",
+                "pesan": "Semangat dan jangan lupa istirahat di tengah kesibukannya ya kak", 
+                "jabatan" : "Anggota Divisi Media & Konten", # 7
+            },
+            {
+                "nama": "Najla Juwairia",
+                "nim": "122450037",
+                "umur": "19",
+                "asal": "Sumatra Utara",
+                "alamat": "Airan",
+                "hobbi": "Menulis, Membaca, fangirling",
+                "sosmed": "@nanana_minjoo",
+                "kesan": "Hobinya sangat bermanfaat sekali",
+                "pesan": "Semangat terus kak", 
+                "jabatan" : "Anggota Divisi Media & Konten", # 8
+            },
+            {
+                "nama": "Patricia Leondra Diajeng Putri ",
+                "nim": "122450050",
+                "umur": "20",
+                "asal": "Bandar Lampung",
+                "alamat": "Jatimulyo",
+                "hobbi": "Nonton Film",
+                "sosmed": "@patriciadiajeng",
+                "kesan": "suka banget sama kaka, ceria dan ramah banget",
+                "pesan": "Tetap semangat yah ka, terus ceria dan ramah selalu", 
+                "jabatan" : "Anggota Divisi Media & Konten", # 9
+            },
+            {
+                "nama": "Rahma Neliyana",
+                "nim": "122450036",
+                "umur": "20",
+                "asal": "Lampung",
+                "alamat": "Sukarame",
+                "hobbi": "Baca Coding",
+                "sosmed": "@rahmanellyana",
+                "kesan": "Kece parah hobinya, sepuh coding nih ya kak?",
+                "pesan": "Semangat kak kuliahnya", 
+                "jabatan" : "Anggota Divisi Media & Konten", # 10
+            },
+            {
+                "nama": "Try Yani Rizki Nur Rohmah ",
+                "nim": "122450020",
+                "umur": "20",
+                "asal": "Lampung Barat",
+                "alamat": "Korpri",
+                "hobbi": "Bernyanyi dan Menonton",
+                "sosmed": "@tryyaniciaaa",
+                "kesan": "Dari hobinya kayaknya kakak orangnya asyik",
+                "pesan": "Semangat kakk", 
+                "jabatan" : "Anggota Divisi Media & Konten", # 11
+            },
+            {
+            "nama": "Dwi Ratna Anggraeni",
+                "nim": "122450008",
+                "umur": "20",
+                "asal": "Jambi",
+                "alamat": "Jalan Durian 5 Pemda",
+                "hobbi": "",
+                "sosmed": "@dwiratnn_",
+                "kesan": "Kakak keliatan kalem hehe ",
+                "pesan": "Semangat terus kak kegiatan di PDD nya", 
+                "jabatan" : "Anggota Divisi PDD", # 12
+            },
+            {
+                "nama": "Gymnastiar Al Khoarizmy",
+                "nim": "122450096",
+                "umur": "20",
+                "asal": "Serang",
+                "alamat": "Lapangan Golf UIN",
+                "hobbi": "Baca Komik",
+                "sosmed": "@jimnn.as",
+                "kesan": "Keliatan suhunya hehe",
+                "pesan": "semangat terus kak menjalankan kegiatannya", 
+                "jabatan" : "Anggota Divisi PDD", # 13
+            },
+            {
+                "nama": "Nasywa Nur Afifah ",
+                "nim": "122450125",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Jalan Durian 1 Pemda",
+                "hobbi": "Nonton Drakor",
+                "sosmed": "@nsywanaf",
+                "kesan": "kakak baik dan ramah",
+                "pesan": "Semangat kak kuliahnyaa", 
+                "jabatan" : "Anggota Divisi PDD", # 14
+            },
+            {
+                "nama": "Abit Ahmad Oktarian",
+                "nim": "122450042",
+                "umur": "19",
+                "asal": "Bandar Lampung",
+                "alamat": "Rajabasa, Labuhan Dalam",
+                "hobbi": "Ngoding, Gaming",
+                "sosmed": "@abitahmad",
+                "kesan": "Abang seru nih keknya orangnya",
+                "pesan": "Semangat terus yah bang", 
+                "jabatan" : "Anggota Divisi Visual Desain", # 15
+            },
+             {
+                "nama": "Akmal Faiz Abdillah",
+                "nim": "122450114",
+                "umur": "20",
+                "asal": "Bandar Lampung",
+                "alamat": "Perumahan Griya Sukarame",
+                "hobbi": "Main HP",
+                "sosmed": "@_akmal.faiz",
+                "kesan": "Sangat terlihat kalo abang sepuh coding hehe",
+                "pesan": "Semangat terus bang", 
+                "jabatan" : "Anggota Divisi Visual Desain", # 16
+            },
+             {
+                "nama": "Hermawan Manurung ",
+                "nim": "122450069",
+                "umur": "20",
+                "asal": "Bogor",
+                "alamat": "Dekat Jalan Tol (Wisma Hana Hani) ",
+                "hobbi": "Bengong/Membaca Buku",
+                "sosmed": "@hermawan.mnrng",
+                "kesan": "Abang asprak yang sangat baik dan rajin",
+                "pesan": "Jangan cape ya bang ngasprak kami", 
+                "jabatan" : "Anggota Divisi Visual Desain", # 17
+            },
+             {
+                "nama": "Khusnun Nisa",
+                "nim": "122450078",
+                "umur": "20",
+                "asal": "Lampung Selatan",
+                "alamat": "Belwis",
+                "hobbi": "Mengerjakan Tugas",
+                "sosmed": "@khusnun_nisa335",
+                "kesan": "Sudah terlihat kalo kakak sangat rajin dan pintar",
+                "pesan": "Semangat dan jaga kesehatan kak", 
+                "jabatan" : "Anggota Divisi Visual Desain", # 18
+            },
+             {
+                "nama": "Priska Silvia Ferantiana",
+                "nim": "122450053",
+                "umur": "20",
+                "asal": "Palembang",
+                "alamat": "Jalan Nangka 2",
+                "hobbi": "Baca Novel yang Bikin Nangis",
+                "sosmed": "@prskslv",
+                "kesan": "Kakak orangnya ramah",
+                "pesan": "Jangan kebanyakan nangis yah kak hehe", 
+                "jabatan" : "Anggota Divisi PDD", # 19
+            },
+
+        ]
+        display_images_with_data(gambar_urls, data_list)
+
+    medkraf()
