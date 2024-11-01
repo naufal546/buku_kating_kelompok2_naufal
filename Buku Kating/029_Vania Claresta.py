@@ -91,7 +91,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Sosial Media: {data_list[i]['sosmed']}")
             st.write(f"Kesan: {data_list[i]['kesan']}")
             st.write(f"Pesan: {data_list[i]['pesan']}")
-            st.write("  ")
+            st.write(f"Jabatah: {data_list[i]['jabatan']}")
     st.write("Semua gambar telah dimuat!")
 menu = streamlit_menu()
 
@@ -915,7 +915,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1_9BVd38ynoY4Uk_OQG9a2AWNYAhk2tbj",
             "https://drive.google.com/uc?export=view&id=1_0CP9eInfa0uJmoXiBRVVQ7WxqaGa1Q0",
             "https://drive.google.com/uc?export=view&id=1_PjP5UXSVDVhKpdPsRkgkmot8dO_it2m",
-            "https://drive.google.com/uc?export=view&id=1JRGMuI4t4OpS0quahe3g71vNhT4mtwdW",#bg bastian
+            "https://drive.google.com/uc?export=view&id=1mOqy2mC2EB2QbuoONoPZtlJbMjWyWRT4",#bg bastian
             "https://drive.google.com/uc?export=view&id=1_Aktn-WwiJqAaHVMxSBSxhxW4EkZCICi",
             "https://drive.google.com/uc?export=view&id=1_TdGNBjl8HkS7ecvnCbz84J15HLp44PD",
             "https://drive.google.com/uc?export=view&id=1_XYAOnrsUaGXRqcJPeYgSC9t_b_MjWP4",
@@ -1637,17 +1637,27 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen Medkraf":
     def medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1bLnUzRxt67Q78FR1u3i7O2QGrDwK8FEy",#andrian
-            "https://drive.google.com/uc?export=view&id=1bTKepx_Xxw9Qy8TaY9RSfCt-D1ymdfHb",#adisty
-            "https://drive.google.com/uc?export=view&id=1bbFMqoTeFNtdK1ZsrgAjhq_bd9qhaeRL",#nabila
-            "https://drive.google.com/uc?export=view&id=1bP35JHNBGYEkkc_1DeUIn_rGx0TgojJ2",#danang
-            "https://drive.google.com/uc?export=view&id=1bQWq4FWTK9g9_eZ4dj1t96R4n4Qb2Ec6",#farel
-            "https://drive.google.com/uc?export=view&id=1bmSiZv1S3u1Z5-S5uDjgoGMrHl4P62Oq",#ahmad
-            "https://drive.google.com/uc?export=view&id=1bZavJjxS_W9sAZLk3_rbBd5mvk_cAC5S",#tessa
-            "https://drive.google.com/uc?export=view&id=1bOQF0SS03qIEkOJfpOlks0rhFtf963hK",#nabilah
-            "https://drive.google.com/uc?export=view&id=1bn76jsgkqxerbn11WPnb_4NDG-puxqpV",#elia
-            "https://drive.google.com/uc?export=view&id=1bmwsww7nVHUpROTwL7oPwp0fANq6btC4",#dhafin done
-        ]
+            "https://drive.google.com/uc?export=view&id=1blOf3tY9iyGXPDca8xW20BDEmjoGDP_A",#1
+            "https://drive.google.com/uc?export=view&id=1beDrHdXq-7P4OKQ-MVgTGQ_I6XDUIA9R",#2
+            "https://drive.google.com/uc?export=view&id=1bWPFB9_emzwZDzqGhXYbx82HPy_ft88r",#3
+            "https://drive.google.com/uc?export=view&id=1bZbliVI_v6BeTp1gl3jxGCiWttzCl9Eo",#4
+            "https://drive.google.com/uc?export=view&id=1bZ690ca3mUqtjexumKPt3Taz_txemLof",#5
+            "https://drive.google.com/uc?export=view&id=1bd6R-9fySzykFepSho5ASffZ0OdI4A5e",#6
+            "https://drive.google.com/uc?export=view&id=1bQgJWdovgTEGeSqPWoCLu69QD4AR0zCp",#7
+            "https://drive.google.com/uc?export=view&id=1bJwsRUEaxerRUoxFxWgy8vUe1P_hSLb7",#8
+            "https://drive.google.com/uc?export=view&id=1bW-qI6PeONeeJkJO0hRFAreJ8vwJPMYM",#9
+            "https://drive.google.com/uc?export=view&id=1bbHzYhQka0mC7dSMqsUkUfs59byXB5ym",#10
+            "https://drive.google.com/uc?export=view&id=1biFKje3WWkK8x32VlXfWVPrTz_aGD8i4",#11
+            "https://drive.google.com/uc?export=view&id=1b_FeCbO4YqbarmYWvwAmIWoVxTZrrBHr",#12
+            "https://drive.google.com/uc?export=view&id=1bK7v8-YmQO4OclnF6X0TqRq97YO78ZUW",#13
+            "https://drive.google.com/uc?export=view&id=1bJ1eZVOYP1q58a6ET_4FyRoJbC1J--Xi",#14
+            "https://drive.google.com/uc?export=view&id=1bZSzBP5poh0MgXY-a6TFVNXnDVwrIhO4",#15
+            "https://drive.google.com/uc?export=view&id=1bLjMw3qxCf9N7lFVbDZ2NU4yhghCYNe2",#16
+            "https://drive.google.com/uc?export=view&id=1bPVxXeAcYR66jxThC37-cLmB3AA_CluG",#17
+            "https://drive.google.com/uc?export=view&id=1bR5vNp5XoxTKpnAKoyir6OseGL5qu-i3",#18
+            "https://drive.google.com/uc?export=view&id=1baDN2eQlJURqnVWY92_qLMaL7vSHmUdx",#19done
+        
+        ]   
         data_list = [
             {
                 "nama": " Wahyudiyanto",
@@ -1859,7 +1869,7 @@ elif menu == "Departemen Medkraf":
                 "umur": "20",
                 "asal":"Bogor",
                 "alamat": "Dekat Jalan Tol (Wisma Hana Hani)",
-                "hobbi": "MBengong/Membaca Buku",
+                "hobbi": "Bengong/Membaca Buku",
                 "sosmed": "@hermawan.mnrng",
                 "kesan": "LinkeIn nya bagus banget bang, abangnya juga lucu dan asik ",  
                 "pesan":"bahagia terus bang, lancar kuliahnya bang, jangan lupa berbagi ilmu ya bang",
