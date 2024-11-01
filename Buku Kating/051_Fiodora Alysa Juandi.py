@@ -643,16 +643,6 @@ elif menu == "Departemen SSD":
 
     def SSD():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=14CRsEAnyRsx6QSb6tlS-bhxMOna7u714",
-            "https://drive.google.com/uc?export=view&id=1C9eU6NlRo5kLf7c8_rk1P49-m4DGOjPj",
-            "https://drive.google.com/uc?export=view&id=1Vp-Km3gFIIooGayGHzdcB4_IGjn0hegD",
-            "https://drive.google.com/uc?export=view&id=1KwG3u92jFYjW_wsJvuKlMRWZ5uJMVjNG",
-            "https://drive.google.com/uc?export=view&id=1fCtbfEbWqNTGHNFH7U1qfRacYdJ4ILwN",
-            "https://drive.google.com/uc?export=view&id=1N_JX3KDcMAnliVGCg2BH8VKKtsw1hS9Q",
-            "https://drive.google.com/uc?export=view&id=1nBaKSxkcL6YMh7wXggngGGNg7a2oGocS",
-            "https://drive.google.com/uc?export=view&id=1eSMX5MsLuCxLIvVty49S8OUdanvVoOWQ",
-            "https://drive.google.com/uc?export=view&id=1_jfGkB292b67Tn30qeE941qfigvnOfpM",
-            "https://drive.google.com/uc?export=view&id=1lAeh7KVWCN4ulZDxBYdYk2V-MDB9VoCD",
             "https://drive.google.com/uc?export=view&id=1mMb9JSDLeze6qudPfMWPW-NV9msWGsqJ",
             "https://drive.google.com/uc?export=view&id=1upOiVJBc1rED7sEfG1D4F11HfMWngLYt",
             "https://drive.google.com/uc?export=view&id=16wNCsus9_2NvnVPrVMbhKiW28JeOIeMJ",
