@@ -4,9 +4,7 @@ import requests
 from PIL import Image, ImageOps
 from io import BytesIO
 
-st.markdown(
-    """<style>.centered-title {text-align: center;}</style>""", unsafe_allow_html=True
-)
+st.markdown("""<style>.centered-title {text-align: center;}</style>""", unsafe_allow_html=True)
 st.markdown("<h1 class='centered-title'>BUKU KATING</h1>", unsafe_allow_html=True)
 
 
@@ -97,7 +95,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Kesan: {data_list[i]['kesan']}")
             st.write(f"Pesan: {data_list[i]['pesan']}")
             st.write(f"Jabatan: {data_list[i]['jabatan']}")
-            st.write("  ")
+    
     st.write("Semua gambar telah dimuat!")
 
 
