@@ -1335,6 +1335,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Khobam",
                 "hobbi": "Travelling",
                 "sosmed": "@ericsonchandra99",
+
                 "kesan": "Keren banget bang",
                 "pesan": "Semangat bang, semoga aku bisa keren kayak abang",
                 "jabatan" : "Kepala Departemen PSDA", #1
@@ -1347,7 +1348,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kemiling",
                 "hobbi": "Bernafas",
                 "sosmed": "@celisabethh_",
-                "kesan": "Asik banget kakanya, lucu juga",
+                "kesan": "Asik kakaknya",
                 "pesan": "Semangat kuliahnya kak, jangan lupa istirahat", 
                 "jabatan" : "Sekretaris Departemen PSDA", # 1
             },
@@ -1583,8 +1584,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1bCvsAxeNgW-GUbgXLADyJ-gvYUf6mGcL",
             "https://drive.google.com/uc?export=view&id=1bGU2BDbpHuTZzSP9FfmWSi22geTIgD-7",
             "https://drive.google.com/uc?export=view&id=1l-LXZsnc6ECRMOE-g769MsVgTwmwvxhg",
-            "https://drive.google.com/uc?export=view&id=1k1Kfa4kjRH3iJcVgbmEwOOKIqrhMs56l",
-            
+            "https://drive.google.com/uc?export=view&id=1k1Kfa4kjRH3iJcVgbmEwOOKIqrhMs56l",  
         ]
         data_list = [
             {
@@ -1753,6 +1753,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@u_yippy",
                 "kesan": "Kakaknya ramah dan cocok sekali di pengmas",
                 "pesan": "Tetap jadi orang yang ramah kak", 
+
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
              {
