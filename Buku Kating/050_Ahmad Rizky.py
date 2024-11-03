@@ -1839,18 +1839,18 @@ elif menu == "Departemen Internal":
 
     def internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1SpAbMWNAPpbgHs4WZB8AWzTNs28eoeM-",
-            "https://drive.google.com/uc?export=view&id=1ScTDpJxwb4wLXaDG3tCzATVbH0uLbKJv",
-            "https://drive.google.com/uc?export=view&id=1SViPEu60uBbJ7y6g9VM6OOqMjlXutFTy",
-            "https://drive.google.com/uc?export=view&id=1St89jog7IcptOPqp9wvD5Sd3-M3125kf",
-            "https://drive.google.com/uc?export=view&id=1Sh2UsKZ2NA5WBRT563zWVVJDoF9xTJwr",
-            "https://drive.google.com/uc?export=view&id=1Szm19LsiqqhaEYn2boTYBAafedvJtxaB",
-            "https://drive.google.com/uc?export=view&id=1SoFyXbX_mu1cgcJw66kiGjhYZfWIpug6",
-            "https://drive.google.com/uc?export=view&id=1SbbAvUsR5aLDLA3QX7kQoHe1BSiyE_4t",
-            "https://drive.google.com/uc?export=view&id=1SUhy2UR5Fp_D_d-VKkdPhuNHM0HT7B6Q",
-            "https://drive.google.com/uc?expor t=view&id=1Scgets7laqQYzMVSh6pnSd81RVCUAZ67",
-            "https://drive.google.com/uc?export=view&id=1ShsRcE93jy-pcx_bVAlOZtuOjFdFbUE8",
-            "https://drive.google.com/uc?expor t=view&id=1SlwNCnl_R17LhZw2WQJ7iubdE197-t4n",
+            "https://drive.google.com/uc?export=view&id=1Rg345d2ZEybAlEna5wJYvwuhdPKLezQc",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy",
+            "https://drive.google.com/uc?export=view&id=1RKS1KkKWgMxxRvALBoqInc4OEPJfsrm_",
+            "https://drive.google.com/uc?export=view&id=1RYNsTHqUeF8-2GKGrUSALX759NUc7BPa",
+            "https://drive.google.com/uc?export=view&id=1Rf2SZBu8gdJBE-2UlkP5Osb_D_S2pZF-",
+            "https://drive.google.com/uc?export=view&id=1RLDxipxtDuRehNQrnGB62Q8czQFJeByS",
+            "https://drive.google.com/uc?export=view&id=1RjZ9o7vujeJkrAGHtKkvv2f2f6VfNfg2",
+            "https://drive.google.com/uc?export=view&id=1RCzjBg5kU_iuQoQ4e03LttWBd2K_qlzY",
+            "https://drive.google.com/uc?export=view&id=1RRvH1eVafucFCarPRSzfT2b0omKblvSb",
+            "https://drive.google.com/uc?expor t=view&id=1R_fYwIce8T0sMkpZrqJkhOhPYM2QrtGD",
+            "https://drive.google.com/uc?export=view&id=1RfbJpKxfn9AQjlR-Dq8qY-coteUs2iQ6",
+            "https://drive.google.com/uc?expor t=view&id=1RftVXpF5R6UkFAJx8NNTnWqBLAMzZsdr",
             
         ]
         data_list = [
@@ -1862,8 +1862,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Way Kandis (Kobam)",
                 "hobbi": "menunggu ayam jantan bertelur",
                 "sosmed": "@dimzrky_",
-                "kesan": "Keren banget bang, cara menjawab pertanyaanya bagus banget",
-                "pesan": "Selalu jadi orang yang rendah hati bang walaupun ntar udah sukses",
+                "kesan": "always amazed dengan cara bicara dan diksinya",
+                "pesan": "Kita usahakan mimpi itu yoo bang",
                 "jabatan" : "Kepala Departemen Internal", #1
             },
             {
@@ -1874,8 +1874,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Baca Novel",
                 "sosmed": "@cathrine.sinaga",
-                "kesan": "Baik sekali kakanya ramah banget juga",
-                "pesan": "Tetap jadi orang yang baik ya kak", 
+                "kesan": "keren banget ka",
+                "pesan": "Next minta saran novel yang bagus ya kaaa", 
                 "jabatan" : "Sekretaris Departemen Internal", # 1
             },
             {
@@ -1886,8 +1886,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Pasaruntung",
                 "hobbi": "Mengoleksi Dino",
                 "sosmed": "@akbar_restika",
-                "kesan": "Ramah banget bang",
-                "pesan": "Boleh minta satu gak bang dinonya", 
+                "kesan": "rame banget rumahnya mesti",
+                "pesan": "Favorit saya Triceratop bang, adu kuyyy", 
                 "jabatan" : "Kepala Divisi Keharmonisasian", # 1
             },
             {
@@ -1898,8 +1898,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Gerbang Barat",
                 "hobbi": "Membaca dan Memancing",
                 "sosmed": "@renita.shn",
-                "kesan": "Baik dan kalem sekali kakanya",
-                "pesan": "Ajakin aku dong kak kalo mancing, tapi aku bisanya mancing amarah", 
+                "kesan": "Seru kakaknya",
+                "pesan": "Infokan spot mancing di itera selain mancing stress", 
                 "jabatan" : "Staff Keharmonisasian", # 1
             },
             {
@@ -1910,8 +1910,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Nonton",
                 "sosmed": "@slwfhn_694",
-                "kesan": "Ramah kakaknya, cocok banget di keharmonisasian",
-                "pesan": "Sukses selalu dalam segala hal kak", 
+                "kesan": "Vibes harmonisnya keliatan betu;",
+                "pesan": "Nonton film perfect days deh kaa, seruu soalnya", 
                 "jabatan" : "Staff Keharmonisasian", # 1
             },
             {
@@ -1922,8 +1922,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Jl. Lapas Raya",
                 "hobbi": "Menulis lagu",
                 "sosmed": "@rendraepr",
-                "kesan": "Pinter abangnya",
-                "pesan": "Tetap pertahankan akademiknya bang", 
+                "kesan": "Share ilmunya nggak nanggung-nanggung",
+                "pesan": "Semoga bisa bersinergi teruss yoo banggg", 
                 "jabatan" : "Staff Keharmonisasian", # 1
             },
             {
@@ -1934,8 +1934,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Perum Griya Indah",
                 "hobbi": "Nungguin ayam betina berkokok",
                 "sosmed": "@yosiabanurea",
-                "kesan": "Keren banget bang, selalu menjawa pertanyaan kami dengan baik",
-                "pesan": "Jangan lupa semangat bang", 
+                "kesan": "Jago futsalnyaa",
+                "pesan": "Gaskeunn terus sampe futsal data juara!!", 
                 "jabatan" : "Staff Keharmonisasian", # 1
             },
             {
@@ -1946,8 +1946,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Labuhan Ratu",
                 "hobbi": "Futsal",
                 "sosmed": "@ari_sigit17",
-                "kesan": "Keren banget bang pasti jago main futsal",
-                "pesan": "Semangat bang menjalani hari-harinya yang walau terkadang berat", 
+                "kesan": "vibes kapten",
+                "pesan": "Jangan gentar ya pak kaptenn", 
                 "jabatan" : "Kepala Divisi Kerohanian", # 1
             },
             {
@@ -1958,8 +1958,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Gerbang Barat",
                 "hobbi": "Ngejokes",
                 "sosmed": "@josuapanggabean_",
-                "kesan": "Baik dan ramah abangnya",
-                "pesan": "Beri aku satu jokes bang, aku ingin tertawa", 
+                "kesan": "Keliatan suka bercandanya",
+                "pesan": "kenapa ayam menyebrang jalan bang? Karena ingin sampai ke sebarang jalan. Semangat MSS nya banggg", 
                 "jabatan" : "Staff Kerohanian", # 1
             },
             {
@@ -1970,8 +1970,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Natar",
                 "hobbi": "Berkebun",
                 "sosmed": "@azizahksma15",
-                "kesan": "Asik dan kalem kakaknya",
-                "pesan": "Bahagia selalu kak", 
+                "kesan": "coolll",
+                "pesan": "Saya suka bunga kaa, infokan kalo misal nemu bibit bagus yakk", 
                 "jabatan" : "Staff Kerohanian", # 1
             },
              {
@@ -1982,8 +1982,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Nonton",
                 "sosmed": "@meirasty_",
-                "kesan": "Kakaknya kalem dan baik",
-                "pesan": "Semoga kakak selalu diberi kesehatan", 
+                "kesan": "seru betull kakaknya",
+                "pesan": "Coba nonton drive my cay deh kakkk, seru betull", 
                 "jabatan" : "Staff Kerohanian", # 1
             },
              {
@@ -1994,8 +1994,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Kost Benawang",
                 "hobbi": "Berenang di Laut",
                 "sosmed": "@rexander",
-                "kesan": "Asik dan baik sekalii abang daplokku satu ini",
-                "pesan": "Semangat terus bang Rendi, jangan lupa bahagia", 
+                "kesan": "ramah dan rasa pedulinya tinggi",
+                "pesan": "Terimakasih yang bang rendi untuk semua hal yang telah, sedang, dan akan bang rendi lakukan untuk kami. Semoga Tuhan Yang Maha Esa terus memberkati", 
                 "jabatan" : "Staff Kerohanian", # 1
             },
 
