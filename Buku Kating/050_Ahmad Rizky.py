@@ -1911,8 +1911,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Nonton",
                 "sosmed": "@slwfhn_694",
-                "kesan": "Ramah kakaknya, cocok banget di keharmonisasian",
-                "pesan": "Sukses selalu dalam segala hal kak", 
+                "kesan": "Vibes harmonisnya keliatan betul",
+                "pesan": "Nonton film perfect days deh kaa, seruu soalnya", 
                 "jabatan" : "Staff Keharmonisasian", # 1
             },
             {
