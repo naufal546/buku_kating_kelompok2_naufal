@@ -1840,7 +1840,7 @@ elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1Rg345d2ZEybAlEna5wJYvwuhdPKLezQc",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1RKS1KkKWgMxxRvALBoqInc4OEPJfsrm_",
             "https://drive.google.com/uc?export=view&id=1RYNsTHqUeF8-2GKGrUSALX759NUc7BPa",
             "https://drive.google.com/uc?export=view&id=1Rf2SZBu8gdJBE-2UlkP5Osb_D_S2pZF-",
