@@ -879,8 +879,8 @@ elif menu == "Senator":
 
     def Senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=197hrUHTOUTjiLq6uyIIi-GNhZQDLi836",
+            "https://drive.google.com/uc?export=view&id=1TYv56gHD-VzRxzP3GXlVBjERdp0BRYWW",
         ]
         data_list = [
             {
@@ -893,7 +893,7 @@ elif menu == "Senator":
                 "sosmed": "@annisalutfi_",
                 "kesan": "Lucu kakaknya",
                 "pesan": "Semangat ya ka, kalo cape, baca aja pesan-pesan dari kami",
-                "jabatan": " Senator",
+                "jabatan": "Senator",
             },
             {
                 "nama": "Rian Bintang Wijaya",
@@ -905,7 +905,7 @@ elif menu == "Senator":
                 "sosmed": "@bintangtwinkle",
                 "kesan": "Kece betull",
                 "pesan": "Semangat kejar mimpinya bangg", 
-                "jabatan": " Tim Senator",
+                "jabatan": "Tim Senator",
             },
            
         ]
