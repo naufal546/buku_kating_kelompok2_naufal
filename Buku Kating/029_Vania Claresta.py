@@ -193,7 +193,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1S7Qu4n_ydXrbDdOqpEAGI6F3UsxmUjVQ",
             "https://drive.google.com/uc?export=view&id=1S2cFo5n-_6C326oF9yZ0xM8qsbuzYiIZ",
             "https://drive.google.com/uc?export=view&id=1RoD9Rw3Cx3TX177hJ0oS4n-w7YToaQuH",
-            "https://drive.google.com/uc?export=view&id=1RxceoRKV4MwZlwBAp00KIfrolT5QmSx8.",
+            "https://drive.google.com/uc?export=view&id=1RxceoRKV4MwZlwBAp00KIfrolT5QmSx8",
             "https://drive.google.com/uc?export=view&id=1S94CLhb6mpVKNdt7c-xKL5LKdqIxsXYi",
             "https://drive.google.com/uc?export=view&id=1RzVDxd9Q93M25RNnKeAIYbvvTPiFZhAZ",
             "https://drive.google.com/uc?export=view&id=1Rsdgrq5kM0MMzanD2yqwJvYiodAx-LcY",
@@ -400,7 +400,7 @@ elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1eAKSz7fEbxr75ZaIoE1YPnVrvWAlIafl",#ericson
-            "https://drive.google.com/uc?export=view&id=eCDWwhsnMaWBMIC3J5hVnLLWhE5AfVHM",#elisabeth
+            "https://drive.google.com/uc?export=view&id=1eCDWwhsnMaWBMIC3J5hVnLLWhE5AfVHM",#elisabeth
             "https://drive.google.com/uc?export=view&id=1e8QC5AevsnwgYZ9YtMauDldeL_DUJPSS",#devyan
             "https://drive.google.com/uc?export=view&id=1dx2Dmex5iVknJGvvBv3uqtpiYfk5mrBU",#nisrina
             "https://drive.google.com/uc?export=view&id=1dukQJSdF3XE4vOhb-xJsNHf_X4u44t5d",#farhan
