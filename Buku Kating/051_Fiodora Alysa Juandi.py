@@ -846,7 +846,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": " Nisrina Nur Afifah",
-                "nim": "122450033",
+                "nim": "122450052",
                 "umur": "19",
                 "asal": "Bekasi",
                 "alamat": "Sukarame",
@@ -1127,7 +1127,7 @@ elif menu == "Departemen MIKFES":
             },
             {
                 "nama": "Syalaisha Andina Putriansyah",
-                "nim": "122450121",
+                "nim": "122450111",
                 "umur": "21",
                 "asal": "Tangerang",
                 "alamat": "Gg Yudhistira",
