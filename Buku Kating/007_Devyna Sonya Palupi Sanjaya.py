@@ -543,7 +543,7 @@ elif menu == "MedKraf":
                 "umur": "20",
                 "asal": "Jambi",
                 "alamat": "Jalan Durian 5",
-                "hobi": "Membaca",
+                "hobbi": "Membaca",
                 "sosmed": "@dwiratnn_",
                 "kesan": "keren sekaliiii kakk, cantikkk",
                 "pesan": "selalu happy yaa kakkk", 
