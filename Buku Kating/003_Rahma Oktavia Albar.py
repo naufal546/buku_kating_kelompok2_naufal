@@ -184,7 +184,6 @@ if menu == "Kesekjenan":
     kesekjenan()
 
 elif menu == "Baleg":
-
     def baleg():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1_WvkQYhb6g10WXTr8BjT7Y-2cpRJgkLB",
@@ -361,7 +360,41 @@ elif menu == "Baleg":
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
+elif menu == "Senator":
 
+    def senator():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1TU0slUYvSBMdX4NL6oTCOcZ9LL0w_GHW",
+            "https://drive.google.com/uc?export=view&id=1D6geIwOyjxqdMi6_PNtT8FyvOIZs08kR",
+        ]
+        data_list = [
+            {
+                "nama": "Annisa Luthfi Alifia",
+                "nim": "121450093",
+                "umur": "22",
+                "asal": "Lampung Tengah",
+                "alamat": "Kost Putri Rahayu",
+                "hobbi": "Dengerin bang Bintang nyanyi",
+                "sosmed": "@annisalutfi_",
+                "kesan": "Kak Annisa bisa jadi humble dan tegas dimomen tertentu, publik speaking kakaknya keren",
+                "pesan": "Jangan lupa bahagia kak",
+                "jabatan" : "Senator", #1
+            },
+            {
+                "nama": "Rian Bintang Wijaya",
+                "nim": "122450094",
+                "umur": "20",
+                "asal": "Palembang",
+                "alamat": "Kota Baru",
+                "hobbi": "Menyanyi",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "Bang Bintang sangat tegas, bijaksana juga",
+                "pesan": "Semangat kuliahnya bang", 
+                "jabatan" : "Tim senator", # 1
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+        senator()
 elif menu == "MedKraf":
 
     def medkraf():
