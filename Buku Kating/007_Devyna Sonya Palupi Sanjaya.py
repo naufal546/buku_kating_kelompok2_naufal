@@ -1553,7 +1553,6 @@ elif menu == "Departemen Internal":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1SPayuX5ufTaESVcDCKvog6tEIC2zGQ9T",
             "https://drive.google.com/uc?export=view&id=1Rwc5rpd_S_XU8a9PKwLG9RU_aeMiGcFv",
-            "https://drive.google.com/uc?export=view&id=1KrzKL7jVTmFHxCHHPcdnFiVNrv3wC0Sg",
             "https://drive.google.com/uc?export=view&id=1S9iFwYMVjQkLTUqsNsw1bQ-Ah5sPbMM-",
             "https://drive.google.com/uc?export=view&id=1SFbNbCMa44TMrktTM_Uj375gGqvRUc7d",
             "https://drive.google.com/uc?export=view&id=1SI1v1ny3FnhQJZTgNZMVxtw1yzfTimDJ",
