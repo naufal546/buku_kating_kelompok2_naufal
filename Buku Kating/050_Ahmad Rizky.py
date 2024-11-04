@@ -151,7 +151,7 @@ if menu == "Kesekjenan":
                 "asal": "Lampung Utara",
                 "alamat": "Bawean 2",
                 "hobbi": "Main gitar",
-                "sosmed": "@nadillaandr26",
+                "sosmed": "@pndrinsni27",
                 "kesan": "akrab banget sama kahimnya",
                 "pesan": "Semangat main gitarnya ya bang, next bisa request lagi waktu FG", 
                 "jabatan" : "Sekretaris Jendral", # 1
@@ -376,24 +376,24 @@ elif menu == "Departemen MedKraf":
 
     def medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1Wfj7aM86gLGczWCP-BLsTRqOlIpibJgC",
+            "https://drive.google.com/uc?export=view&id=1WWdYTzaTRuwLyA-0cssbP65bWkSqcA4p",
+            "https://drive.google.com/uc?export=view&id=1VnMvtNZNC69vf1UttPH19x4RkD-zeMA8",
+            "https://drive.google.com/uc?export=view&id=1WBVRSkPmawn6ZD-YEO6k4Qm5T3PY2gDN",
+            "https://drive.google.com/uc?export=view&id=1Vih069D7n7KQr3mcsy0r29BPf1x3XI9I",
+            "https://drive.google.com/uc?export=view&id=1WV4xQllwvoT7AA-yRX523Sjx10hIVSpw",
+            "https://drive.google.com/uc?export=view&id=1WdnEPs5Ip5VCwmmIyYuzzSQxKQ-LkhA5",
+            "https://drive.google.com/uc?export=view&id=1WsiR3Z-uHnrbnntZ3zNfwf5PTakH8oOc",
+            "https://drive.google.com/uc?export=view&id=1WRh9G2NLc1sNcbDOrCQbEfNaANEw2ZQc",
+            "https://drive.google.com/uc?export=view&id=1WZKkH8FNMEUfKMKfqDQbji2XcZqzk--H",
+            "https://drive.google.com/uc?export=view&id=1WoPPh5mqkuAWQ2nWvSb9H9zet326E0hk",
+            "https://drive.google.com/uc?export=view&id=1WO-dJl2jjqtvLGhFgovgdhiMg5oH9Yut",
+            "https://drive.google.com/uc?export=view&id=1WJbpyWFVSCccXinQaVgcrbWMZ05AOH_F",
+            "https://drive.google.com/uc?export=view&id=1WAn8oABokV7xUplUoMGVA35rMqle6pqY",
+            "https://drive.google.com/uc?export=view&id=1WHB75laFyBFYrghTpoEcP9eP7ZEBb7ik",
+            "https://drive.google.com/uc?export=view&id=1Weg5Jp6VQZ-I01mkM0xHrk9a45RQlvmI",
+            "https://drive.google.com/uc?export=view&id=1WPDXAYLn4liKz9NQh8bgyxMbQMUBzCrr",
+            "https://drive.google.com/uc?export=view&id=1WPcVTkVu0IqsqMSpj__8lW1pSB4nYYh7",
         ]
         data_list = [
             {
@@ -406,7 +406,7 @@ elif menu == "Departemen MedKraf":
                 "sosmed": "",
                 "kesan": "keren",
                 "pesan": "Semangat ya bangg",
-                "jabatan" : "", #1
+                "jabatan" : "Kepala Departemen MEDKRAF", #1
             },
             {
                 "nama": "Elok Fiola",
@@ -428,8 +428,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Tanjung Senang",
                 "hobbi": "Nugas",
                 "sosmed": "@arsyiah._",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "rajinnyaa",
+                "pesan": "Terus semangat dalam mengerjakan tugas ya kaaa", 
                 "jabatan" : "Kepala Divisi Media & Konten", # 1
             },
             {
