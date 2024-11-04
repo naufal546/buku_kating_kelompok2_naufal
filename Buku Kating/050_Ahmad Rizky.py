@@ -364,9 +364,6 @@ elif menu == "Baleg":
                 "pesan": "semangat terus ya bang dengerin aspirasi-aspirasinya", 
                 "jabatan" : " Anggota Komisi 3 Media Legislatif", # 1
             },
-             
-
-
         ]
         display_images_with_data(gambar_urls, data_list)
 
